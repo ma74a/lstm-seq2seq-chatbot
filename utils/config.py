@@ -3,7 +3,7 @@ from pathlib import Path
 
 class Config:
     # Json data path
-    DATA_PATH = "../data/furniture_chatbot_dataset.json"
+    DATA_PATH = "/home/mahmoud/final_project/lstm-seq2seq-chatbot/data/furniture_chatbot_dataset.json"
     
     # LSTM Model Parameters
     EMBED_SIZE = 256
