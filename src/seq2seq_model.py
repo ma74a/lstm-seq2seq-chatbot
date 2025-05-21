@@ -4,8 +4,11 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 import torch
 import torch.nn as nn
+from torch import Tensor
 
 from typing import Tuple
+
+from utils.config import Config
 
 class Encoder(nn.Module):
     def __init__(self, vocab_size: int,
@@ -34,16 +37,16 @@ class Encoder(nn.Module):
         self.dropout = nn.Dropout(p=dropout)
         
     # input_seq: [batch_size, input_seq]
-    def forward(self, input_ids: torch.Tensor, 
-                      input_len: torch.Tensor) -> Tuple[torch.Tensor, Tuple[torch.Tensor, torch.Tensor]]:
+    def forward(self, input_ids: Tensor, 
+                      input_len: Tensor) -> Tuple[Tensor, Tuple[Tensor, Tensor]]:
         """Forward pass of the encoder with packed padded sequences.
 
         Args:
-            input_ids (torch.Tensor): Input tokens from tokenizer
-            input_len (torch.Tensor): Each input len
+            input_ids (Tensor): Input tokens from tokenizer
+            input_len (Tensor): Each input len
 
         Returns:
-            Tuple[torch.Tensor, Tuple[torch.Tensor, torch.Tensor]]: Outputs, hidden_state, cell_state
+            Tuple[Tensor, Tuple[Tensor, Tensor]]: Outputs, hidden_state, cell_state
         """
         embedding = self.dropout(self.embedding_layer(input_ids))
         
@@ -89,8 +92,18 @@ class Decoder(nn.Module):
         self.fc = nn.Linear(in_features=hidden_size, out_features=vocab_size)
         
     # input_ids: [batch_size, 1]
-    def forward(self, input_ids: torch.Tensor, hidden_state: torch.Tensor,
-                      cell_state: torch.Tensor) -> Tuple[float, Tuple[torch.Tensor, torch.Tensor]]:
+    def forward(self, input_ids: Tensor, hidden_state: Tensor,
+                      cell_state: Tensor) -> Tuple[float, Tuple[Tensor, Tensor]]:
+        """Forward pass for decoder
+
+        Args:
+            input_ids (Tensor): The input of length one
+            hidden_state (Tensor): Hidden state of the encoder
+            cell_state (Tensor): Cell state of the encoder
+
+        Returns:
+            Tuple[float, Tuple[Tensor, Tensor]]: The prediction, Hidden state, Cell state
+        """
         
         # [batch_size, 1, embed_size]
         embedding = self.dropout(self.embedding(input_ids))
@@ -103,3 +116,39 @@ class Decoder(nn.Module):
         predictions = self.fc(outputs)
         
         return predictions, (hidden_state, cell_state)
+    
+    
+class Seq2Seq(nn.Module):
+    def __init__(self, encoder: Encoder, decoder: Decoder) -> None:
+        super().__init__()
+        self.encoder = encoder
+        self.decoder = decoder
+        
+    # input_ids: [batch_size, seq_len]
+    # output_ids; [batch_size, seq_len]
+    def forward(self, input_ids: Tensor, input_len: Tensor,
+                output_ids: Tensor, teacher_forcing_ratio: float) -> Tuple[Tensor, Tensor, Tensor]:
+        batch_size = input_ids.size(0)
+        output_len = output_ids.size(1)
+        vocab_size = Config.VOCAB_SIZE
+        
+        # Tensor to store decoder outputs
+        outputs = torch.zeros(batch_size, output_len, vocab_size).to(Config.DEVICE)
+        
+        encoder_outputs, hidded, cell = self.encoder(input_ids, input_len)
+        
+        # First decoder input is SOS
+        decoder_input = output_ids[:, 0].unsqueeze(0)
+        
+        for t in range(1, output_len):
+            decoder_output = self.decoder(decoder_input, hidded, cell)
+            outputs[:, t:t+1] =decoder_output
+            
+            teacher_force = torch.rand(1).item() < teacher_forcing_ratio
+            top1 = decoder_output.argmax(2)
+            decoder_input = output_ids[:, t].unsqueeze(1) if teacher_force else top1
+        
+        return outputs
+    
+
+    
