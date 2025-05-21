@@ -56,7 +56,32 @@ class ChatbotDataset(Dataset):
         }
         
 def create_data_loader(dataset: ChatbotDataset, batch_size: int) -> DataLoader:
+    """Create dataloader from ChatbotDataset class
+
+    Args:
+        dataset (ChatbotDataset): Object from ChatbotDataset class
+        batch_size (int): The batch size of the data
+
+    Returns:
+        DataLoader: The dataloader we've created
+    """
     def collate_fn(batch: List[Dict[str, torch.Tensor]]) -> Dict[str, torch.Tensor]:
+        """Prepares a batch of variable-length sequences for training by padding them to the same length.
+
+            Args:
+                batch (List[Dict[str, torch.Tensor]]): A list of dictionaries, each containing:
+                    - 'input_ids': tensor of input token IDs
+                    - 'input_len': original length of input sequence
+                    - 'output_ids': tensor of output token IDs
+                    - 'output_len': original length of output sequence
+
+            Returns:
+                Dict[str, torch.Tensor]: A dictionary containing:
+                    - 'input_ids': padded input sequences [batch_size, max_input_len]
+                    - 'output_ids': padded output sequences [batch_size, max_output_len]
+                    - 'input_lengths': original lengths of input sequences
+                    - 'output_lengths': original lengths of output sequences
+            """
         # Get all sequences
         input_ids = [item['input_ids'] for item in batch]
         output_ids = [item['output_ids'] for item in batch]
@@ -91,8 +116,14 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int) -> DataLoader:
     ) 
         
         
-if __name__ == "__main__":
-    d = ChatbotDataset(data_path=Config.DATA_PATH,tokenizer_path=Config.TOKENIZER_PATH)
-    loader = create_data_loader(dataset=d, batch_size=32)
-    first_batch = next(iter(loader))
-    print(first_batch)
+# if __name__ == "__main__":
+#     d = ChatbotDataset(data_path=Config.DATA_PATH,tokenizer_path=Config.TOKENIZER_PATH)
+#     loader = create_data_loader(dataset=d, batch_size=32)
+#     first_batch = next(iter(loader))
+#     # print(first_batch["input_ids"])
+#     first_seq = first_batch["input_ids"][0]
+#     # print(first_seq)
+#     first_seq = first_seq.tolist()
+#     tokenizer = Tokenizer.from_file(str(Config.TOKENIZER_PATH))
+#     decoded = tokenizer.decode(first_seq, skip_special_tokens=True)
+#     print(decoded)
