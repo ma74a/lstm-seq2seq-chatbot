@@ -4263,6 +4263,630 @@
     {
       "input": "What are the best furniture options for a guest bathroom?",
       "output": "For guest bathrooms, choose compact vanities, wall-mounted shelves, and stylish storage baskets. Our 'Guest Bathroom' collection features space-saving and elegant options to impress your visitors."
+    },
+    {
+      "input": "What furniture is best for a rooftop terrace?",
+      "output": "For rooftop terraces, choose lightweight, weather-resistant furniture like aluminum or synthetic wicker. Add modular seating, planters, and outdoor rugs for comfort and style. Our 'Rooftop Living' collection is designed for elevated outdoor spaces."
+    },
+    {
+      "input": "Can you suggest furniture for a home recording studio?",
+      "output": "For a home recording studio, use ergonomic chairs, adjustable desks, and sound-absorbing panels. Include storage for equipment and cable management solutions. Our 'Studio Pro' collection is tailored for musicians and producers."
+    },
+    {
+      "input": "How do I choose furniture for a yoga room?",
+      "output": "For yoga rooms, select minimal furniture: a storage bench for mats, open shelves for props, and soft lighting. Add a full-length mirror and calming decor. Our 'Zen Studio' collection is perfect for wellness spaces."
+    },
+    {
+      "input": "What are the best furniture options for a walk-in closet?",
+      "output": "For walk-in closets, use modular shelving, hanging rods, and drawer units. Add a bench or ottoman for seating and a full-length mirror. Our 'Closet Organizer' collection maximizes storage and style."
+    },
+    {
+      "input": "Can you recommend furniture for a home greenhouse?",
+      "output": "For greenhouses, choose rust-resistant metal tables, potting benches, and storage racks. Add comfortable stools and waterproof mats. Our 'Greenhouse Essentials' collection supports plant care and relaxation."
+    },
+    {
+      "input": "How do I choose furniture for a home spa?",
+      "output": "For home spas, select water-resistant loungers, soft towels, and storage for spa products. Add dimmable lighting and calming decor. Our 'Home Spa' collection brings luxury and relaxation to your space."
+    },
+    {
+      "input": "What furniture is best for a sewing room?",
+      "output": "For sewing rooms, use a sturdy work table, adjustable chair, and storage for fabrics and tools. Pegboards and rolling carts keep supplies organized. Our 'Sewing Studio' collection is designed for crafters."
+    },
+    {
+      "input": "Can you suggest furniture for a home brewing area?",
+      "output": "For home brewing, choose stainless steel tables, shelving for equipment, and bar stools for tasting. Add easy-to-clean flooring and storage for ingredients. Our 'Brewmaster' collection is perfect for hobbyists."
+    },
+    {
+      "input": "How do I choose furniture for a meditation corner?",
+      "output": "For meditation corners, select floor cushions, a low table for candles or incense, and soft lighting. Add calming wall art and plants. Our 'Meditation Space' collection creates a peaceful retreat."
+    },
+    {
+      "input": "What are the best furniture options for a photography studio?",
+      "output": "For photography studios, use adjustable stools, rolling carts for gear, and modular backdrops. Include storage cabinets and comfortable seating for clients. Our 'Photo Studio' collection supports creative work."
+    },
+    {
+      "input": "What furniture is best for a minimalist bedroom?",
+      "output": "For a minimalist bedroom, choose a platform bed, simple nightstands, and a streamlined dresser. Stick to neutral colors and avoid clutter. Our 'Minimalist Bedroom' collection is perfect for this style."
+    },
+    {
+      "input": "Can you suggest furniture for a breakfast bar?",
+      "output": "For a breakfast bar, use counter-height stools with easy-to-clean surfaces. Choose compact designs for small spaces. Our 'Breakfast Bar' collection offers stylish and practical options."
+    },
+    {
+      "input": "How do I choose a recliner for my living room?",
+      "output": "Consider the size of your space, the recliner's mechanism, and upholstery material. Test for comfort and support. Our 'Relax & Recline' collection features a variety of options."
+    },
+    {
+      "input": "What are the best furniture options for a mudroom?",
+      "output": "For mudrooms, use benches with storage, wall hooks, and cubbies for shoes. Durable, easy-to-clean materials are ideal. Our 'Mudroom Solutions' collection keeps entryways organized."
+    },
+    {
+      "input": "Can you recommend furniture for a small guest room?",
+      "output": "For small guest rooms, choose a daybed or a fold-out sofa, wall-mounted shelves, and a compact wardrobe. Our 'Guest Room Essentials' collection maximizes comfort in limited space."
+    },
+    {
+      "input": "How do I choose a dining table for a large family?",
+      "output": "Look for extendable dining tables or large rectangular tables. Sturdy construction and easy-to-clean surfaces are important. Our 'Family Dining' collection has great options for big gatherings."
+    },
+    {
+      "input": "What furniture is best for a cozy reading nook?",
+      "output": "A cozy reading nook needs a comfortable armchair, a small side table, and a good reading lamp. Add a soft throw and cushions for extra comfort."
+    },
+    {
+      "input": "Can you suggest furniture for a hallway?",
+      "output": "For hallways, use slim console tables, wall-mounted coat racks, and narrow benches. Mirrors can help make the space feel larger."
+    },
+    {
+      "input": "How do I choose furniture for a rental apartment?",
+      "output": "Opt for lightweight, modular furniture that's easy to move. Neutral colors and multi-functional pieces work best. Our 'Rental Living' collection is designed for flexibility."
+    },
+    {
+      "input": "What are the best furniture options for a playroom?",
+      "output": "For playrooms, choose soft seating, low tables, and plenty of storage for toys. Durable, easy-to-clean materials are a must."
+    },
+    {
+      "input": "Can you recommend furniture for a formal dining room?",
+      "output": "For formal dining rooms, select a large dining table, upholstered chairs, and a buffet or sideboard. Elegant lighting and a statement rug complete the look."
+    },
+    {
+      "input": "How do I choose a TV stand for my living room?",
+      "output": "Measure your TV and the available space. Look for stands with cable management and storage. Our 'Media Furniture' collection offers a range of styles and sizes."
+    },
+    {
+      "input": "What furniture is best for a shared kids' bedroom?",
+      "output": "Bunk beds, individual storage units, and a shared desk are great for shared kids' rooms. Choose bright colors and sturdy materials."
+    },
+    {
+      "input": "Can you suggest furniture for a sunroom?",
+      "output": "For sunrooms, use wicker or rattan furniture, light fabrics, and plenty of plants. Add a small coffee table for drinks and books."
+    },
+    {
+      "input": "How do I choose a home office chair?",
+      "output": "Look for adjustable height, lumbar support, and breathable fabric. Test for comfort if possible. Our 'Office Comfort' collection has ergonomic options for every workspace."
+    },
+    {
+      "input": "Hey, do you have any tips for making my living room feel bigger?",
+      "output": "Absolutely! Try using light colors, mirrors, and furniture with exposed legs. Keeping things uncluttered and letting in natural light can also help open up the space."
+    },
+    {
+      "input": "I'm bored with my bedroom. Any quick ways to refresh it?",
+      "output": "You could swap out your bedding, add some new throw pillows, or rearrange your furniture. Even a new lamp or some wall art can make a big difference!"
+    },
+    {
+      "input": "What do you think about mixing different chair styles at the dining table?",
+      "output": "Mixing chair styles can look really stylish! Just try to keep a common element, like color or material, so it feels intentional."
+    },
+    {
+      "input": "Is it weird to put a rug under the dining table?",
+      "output": "Not at all! A rug can help define the dining area and add some coziness. Just make sure it's big enough for the chairs to move in and out easily."
+    },
+    {
+      "input": "I want a cozy reading spot. Any ideas?",
+      "output": "Find a quiet corner, add a comfy chair or beanbag, a small table for your tea, and a good lamp. Some soft blankets and a plant or two make it extra inviting!"
+    },
+    {
+      "input": "My entryway always gets messy. How can I keep it tidy?",
+      "output": "Try adding a bench with storage, some hooks for coats and bags, and a tray for shoes. A little organization goes a long way!"
+    },
+    {
+      "input": "Do you think a sectional sofa is a good idea for a small apartment?",
+      "output": "A small sectional can actually work great! Just measure your space carefully and pick one with a low profile or open legs to keep things feeling airy."
+    },
+    {
+      "input": "How do I make my home office feel less boring?",
+      "output": "Add some personal touches like photos, plants, or colorful accessories. Good lighting and a comfy chair can also make a big difference!"
+    },
+    {
+      "input": "Is it okay to use outdoor furniture inside?",
+      "output": "Definitely! Outdoor furniture can be stylish and durable. Just make sure it fits your space and style."
+    },
+    {
+      "input": "I love the look of open shelves, but are they practical?",
+      "output": "Open shelves look great and make things easy to grab, but they do need regular tidying. If you like to keep things organized, they can be a fun choice!"
+    },
+    {
+      "input": "Do you have any ideas for decorating a small balcony?",
+      "output": "Absolutely! Try a couple of folding chairs, a small table, and some string lights. Hanging planters or a vertical garden can add greenery without taking up floor space."
+    },
+    {
+      "input": "What's the best way to organize my closet?",
+      "output": "Start by sorting your clothes by type or season. Use bins for small items, add extra shelves if you can, and consider hanging organizers for shoes and accessories."
+    },
+    {
+      "input": "Can I mix wood tones in the same room?",
+      "output": "Yes! Mixing wood tones can add depth and interest. Try to keep the undertones similar, and use a rug or textiles to tie everything together."
+    },
+    {
+      "input": "How do I make my rental feel more like home?",
+      "output": "Add personal touches like art, throw pillows, and rugs. Removable wallpaper or decals can add color without damaging walls. Plants also help make a space feel cozy!"
+    },
+    {
+      "input": "Is it okay to put a bed in front of a window?",
+      "output": "It's totally fine! Just make sure the headboard is low or open, and use light curtains to keep the space bright. It can actually look really stylish."
+    },
+    {
+      "input": "What's a good way to display family photos?",
+      "output": "Gallery walls are always a hit! You can also use shelves, picture ledges, or even hang photos with clips on a string for a casual look."
+    },
+    {
+      "input": "How do I pick the right size rug for my living room?",
+      "output": "Ideally, your rug should be big enough that at least the front legs of your furniture sit on it. For most living rooms, 5x8 or 8x10 feet works well."
+    },
+    {
+      "input": "What's the best way to clean a fabric sofa?",
+      "output": "Vacuum it regularly, spot clean spills right away, and check the care tag for washing instructions. Some cushion covers are machine washable!"
+    },
+    {
+      "input": "I want to add color to my space but don't want to paint. Any tips?",
+      "output": "Try colorful throw pillows, blankets, rugs, or art. Even a bright vase or lamp can make a big impact without any painting."
+    },
+    {
+      "input": "How do I make my kitchen look more modern?",
+      "output": "Swap out cabinet hardware, add a sleek backsplash, or use open shelving for a fresh look. Modern bar stools and pendant lights can also help update the space."
+    },
+    {
+      "input": "What's a good sofa for families with kids?",
+      "output": "Look for sofas with durable, stain-resistant fabric and removable covers. Sectionals are great for family movie nights!"
+    },
+    {
+      "input": "Can I use a bench instead of chairs at my dining table?",
+      "output": "Definitely! Benches are great for saving space and can seat more people. Just make sure it's the right height for your table."
+    },
+    {
+      "input": "How do I make my bathroom feel like a spa?",
+      "output": "Add fluffy towels, a bath mat, candles, and maybe a small plant. Use baskets for storage and keep the color scheme calm and neutral."
+    },
+    {
+      "input": "What's the best lighting for a bedroom?",
+      "output": "Layered lighting works best: use a ceiling light, bedside lamps, and maybe some string lights for a cozy vibe."
+    },
+    {
+      "input": "How do I keep my entryway organized?",
+      "output": "Use hooks for coats, a tray for keys, and a bench with storage for shoes. A mirror can also help make the space feel bigger."
+    },
+    {
+      "input": "Is it okay to put a desk in my bedroom?",
+      "output": "Of course! Just try to keep it tidy and maybe use a screen or shelf to separate it from your sleeping area."
+    },
+    {
+      "input": "What's a good way to add storage to a small bathroom?",
+      "output": "Try shelves above the toilet, baskets under the sink, or an over-the-door organizer. Corner shelves can also be super helpful."
+    },
+    {
+      "input": "How do I choose curtains for my living room?",
+      "output": "Think about the amount of light you want, and pick a color or pattern that matches your style. Floor-length curtains usually look best."
+    },
+    {
+      "input": "Can I use outdoor rugs inside?",
+      "output": "Yes! Outdoor rugs are durable and easy to clean, so they're great for kitchens, entryways, or playrooms."
+    },
+    {
+      "input": "What's the best way to arrange furniture in a small living room?",
+      "output": "Keep pathways clear, use multi-functional pieces, and try floating furniture away from the walls to make the space feel bigger."
+    },
+    {
+      "input": "How do I make my home feel cozier in the winter?",
+      "output": "Add soft blankets, warm lighting, and maybe a few candles. Layering rugs and using heavier curtains can also help keep things warm and inviting."
+    },
+    {
+      "input": "What's a good way to hide TV cables?",
+      "output": "Use cable covers, run them behind furniture, or try a wall-mounted cord organizer. Some TV stands have built-in cable management too!"
+    },
+    {
+      "input": "Can I put a bookshelf in the kitchen?",
+      "output": "Absolutely! Use it for cookbooks, dishes, or even baskets for snacks. Just make sure it's away from the stove or sink to avoid splashes."
+    },
+    {
+      "input": "How do I pick a coffee table?",
+      "output": "Think about your space and needs. Round tables are good for small rooms, and tables with storage are great for keeping things tidy."
+    },
+    {
+      "input": "What's the best way to decorate a rental without making holes in the walls?",
+      "output": "Try removable hooks, washi tape, or leaning art on shelves. There are lots of peel-and-stick options for renters!"
+    },
+    {
+      "input": "How do I make my dining room feel more formal?",
+      "output": "Add a statement light fixture, use a tablecloth or runner, and bring in upholstered chairs. Art and a mirror can also elevate the space."
+    },
+    {
+      "input": "Can I use a dresser as a TV stand?",
+      "output": "Yes! Dressers can offer lots of storage and work well as TV stands, especially in bedrooms or small apartments."
+    },
+    {
+      "input": "What's a good way to display plants indoors?",
+      "output": "Try plant stands, hanging planters, or group several pots together on a shelf or windowsill. Mix heights and textures for interest."
+    },
+    {
+      "input": "How do I choose a mattress?",
+      "output": "Consider your sleeping position, firmness preference, and any allergies. If you can, test a few in-store before buying."
+    },
+    {
+      "input": "What's the best way to keep a playroom tidy?",
+      "output": "Use bins and baskets for toys, label everything, and have a regular clean-up routine. Low shelves make it easy for kids to help."
+    },
+    {
+      "input": "Can I use a dining table as a desk?",
+      "output": "Definitely! Dining tables offer lots of workspace. Just add a comfy chair and some desk organizers."
+    },
+    {
+      "input": "How do I make my home office more productive?",
+      "output": "Good lighting, a comfortable chair, and keeping your desk clutter-free can really help. Plants and a bit of color can boost your mood too!"
+    },
+    {
+      "input": "What's a good way to add privacy to a shared room?",
+      "output": "Try a folding screen, a curtain, or even a tall bookshelf as a divider. Rugs can also help define separate areas."
+    },
+    {
+      "input": "How do I pick art for my walls?",
+      "output": "Choose pieces that make you happy or reflect your style. Mix sizes and frames for a collected look, or go for one big statement piece."
+    },
+    {
+      "input": "Can I use patio furniture in my sunroom?",
+      "output": "Yes! Patio furniture is perfect for sunrooms since it's made to handle sunlight and temperature changes."
+    },
+    {
+      "input": "What's the best way to store shoes in a small space?",
+      "output": "Try an over-the-door organizer, under-bed storage, or a slim shoe rack by the door. Baskets work well for flip-flops and slippers."
+    },
+    {
+      "input": "How do I make my bedroom feel more relaxing?",
+      "output": "Use soft colors, cozy bedding, and keep clutter to a minimum. Blackout curtains and a few candles can help set a calm mood."
+    },
+    {
+      "input": "Is it okay to put a sofa in the kitchen?",
+      "output": "If you have the space, why not? A small sofa or loveseat can make an eat-in kitchen feel extra cozy."
+    },
+    {
+      "input": "What's a good way to decorate a blank wall?",
+      "output": "Try a gallery of art or photos, a big mirror, or even a tapestry. Floating shelves are also a great option for displaying decor."
+    },
+    {
+      "input": "How do I choose a color scheme for my living room?",
+      "output": "Pick one or two main colors you love, then add a few accent shades. Use samples to see how they look in your space before committing."
+    },
+    {
+      "input": "Can I use a kitchen island as a dining table?",
+      "output": "Yes! Just add some stools and make sure there's enough legroom. It's a great way to save space in small kitchens."
+    },
+    {
+      "input": "What's the best way to hang curtains?",
+      "output": "Hang them high and wide to make windows look bigger. Use a sturdy rod and make sure the curtains just touch the floor."
+    },
+    {
+      "input": "How do I make my home feel more personal?",
+      "output": "Display things that matter to you—photos, souvenirs, or handmade art. Your home should tell your story!"
+    },
+    {
+      "input": "Is it okay to mix metal finishes in a room?",
+      "output": "Yes! Mixing metals can add interest. Just keep one finish dominant and repeat each finish at least twice for balance."
+    },
+    {
+      "input": "What's a good way to add light to a dark room?",
+      "output": "Use mirrors to reflect light, add floor and table lamps, and choose light-colored decor. Sheer curtains help let in more sunlight."
+    },
+    {
+      "input": "How do I keep my kitchen counters clutter-free?",
+      "output": "Use trays or baskets to corral items, store appliances you don't use daily, and keep only the essentials out."
+    },
+    {
+      "input": "Can I use wallpaper in a bathroom?",
+      "output": "Yes, just make sure it's moisture-resistant or use it above tile. There are lots of peel-and-stick options that work well in bathrooms."
+    },
+    {
+      "input": "What's the best way to style a coffee table?",
+      "output": "Use a tray to group items, add a stack of books, a candle, and something green like a small plant. Keep it simple and balanced."
+    },
+    {
+      "input": "How do I make my laundry room more functional?",
+      "output": "Add shelves or cabinets for storage, use baskets for sorting, and hang a rod for air-drying clothes. A folding table is handy if you have space."
+    },
+    {
+      "input": "Do you have any tips for making a studio apartment feel less cramped?",
+      "output": "Use multi-functional furniture, like a bed with storage drawers or a fold-out desk. Light colors and mirrors can help open up the space, too!"
+    },
+    {
+      "input": "What's a good way to decorate a rental kitchen?",
+      "output": "Try peel-and-stick backsplash tiles, colorful rugs, and fun dish towels. Swapping out cabinet knobs is an easy upgrade, too!"
+    },
+    {
+      "input": "How do I make my bedroom feel more luxurious?",
+      "output": "Layer your bedding, add a plush rug, and use soft lighting. A few decorative pillows and a throw at the end of the bed can make a big difference."
+    },
+    {
+      "input": "Can I use a sideboard in the living room?",
+      "output": "Absolutely! Sideboards are great for extra storage and can double as a display surface for art, plants, or books."
+    },
+    {
+      "input": "What's the best way to hang art above a sofa?",
+      "output": "Hang it so the center is at eye level, and keep it about 6-8 inches above the back of the sofa. Make sure it's not wider than the sofa itself."
+    },
+    {
+      "input": "How do I choose a nightstand?",
+      "output": "Pick one that's about the same height as your mattress. Drawers or shelves are handy for storage, and a lamp on top is always useful."
+    },
+    {
+      "input": "Is it okay to put a rug in the kitchen?",
+      "output": "Yes! Just choose one that's easy to clean and won't slip. Runners work great in front of the sink or stove."
+    },
+    {
+      "input": "What's a good way to add color to a neutral room?",
+      "output": "Try colorful pillows, art, or a bright rug. Even a few bold accessories can liven up a neutral space."
+    },
+    {
+      "input": "How do I make my bathroom look bigger?",
+      "output": "Use light colors, big mirrors, and keep the decor simple. Glass shower doors and open shelves can also help the space feel larger."
+    },
+    {
+      "input": "Can I use a dresser in the entryway?",
+      "output": "Definitely! Dressers offer lots of storage for hats, gloves, and keys. Just add a mirror or some art above it for style."
+    },
+    {
+      "input": "What's the best way to style open shelves?",
+      "output": "Mix books, plants, and decorative objects. Leave some empty space so it doesn't look too crowded, and vary the heights for interest."
+    },
+    {
+      "input": "How do I pick a dining chair?",
+      "output": "Look for comfort, durability, and a style that matches your table. If you have kids, wipeable materials are a plus!"
+    },
+    {
+      "input": "Is it okay to use mismatched nightstands?",
+      "output": "Yes! Mismatched nightstands can add character. Just keep them similar in height and balance the look with matching lamps or decor."
+    },
+    {
+      "input": "What's a good way to organize kids' toys?",
+      "output": "Use bins, baskets, and low shelves so kids can help put things away. Labeling bins with pictures or words makes cleanup easier."
+    },
+    {
+      "input": "How do I make my home office more comfortable?",
+      "output": "Add a supportive chair, a footrest, and some plants. Good lighting and a tidy desk can make working from home much nicer."
+    },
+    {
+      "input": "Can I use a coffee table as a bench?",
+      "output": "If it's sturdy and the right height, sure! Just add a cushion or two for comfort."
+    },
+    {
+      "input": "What's the best way to hang curtains in a bay window?",
+      "output": "Use flexible curtain rods or individual rods for each section. Floor-length curtains look elegant and help frame the window."
+    },
+    {
+      "input": "How do I choose a color for my front door?",
+      "output": "Pick a color you love that also works with your home's exterior. Bold colors can add personality, while neutrals are always classic."
+    },
+    {
+      "input": "Is it okay to put a bed in the middle of the room?",
+      "output": "It's unconventional, but it can work! Just make sure there's enough space to walk around, and use a rug to anchor the bed."
+    },
+    {
+      "input": "What's a good way to display souvenirs from my travels?",
+      "output": "Try a dedicated shelf, shadow boxes, or a gallery wall. Mixing them with photos or art can create a personal, collected look."
+    },
+    {
+      "input": "How can I make my dining area feel more cozy?",
+      "output": "Try adding a soft rug under the table, use warm lighting, and add some cushions to your chairs. A centerpiece with candles or flowers can also help."
+    },
+    {
+      "input": "Is it okay to use a bench instead of a sofa?",
+      "output": "If you like a minimalist look and don't need to lounge, a bench can work! Add some pillows for comfort and style."
+    },
+    {
+      "input": "What's a good way to organize shoes in the entryway?",
+      "output": "Use a shoe rack, baskets, or a bench with storage. Keeping shoes off the floor helps the space look tidy."
+    },
+    {
+      "input": "How do I make my living room feel more modern?",
+      "output": "Choose furniture with clean lines, use a neutral color palette, and add a few bold accents. Less is more for a modern look."
+    },
+    {
+      "input": "Can I use a dresser as a TV stand in the living room?",
+      "output": "Absolutely! Dressers offer lots of storage and can work well as TV stands, especially in small spaces."
+    },
+    {
+      "input": "What's the best way to style a bookshelf in the living room?",
+      "output": "Mix books with decorative objects, plants, and photos. Leave some empty space for a lighter look, and vary the heights for interest."
+    },
+    {
+      "input": "How do I pick a coffee table for a small space?",
+      "output": "Look for a table with storage or one that's easy to move. Round tables work well in tight spaces."
+    },
+    {
+      "input": "Is it okay to use a futon as a guest bed?",
+      "output": "Yes! Futons are great for guests and can double as a sofa when not in use."
+    },
+    {
+      "input": "What's a good way to add art to a rental apartment?",
+      "output": "Use removable hooks, washi tape, or lean art on shelves. There are lots of renter-friendly options!"
+    },
+    {
+      "input": "How do I make my kitchen feel more cheerful?",
+      "output": "Add colorful dish towels, a bright rug, or some fun art. Fresh flowers or a bowl of fruit can also liven up the space."
+    },
+    {
+      "input": "Can I use a bar stool as a plant stand?",
+      "output": "Definitely! Bar stools make great plant stands and can add height to your plant display."
+    },
+    {
+      "input": "What's the best way to organize a small closet?",
+      "output": "Use slim hangers, add shelves or bins, and store off-season clothes elsewhere. Hooks on the door can help, too."
+    },
+    {
+      "input": "How do I make my bedroom feel more romantic?",
+      "output": "Use soft lighting, cozy bedding, and add some candles or fairy lights. Soft colors and plush textures help set the mood."
+    },
+    {
+      "input": "Is it okay to use a kitchen cart as a nightstand?",
+      "output": "Sure! Kitchen carts offer lots of storage and can be moved around easily."
+    },
+    {
+      "input": "What's a good way to display hats in the bedroom?",
+      "output": "Hang them on hooks, use a hat rack, or display them on a shelf. It's a fun way to add personality to your space."
+    },
+    {
+      "input": "How do I pick a dining table for a small apartment?",
+      "output": "Look for a round or drop-leaf table that can expand when needed. Benches or stackable chairs save space, too."
+    },
+    {
+      "input": "Can I use a bench as a dining table?",
+      "output": "It's not traditional, but a sturdy bench can work as a table in a pinch—just add a tray or placemats for stability."
+    },
+    {
+      "input": "What's the best way to style a mantel for the holidays?",
+      "output": "Layer garlands, candles, and a few ornaments. Add stockings or a string of lights for extra cheer."
+    },
+    {
+      "input": "How do I make my home office feel more professional?",
+      "output": "Keep the space tidy, use a comfortable chair, and add a few personal touches like art or a plant. Good lighting is key."
+    },
+    {
+      "input": "Is it okay to use a dresser in the dining room?",
+      "output": "Yes! Dressers can store table linens, dishes, or even serve as a buffet for parties."
+    },
+    {
+      "input": "What's a good way to add storage to a laundry room?",
+      "output": "Install shelves above the washer and dryer, use baskets for sorting, and add hooks for hanging clothes."
+    },
+    {
+      "input": "How do I make my living room feel more kid-friendly?",
+      "output": "Use soft rugs, rounded furniture, and plenty of storage for toys. Washable slipcovers are a lifesaver!"
+    },
+    {
+      "input": "Can I use a futon in the office?",
+      "output": "Absolutely! Futons are great for seating and can double as a guest bed if needed."
+    },
+    {
+      "input": "What's the best way to organize a craft room?",
+      "output": "Use clear bins, pegboards, and shelves for supplies. Label everything and keep the most-used items within reach."
+    },
+    {
+      "input": "How do I pick a rug for the dining area?",
+      "output": "Choose one that's big enough for chairs to stay on it when pulled out. Flatweave rugs are easier to clean under the table."
+    },
+    {
+      "input": "Is it okay to use a bench as a coffee table?",
+      "output": "Sure! Just add a tray for drinks and keep the surface clear for a tidy look."
+    },
+    {
+      "input": "What's a good way to add privacy to a shared bedroom?",
+      "output": "Try a curtain, a folding screen, or a bookshelf as a divider. Rugs can also help define separate areas."
+    },
+    {
+      "input": "How do I make my kitchen feel more organized?",
+      "output": "Use drawer dividers, shelf risers, and clear containers for pantry items. Keep counters clear for a tidy look."
+    },
+    {
+      "input": "Can I use a bar cart in the bedroom?",
+      "output": "Yes! Bar carts are great for holding books, plants, or even as a nightstand."
+    },
+    {
+      "input": "What's the best way to style a nightstand?",
+      "output": "Keep it simple: a lamp, a book, and maybe a small plant or photo. Use a tray to corral small items."
+    },
+    {
+      "input": "How do I pick a rug for the hallway?",
+      "output": "Choose a runner that's long enough for the space and has a non-slip backing. Patterns can help hide dirt and wear."
+    },
+    {
+      "input": "Is it okay to use a kitchen cart as a side table?",
+      "output": "Sure! Kitchen carts are versatile and can work as side tables in living rooms or bedrooms."
+    },
+    {
+      "input": "What's a good way to display jewelry in the bedroom?",
+      "output": "Use a jewelry stand, a decorative tray, or hang necklaces on hooks. Keeping jewelry visible makes it easy to accessorize."
+    },
+    {
+      "input": "How do I make my living room feel more open?",
+      "output": "Use furniture with legs, keep window treatments light, and avoid blocking pathways. Mirrors can also help bounce light around the room."
+    },
+    {
+      "input": "Can I use a kitchen cart in the bathroom?",
+      "output": "Yes! Kitchen carts are great for holding towels, toiletries, or cleaning supplies. Just make sure it fits your space."
+    },
+    {
+      "input": "What's the best way to style a bed?",
+      "output": "Layer your bedding with sheets, a duvet, and a few pillows. Add a throw or blanket at the end for extra coziness."
+    },
+    {
+      "input": "How do I choose a color for my sofa?",
+      "output": "Think about your lifestyle and the colors you love. Neutrals are versatile, but a bold color can make a statement. Test fabric swatches at home if you can."
+    },
+    {
+      "input": "How can I make my small kitchen feel bigger?",
+      "output": "Use light colors, open shelves, and keep counters clear. Mirrors and good lighting can also help open up the space."
+    },
+    {
+      "input": "Is it okay to use a bench as a TV stand?",
+      "output": "If it's sturdy and the right height, sure! Just make sure your TV is secure and there's room for any devices you need."
+    },
+    {
+      "input": "What's a good way to add color to a neutral living room?",
+      "output": "Try colorful pillows, art, or a bright rug. Even a few bold accessories can liven up a neutral space."
+    },
+    {
+      "input": "How do I make my bedroom feel more relaxing?",
+      "output": "Use soft colors, cozy bedding, and keep clutter to a minimum. Blackout curtains and a few candles can help set a calm mood."
+    },
+    {
+      "input": "Can I use a dresser as a bathroom vanity?",
+      "output": "Yes, with a little DIY! Dressers can be converted into vanities with a sink and some plumbing adjustments."
+    },
+    {
+      "input": "What's the best way to organize a mudroom?",
+      "output": "Use hooks for coats, cubbies for shoes, and baskets for hats and gloves. A bench makes it easy to put on or take off shoes."
+    },
+    {
+      "input": "How do I pick a mirror for my entryway?",
+      "output": "Choose one that fits the space and reflects light. Round mirrors are welcoming, while larger mirrors can make the entry feel bigger."
+    },
+    {
+      "input": "Is it okay to use a futon in the living room?",
+      "output": "Absolutely! Futons are great for extra seating and can double as a guest bed."
+    },
+    {
+      "input": "What's a good way to add color to a bedroom?",
+      "output": "Try colorful bedding, art, or a bright rug. Even a few bold pillows can make a big impact."
+    },
+    {
+      "input": "How do I make my kitchen feel more organized?",
+      "output": "Use drawer dividers, shelf risers, and clear containers for pantry items. Keep counters clear for a tidy look."
+    },
+    {
+      "input": "Can I use a bar cart in the bathroom?",
+      "output": "Yes! Bar carts are great for holding towels, toiletries, or even plants. Just make sure it fits your space."
+    },
+    {
+      "input": "What's the best way to style a nightstand?",
+      "output": "Keep it simple: a lamp, a book, and maybe a small plant or photo. Use a tray to corral small items."
+    },
+    {
+      "input": "How do I pick a rug for the hallway?",
+      "output": "Choose a runner that's long enough for the space and has a non-slip backing. Patterns can help hide dirt and wear."
+    },
+    {
+      "input": "Is it okay to use a kitchen cart as a side table?",
+      "output": "Sure! Kitchen carts are versatile and can work as side tables in living rooms or bedrooms."
+    },
+    {
+      "input": "What's a good way to display jewelry in the bedroom?",
+      "output": "Use a jewelry stand, a decorative tray, or hang necklaces on hooks. Keeping jewelry visible makes it easy to accessorize."
     }
   ]
 }
