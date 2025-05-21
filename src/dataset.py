@@ -120,7 +120,7 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int) -> DataLoader:
 #     d = ChatbotDataset(data_path=Config.DATA_PATH,tokenizer_path=Config.TOKENIZER_PATH)
 #     loader = create_data_loader(dataset=d, batch_size=32)
 #     first_batch = next(iter(loader))
-#     # print(first_batch["input_ids"])
+#     print(first_batch["input_ids"])
 #     first_seq = first_batch["input_ids"][0]
 #     # print(first_seq)
 #     first_seq = first_seq.tolist()
