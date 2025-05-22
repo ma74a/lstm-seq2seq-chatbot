@@ -55,7 +55,7 @@ class ChatbotDataset(Dataset):
             "output_len": len(self.outputs[idx])
         }
         
-def create_data_loader(dataset: ChatbotDataset, batch_size: int) -> DataLoader:
+def create_data_loader(dataset: ChatbotDataset, batch_size: int=32, shuffle=False) -> DataLoader:
     """Create dataloader from ChatbotDataset class
 
     Args:
@@ -111,7 +111,7 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int) -> DataLoader:
     return DataLoader(
         dataset,
         batch_size=batch_size,
-        shuffle=True,
+        shuffle=shuffle,
         collate_fn=collate_fn
     ) 
         
