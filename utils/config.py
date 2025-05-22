@@ -33,7 +33,7 @@ class Config:
     # Paths
     BASE_DIR = Path(__file__).parent.parent
     CHECKPOINT_DIR = BASE_DIR / "checkpoints"
-    TOKENIZER_PATH = BASE_DIR / "tokenizer" / "furniture_tokenizer.json"
+    TOKENIZER_PATH = BASE_DIR / "tokenized_data" / "furniture_tokenizer.json"
     
     @classmethod
     def create_directories(cls):
