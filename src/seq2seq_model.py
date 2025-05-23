@@ -54,7 +54,7 @@ class Encoder(nn.Module):
             input=embedding,
             lengths=input_len.cpu(),
             batch_first=True,
-            enforce_sorted=True
+            enforce_sorted=False
         )
         outputs, (hidden_state, cell_state) = self.lstm(packed)
         
@@ -135,17 +135,19 @@ class Seq2Seq(nn.Module):
         # Tensor to store decoder outputs
         outputs = torch.zeros(batch_size, output_len, vocab_size).to(Config.DEVICE)
         
-        encoder_outputs, hidded, cell = self.encoder(input_ids, input_len)
+        encoder_outputs, (hidded, cell) = self.encoder(input_ids, input_len)
         
         # First decoder input is SOS
-        decoder_input = output_ids[:, 0].unsqueeze(0)
+        # decoder_input = output_ids[:, 0].unsqueeze(0)
+        decoder_input = output_ids[:, 0:1]
         
+        # print(decoder_input.shape)
         for t in range(1, output_len):
-            decoder_output = self.decoder(decoder_input, hidded, cell)
-            outputs[:, t:t+1] =decoder_output
+            predictions, (hidden, cell) = self.decoder(decoder_input, hidded, cell)
+            outputs[:, t:t+1, :] = predictions
             
             teacher_force = torch.rand(1).item() < teacher_forcing_ratio
-            top1 = decoder_output.argmax(2)
+            top1 = predictions.argmax(2)
             decoder_input = output_ids[:, t].unsqueeze(1) if teacher_force else top1
         
         return outputs
