@@ -65,7 +65,13 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int=32, shuffle=Fals
     Returns:
         DataLoader: The dataloader we've created
     """
-    def collate_fn(batch: List[Dict[str, torch.Tensor]]) -> Dict[str, torch.Tensor]:
+    if isinstance(dataset, torch.utils.data.Subset):
+        base_dataset = dataset.dataset  # unwrap to get original ChatbotDataset
+    else:
+        base_dataset = dataset
+    pad_id = base_dataset.tokenizer.encode(Config.PAD_TOKEN).ids[0]
+    
+    def collate_fn(batch: List[Dict[str, torch.Tensor]], pad_id: int=pad_id) -> Dict[str, torch.Tensor]:
         """Prepares a batch of variable-length sequences for training by padding them to the same length.
 
             Args:
@@ -89,16 +95,21 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int=32, shuffle=Fals
         output_lengths = torch.tensor([item['output_len'] for item in batch])
         
         # Pad sequences
-        pad_token_id = dataset.tokenizer.token_to_id(Config.PAD_TOKEN)
+        # print(dataset)
+        # print(dataset.tokenizer)
+        # print(dataset.tokenizer.encode(Config.PAD_TOKEN).ids[0])
+        # pad_id = dataset.tokenizer.encode(Config.PAD_TOKEN).ids[0]
+        # pad_token_id = dataset.tokenizer.token_to_id(Config.PAD_TOKEN)
+        # print(pad_token_id)
         input_ids = torch.nn.utils.rnn.pad_sequence(
             input_ids, 
             batch_first=True, 
-            padding_value=pad_token_id
+            padding_value=pad_id
         )
         output_ids = torch.nn.utils.rnn.pad_sequence(
             output_ids, 
             batch_first=True, 
-            padding_value=pad_token_id
+            padding_value=pad_id
         )
         
         return {
@@ -116,11 +127,12 @@ def create_data_loader(dataset: ChatbotDataset, batch_size: int=32, shuffle=Fals
     ) 
         
         
-# if __name__ == "__main__":
-#     d = ChatbotDataset(data_path=Config.DATA_PATH,tokenizer_path=Config.TOKENIZER_PATH)
-#     loader = create_data_loader(dataset=d, batch_size=32)
-#     first_batch = next(iter(loader))
-#     print(first_batch["input_ids"])
+if __name__ == "__main__":
+    d = ChatbotDataset(data_path=Config.DATA_PATH,tokenizer_path=Config.TOKENIZER_PATH)
+    loader = create_data_loader(dataset=d, batch_size=32)
+    first_batch = next(iter(loader))
+    # print(first_batch["input_ids"])
+    # print(d.tokenizer)
 #     first_seq = first_batch["input_ids"][0]
 #     # print(first_seq)
 #     first_seq = first_seq.tolist()
