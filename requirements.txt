@@ -1,0 +1,4 @@
+torch==2.7.0+cpu
+tokenizers==0.21.1
+tqdm==4.67.1
+matplotlib==3.10.1
