@@ -5267,6 +5267,410 @@
     {
       "input": "Cozy bedroom",
       "output": "Layer textures with plush bedding and rugs. Our 'Cozy Bedroom' collection creates warm, inviting spaces."
+    },
+    {
+      "input": "Ayo, what’s the cheapest couch you got?",
+      "output": "Our most budget-friendly sofa is the 'Basic Comfort' 2-seater at 2,500 EGP. It’s compact with removable covers—great for small spaces!"
+    },
+    {
+      "input": "How long til delivery? I’m in Zamalek.",
+      "output": "Delivery to Zamalek takes 1-2 days for in-stock items. Want me to check availability for your address?"
+    },
+    {
+      "input": "Yalla, show me Ramadan deals!",
+      "output": "Ramadan Kareem! We have 30% off dining sets and free delivery on orders over 5,000 EGP. Interested in tables or seating?"
+    },
+    {
+      "input": "Sofa for a cat owner? My lil demon scratches everything.",
+      "output": "No worries! Our 'PetGuard' sofas use scratch-resistant fabric and come with free claw-proof covers. Bonus: hair doesn’t stick!"
+    },
+    {
+      "input": "I need a desk… but I work from bed lol",
+      "output": "Try our 'BedWork' lap desks—lightweight, adjustable angles, and built-in cup holders. Perfect for lazy workdays!"
+    },
+    {
+      "input": "What’s trending for balconies in Maadi?",
+      "output": "Maadi loves our 'Boho Balcony' sets—rattan chairs, weatherproof cushions, and foldable side tables. All UV-resistant!"
+    },
+    {
+      "input": "Is the ‘Cloud Sofa’ really as comfy as TikTok says?",
+      "output": "Absolutely! It’s our #1 viral item—memory foam cushions, hypoallergenic fabric, and 3 reclining positions. Want a demo video?"
+    },
+    {
+      "input": "My kid drew on my white couch… help?",
+      "output": "Our 'MagicClean' kit (199 EGP) removes ink, crayon, and juice stains. Pro tip: Apply baking soda first for tough stains!"
+    },
+    {
+      "input": "Arabic-style majlis seating? For my salon.",
+      "output": "We have hand-carved wooden majlis sets with embroidered cushions. Customizable colors—traditional or modern twist?"
+    },
+    {
+      "input": "Furniture for a Nile-view apartment?",
+      "output": "Go for our 'RiverLuxe' collection—teak wood, blue accents, and mold-resistant fabrics. Perfect for humid air by the Nile!"
+    },
+    {
+      "input": "Can I haggle? 😏",
+      "output": "Prices are fixed, but we price-match competitors! Found it cheaper elsewhere? Send the link, and we’ll beat it by 5%."
+    },
+    {
+      "input": "What’s the return policy if my husband hates it?",
+      "output": "14-day returns, no questions asked! Just keep tags on and we’ll refund you. Spouse approval not required 😉."
+    },
+    {
+      "input": "Any eco-friendly stuff? Trying to go green.",
+      "output": "Yes! Look for the 🌱 icon—recycled wood, organic cotton, and non-toxic paints. Our 'EcoNest' line is best for sustainability."
+    },
+    {
+      "input": "Need a bookshelf that won’t collapse in an earthquake.",
+      "output": "Our 'QuakeSafe' shelves bolt to walls and use flexible joints. Tested to withstand 6.5 Richter—safety first!"
+    },
+    {
+      "input": "Furniture for a beach house in Ain Sokhna?",
+      "output": "Salt-resistant aluminum frames + quick-dry fabrics! Our 'Coastal' collection won’t rust or fade in sea air."
+    },
+    {
+      "input": "Can I pay in installments?",
+      "output": "0% interest for 6 months via CIB or HSBC. Need longer? We offer 12-month plans (10% down payment)."
+    },
+    {
+      "input": "What’s the weight limit for your bunk beds?",
+      "output": "200kg per bed (even for rowdy siblings!). Steel-reinforced frames with anti-squeak tech."
+    },
+    {
+      "input": "Any discounts for teachers?",
+      "output": "15% off with a valid school ID! Thank you for shaping minds 🍎."
+    },
+    {
+      "input": "How to clean velvet chairs?",
+      "output": "Use our 'VelvetCare' brush (99 EGP) + mild soap. Never rub—always dab! Want a tutorial?"
+    },
+    {
+      "input": "Can I see this in person?",
+      "output": "Visit our showroom in City Stars or Mall of Egypt. Want me to reserve items for you to try?"
+    },
+    {
+      "input": "Do you assemble? I’m useless at IKEA stuff.",
+      "output": "Yes! Our team assembles anything for 200 EGP—we’ll even take the packaging trash away."
+    },
+    {
+      "input": "Wardrobe for 50+ abayas?",
+      "output": "Our 'ModaCloset' has extra-deep hanging space + scented cedar shelves. Fits up to 60 garments!"
+    },
+    {
+      "input": "Which sofa color hides koshary stains?",
+      "output": "Dark gray or navy! Our 'StainShield' fabric repels tomato sauce like magic (tested by Egyptian moms)."
+    },
+    {
+      "input": "Any foldable dining tables? My flat’s tiny.",
+      "output": "The 'SpaceGenius' table folds from 6-seater to 2-seater in 10 seconds! Saves 75% space when not in use."
+    },
+    {
+      "input": "Is the ‘VIP sale’ legit or marketing?",
+      "output": "Legit! VIP members get early access to clearance items—up to 70% off. Sign up with your phone number."
+    },
+    {
+      "input": "Can I swap my old furniture for credit?",
+      "output": "Yes! Our trade-in program gives you up to 3,000 EGP for used items. Send photos for an instant quote."
+    },
+    {
+      "input": "What’s the best mattress for back pain?",
+      "output": "Orthopedic memory foam—medium firmness. Our ‘SpineCare’ mattress has a 100-night trial. Hate it? Full refund."
+    },
+    {
+      "input": "Do you deliver to compounds? Like Palm Hills?",
+      "output": "Yes, with gate access permission. Compound deliveries take 24h extra for security checks."
+    },
+    {
+      "input": "Any furniture for sensory-sensitive kids?",
+      "output": "Our ‘CalmSpace’ line has weighted blankets, noise-reducing pods, and tagless fabrics. Autism-friendly certified."
+    },
+    {
+      "input": "How to protect wood from sandstorms?",
+      "output": "Apply our ‘DustCoat’ polish (149 EGP)—creates a barrier against sand and UV rays. Reapply every 3 months."
+    },
+    {
+      "input": "Can I rent furniture for 3 months?",
+      "output": "Short-term rentals start at 500 EGP/month. Perfect for expats or temporary stays!"
+    },
+    {
+      "input": "Which chair won’t hurt after 8 hours of gaming?",
+      "output": "The ‘ProGamer’ chair—lumbar support, breathable mesh, and 360° armrests. Your back will thank you!"
+    },
+    {
+      "input": "Any furniture made in Egypt?",
+      "output": "60% of our collection is locally crafted! Look for the ‘Made in Egypt’ 🇪🇬 badge."
+    },
+    {
+      "input": "What’s the most instagrammable piece you have?",
+      "output": "The ‘Golden Palm’ mirror—viral on TikTok! Perfect for #OOTD photos. Comes in 3 sizes."
+    },
+    {
+      "input": "Can I customize fabric colors?",
+      "output": "Yes! 50+ swatches available. Takes 2 extra weeks for made-to-order items."
+    },
+    {
+      "input": "Any quiet office chairs? My coworkers complain.",
+      "output": "The ‘SilentPro’ chair has noise-free casters and anti-squeak mechanisms. Library-approved!"
+    },
+    {
+      "input": "Which rug works with underfloor heating?",
+      "output": "Natural fiber rugs (jute/sisal)—they won’t trap heat or melt. Avoid synthetics!"
+    },
+    {
+      "input": "Need a bed that’s easy to move up stairs.",
+      "output": "Our ‘EasyMove’ beds disassemble in 5 mins—no tools needed! Fits in elevator buildings."
+    },
+    {
+      "input": "Any fireproof curtains?",
+      "output": "Yes! ‘SafeSheer’ curtains meet EU fire safety standards. Ideal for kitchens."
+    },
+    {
+      "input": "Can I get a receipt without VAT?",
+      "output": "Only with a tax card registration. Otherwise, VAT is included by law."
+    },
+    {
+      "input": "Which couch survives a house party?",
+      "output": "The ‘PartyProof’ sectional—spill-resistant, stain-proof, and cushion locks prevent flopping. Tested by college students!"
+    },
+    {
+      "input": "Do you buy back furniture?",
+      "output": "Only through our trade-in program. We give store credit for lightly used items."
+    },
+    {
+      "input": "Any allergy-friendly options?",
+      "output": "Hypoallergenic ‘PureAir’ collection—dust-mite-proof fabrics and non-toxic finishes."
+    },
+    {
+      "input": "Can I order without the app?",
+      "output": "Call 19000 to order by phone! App-exclusive deals won’t apply though."
+    },
+    {
+      "input": "Which table won’t show watermark rings?",
+      "output": "Glass-top or epoxy resin tables! Our ‘AquaShield’ finish repels condensation."
+    },
+    {
+      "input": "Any foldable guest beds?",
+      "output": "‘GuestFold’ beds inflate in 3 mins and pack into a suitcase. Holds up to 150kg!"
+    },
+    {
+      "input": "Do you do corporate bulk orders?",
+      "output": "Yes! Email corporate@furnistore.com for quotes. 20% discount on 10+ items."
+    },
+    {
+      "input": "Which chair fits a 2m tall person?",
+      "output": "The ‘TallComfort’ office chair—extra-high backrest and reinforced hydraulics. Up to 2.1m support!"
+    },
+    {
+      "input": "Can I get a discount if I pay cash?",
+      "output": "Sorry, prices are fixed—but cash payments skip the 2% card processing fee!"
+    },
+    {
+      "input": "Any furniture for people with disabilities?",
+      "output": "Our ‘Accessible Living’ line includes height-adjustable desks and chairs with grab bars."
+    },
+    {
+      "input": "Which wood doesn’t warp in Alexandria’s humidity?",
+      "output": "Teak or acacia! Both naturally resist moisture. Avoid pine in coastal areas."
+    },
+    {
+      "input": "Can I change my order color after paying?",
+      "output": "If it hasn’t shipped yet, yes! Call us immediately with your order number."
+    },
+    {
+      "input": "Any tiny desks for studio flats?",
+      "output": "The ‘WallFloat’ desk mounts to walls and folds down to just 15cm depth!"
+    },
+    {
+      "input": "Do you sell used furniture?",
+      "output": "Check our ‘PreOwned’ section for refurbished items with 1-year warranties."
+    },
+    {
+      "input": "Which couch is easiest to clean with kids?",
+      "output": "The ‘MomApproved’ sofa—machine-washable covers and stain-resistant fabric. Even handles chocolate!"
+    },
+    {
+      "input": "Any Ramadan payment plans?",
+      "output": "0% interest for 12 months during Ramadan! Limited to purchases over 10,000 EGP."
+    },
+    {
+      "input": "Can I schedule delivery after iftar?",
+      "output": "Yes! We deliver until 2 AM during Ramadan. Pick your preferred time slot."
+    },
+    {
+      "input": "Which mattress is best for side sleepers?",
+      "output": "Medium-soft memory foam—supports hips/shoulders. Our ‘SideSnooze’ model is top-rated!"
+    },
+    {
+      "input": "Any furniture that ships today?",
+      "output": "Look for the ‘ReadyNow’ tag! These items dispatch within 2 hours."
+    },
+    {
+      "input": "Do you do interior design consultations?",
+      "output": "Yes—book a virtual session (500 EGP, redeemable against purchases)."
+    },
+    {
+      "input": "Which dining chairs won’t scratch tiles?",
+      "output": "Felt-bottomed ‘GlideChairs’—noiseless and floor-friendly. 6 colors available."
+    },
+    {
+      "input": "Can I cancel my order if it’s late?",
+      "output": "Absolutely! Late deliveries get a 10% discount or free cancellation."
+    },
+    {
+      "input": "Any UV-resistant outdoor furniture?",
+      "output": "All our outdoor pieces are UV-treated! Won’t fade for 5+ years."
+    },
+    {
+      "input": "Which bed frame doesn’t squeak?",
+      "output": "The ‘SilentNight’ frame uses rubberized joints—zero noise, even with… movement. 😉"
+    },
+    {
+      "input": "Do you offer military discounts?",
+      "output": "20% off for active military with ID. Thank you for your service!"
+    },
+    {
+      "input": "Any furniture good for yoga?",
+      "output": "The ‘ZenFold’ bench converts to a yoga prop. Storage for mats inside!"
+    },
+    {
+      "input": "Can I return sale items?",
+      "output": "Yes, but refunds are store credit only. 14-day return window applies."
+    },
+    {
+      "input": "Which coffee table has charging ports?",
+      "output": "The ‘TechHub’ table—4 USB ports + wireless charging built into the surface!"
+    },
+    {
+      "input": "Any pet beds matching your sofas?",
+      "output": "Yes! ‘PawsMatch’ pet beds use the same fabrics as our furniture. Furry family approved."
+    },
+    {
+      "input": "Can I see customer photos of items?",
+      "output": "Check the ‘Real Homes’ tab on each product page for customer uploads!"
+    },
+    {
+      "input": "Which couch fits through a narrow door?",
+      "output": "The ‘SlimFit’ sofa disassembles into 3 pieces—fits through 70cm doors!"
+    },
+    {
+      "input": "Do you donate old furniture?",
+      "output": "Yes! We partner with ‘FurnishHope’ to donate traded-in items to families in need."
+    },
+    {
+      "input": "Any anti-theft furniture for cafes?",
+      "output": "Bolt-down tables and chained chairs available. Popular in high-traffic areas."
+    },
+    {
+      "input": "Which material is coolest in summer?",
+      "output": "Linen or bamboo! Breathable and wicks moisture. Our ‘Breeze’ collection is summer-ready."
+    },
+    {
+      "input": "Can I haggle if I buy multiple items?",
+      "output": "Prices are fixed, but bulk orders (10+ items) get automatic 15% off!"
+    },
+    {
+      "input": "Any furniture for Airbnb hosts?",
+      "output": "Our ‘RentalReady’ line is durable, easy to clean, and stacks compactly for storage."
+    },
+    {
+      "input": "Which desk has cable management?",
+      "output": "The ‘TidyWork’ desk hides cords in built-in channels. Comes with a cable kit!"
+    },
+    {
+      "input": "Do you sell just parts? Like drawer handles?",
+      "output": "Yes! Visit our ‘Parts & Accessories’ section. Free shipping on orders over 500 EGP."
+    },
+    {
+      "input": "Any furniture safe for babies?",
+      "output": "All items with the ‘BabySafe’ tag are non-toxic, rounded-edge, and tip-proof."
+    },
+    {
+      "input": "Can I get an invoice in English?",
+      "output": "Yes—select language preference at checkout. VAT included."
+    },
+    {
+      "input": "Which recliner fits a small living room?",
+      "output": "The ‘SpaceSaver’ recliner extends fully but only needs 50cm of wall space!"
+    },
+    {
+      "input": "Do you offer extended warranties?",
+      "output": "Yes—up to 5 years available. Ask our team for pricing."
+    },
+    {
+      "input": "Any furniture resistant to cat pee?",
+      "output": "The ‘AntiPee’ fabric repels liquids and odors. Backed by a 3-year guarantee!"
+    },
+    {
+      "input": "Can I order from Instagram?",
+      "output": "DM us @FurniStore with #Order and we’ll WhatsApp you to complete the purchase!"
+    },
+    {
+      "input": "Which bed frame works with adjustable bases?",
+      "output": "Look for the ‘FlexiBed’ tag—compatible with all major adjustable mattress brands."
+    },
+    {
+      "input": "Do you assemble IKEA furniture?",
+      "output": "Sorry, we only assemble items purchased from us. But we’re happy to recommend similar products!"
+    },
+    {
+      "input": "Any glow-in-the-dark furniture?",
+      "output": "The ‘LunaGlow’ kids’ collection has subtle glow accents—fun for bedtime!"
+    },
+    {
+      "input": "Can I reserve items to try in-store?",
+      "output": "Yes! Hold items for 48 hours with a 10% deposit (refundable if you don’t buy)."
+    },
+    {
+      "input": "Which sofa material doesn’t get hot?",
+      "output": "Performance fabric—stays cool, even in summer. Our ‘CoolTouch’ line is tested to 45°C!"
+    },
+    {
+      "input": "Do you repair furniture?",
+      "output": "Yes! Book a ‘FixIt’ service visit—we handle everything from wobbly legs to fabric tears."
+    },
+    {
+      "input": "Any furniture for people over 120kg?",
+      "output": "Our ‘PlusComfort’ line supports up to 200kg—reinforced frames and extra-wide seats."
+    },
+    {
+      "input": "Can I get a digital catalog?",
+      "output": "Download our app for the full catalog + AR features! Or request one via email."
+    },
+    {
+      "input": "Which dining table expands the most?",
+      "output": "The ‘MagicLeaf’ table goes from 4 to 12 seats! Hidden leaves store inside."
+    },
+    {
+      "input": "Do you offer gift wrapping?",
+      "output": "Yes—add it at checkout for 50 EGP. Includes a handwritten note!"
+    },
+    {
+      "input": "Any furniture for heavy books?",
+      "output": "Industrial-style ‘BookFort’ shelves hold 100kg per shelf—perfect for hardcover collectors."
+    },
+    {
+      "input": "Can I change my delivery date last-minute?",
+      "output": "Call us at least 6 hours before delivery to reschedule—no fee!"
+    },
+    {
+      "input": "Which chair is best for breastfeeding?",
+      "output": "The ‘NurseEase’ recliner has lumbar support and adjustable armrests. 360° swivel too!"
+    },
+    {
+      "input": "Do you sell mattresses separately?",
+      "output": "Yes! 30+ options from budget to luxury. Try our ‘Mattress Match’ quiz to find your fit."
+    },
+    {
+      "input": "Any furniture that doubles as storage?",
+      "output": "Our ‘HideAway’ collection includes ottomans, beds, and tables with hidden compartments!"
+    },
+    {
+      "input": "Can I order fabric samples?",
+      "output": "5 free samples per order! Ships in 2 days. Need more? 10 EGP per sample after."
+    },
+    {
+      "input": "Which rug works with wheelchair wheels?",
+      "output": "Low-pile ‘SmoothRoll’ rugs—easy to maneuver and won’t bunch up."
     }
   ]
 }
