@@ -4887,6 +4887,386 @@
     {
       "input": "What's a good way to display jewelry in the bedroom?",
       "output": "Use a jewelry stand, a decorative tray, or hang necklaces on hooks. Keeping jewelry visible makes it easy to accessorize."
+    },
+    {
+      "input": "Hi there",
+      "output": "Hello! Welcome to our furniture store. How may I assist you in finding the ideal furniture for your home today?"
+    },
+    {
+      "input": "Morning",
+      "output": "Good morning! I'm your furniture shopping helper. Would you prefer to browse our collections, get suggestions, or learn about what we offer?"
+    },
+    {
+      "input": "Good day",
+      "output": "Good afternoon! How can I help with your furniture shopping today?"
+    },
+    {
+      "input": "Evening",
+      "output": "Good evening! I'm here to help you discover wonderful furniture. What are you searching for today?"
+    },
+    {
+      "input": "Heya",
+      "output": "Hello! Ready to explore some amazing furniture options? I'm here to offer recommendations, styling tips, or answer any questions."
+    },
+    {
+      "input": "Bye bye",
+      "output": "Goodbye! Thank you for visiting us. If you need any furniture assistance later, feel free to come back anytime. Have a wonderful day!"
+    },
+    {
+      "input": "Farewell",
+      "output": "Goodbye! It was wonderful helping you. Please return if you need more furniture advice or have additional questions. Take care!"
+    },
+    {
+      "input": "Catch you later",
+      "output": "See you later! Thanks for stopping by. I'll be here to help you find perfect home furniture when you return."
+    },
+    {
+      "input": "Thank you very much",
+      "output": "You're most welcome! I'm happy I could assist. If you need more help with furniture shopping later, just ask. Enjoy your shopping!"
+    },
+    {
+      "input": "Thanks a bunch",
+      "output": "You're very welcome! My purpose is to help you find ideal furniture. Feel free to ask if you need more recommendations or product information."
+    },
+    {
+      "input": "I require assistance",
+      "output": "I'm here to help! What kind of support do you need? I can assist with finding furniture, answering product questions, guiding you through our app, or helping with orders."
+    },
+    {
+      "input": "Could you help me out?",
+      "output": "Absolutely I can help! As your personal furniture assistant, I can recommend furniture, explain our services, or assist with any questions you have today."
+    },
+    {
+      "input": "What are your capabilities?",
+      "output": "I can assist with many things! I can suggest furniture based on your requirements, explain app features, answer product questions, help with orders, provide design advice, and more. What would you like information about?"
+    },
+    {
+      "input": "Just looking around",
+      "output": "That's fine! Feel free to explore our collections. You can browse by category, style, or use search for specific items. I'm available if you need recommendations or have questions."
+    },
+    {
+      "input": "How's it going?",
+      "output": "I'm doing great, thanks for asking! Ready to help you discover perfect furniture for your home. What would you like to explore today?"
+    },
+    {
+      "input": "Pleased to meet you",
+      "output": "Nice to meet you too! I'm excited to help you find furniture that fits your style and requirements. What type of furniture are you seeking today?"
+    },
+    {
+      "input": "I'm here again",
+      "output": "Welcome back! Great to see you return. Would you like to continue our previous conversation, or is there something new you'd like to explore today?"
+    },
+    {
+      "input": "Can we talk?",
+      "output": "Certainly! I'm here to chat and assist with all your furniture needs. What would you like to discuss? I can help with recommendations, design advice, or answer product/service questions."
+    },
+    {
+      "input": "What's fresh?",
+      "output": "We have exciting new arrivals! Check out our latest contemporary and minimalist designs, ideal for refreshing your living space."
+    },
+    {
+      "input": "Got any sales?",
+      "output": "Yes, we currently have a summer promotion with discounts up to 50% on selected items. Don't miss these excellent deals!"
+    },
+    {
+      "input": "How does this app work?",
+      "output": "Welcome to our furniture app! Browse by category, use search, or filter by price. You can save favorites and track orders too."
+    },
+    {
+      "input": "How to find furniture?",
+      "output": "Search using keywords in the search bar. You can search by item type (sofa, table), style (modern, vintage), or material (wood, leather)."
+    },
+    {
+      "input": "How save items I like?",
+      "output": "Tap the heart icon on any item to save. View saved items in your 'Favorites' section."
+    },
+    {
+      "input": "How filter by cost?",
+      "output": "Use the price slider in filters to set your budget range. The app will show furniture within that price range."
+    },
+    {
+      "input": "Can compare furniture?",
+      "output": "Yes! Compare up to 4 items. Tap the compare icon on items to see detailed feature, material, size and price comparisons."
+    },
+    {
+      "input": "How use AR?",
+      "output": "Tap the camera icon on an item. Point your camera at a flat surface to see the furniture in your space. You can adjust its position."
+    },
+    {
+      "input": "How make account?",
+      "output": "Tap the profile icon, then 'Sign Up'. Register with email, phone, or social media to save favorites and track orders."
+    },
+    {
+      "input": "Forgot password",
+      "output": "On the login screen, tap 'Forgot Password'. Enter your email to receive a password reset link. Follow the email instructions."
+    },
+    {
+      "input": "Update profile how?",
+      "output": "Tap the profile icon, then 'Edit Profile'. Update your info, addresses, and payment methods. Remember to save changes."
+    },
+    {
+      "input": "How leave review?",
+      "output": "Go to the product page, scroll to reviews, and tap 'Write Review'. Rate the product, add photos, and share your experience to help others."
+    },
+    {
+      "input": "Share with friends how?",
+      "output": "Tap the share icon on any product. Share via message, email, or social media. Friends will get a link to that exact item."
+    },
+    {
+      "input": "How wishlist work?",
+      "output": "Tap the heart icon on items to add to wishlist. Access it from your profile. Great for saving items to consider later or share with others."
+    },
+    {
+      "input": "Multiple addresses possible?",
+      "output": "Yes, save multiple delivery addresses in your profile under 'Settings' > 'Addresses'. Add home, work, or other locations to choose at checkout."
+    },
+    {
+      "input": "How use room planner?",
+      "output": "Our planner helps visualize furniture. Go to 'Room Planner', select room type and dimensions. Then drag and drop furniture to create layouts."
+    },
+    {
+      "input": "How turn on notifications?",
+      "output": "Go to 'Settings' > 'Notifications' and toggle on. Customize which notifications to receive like order updates and promotions."
+    },
+    {
+      "input": "Recommend sofa small living room",
+      "output": "For small living rooms, I suggest a compact 2-seater or loveseat. Look for slim arms and small footprint. Our 'Urban Compact' collection has great space-saving options."
+    },
+    {
+      "input": "Need table seats 6",
+      "output": "For 6 people, I recommend our 'Family Gather' dining tables. They comfortably seat 6-8 and come in various styles. Extendable options are popular for flexibility."
+    },
+    {
+      "input": "Best outdoor furniture material?",
+      "output": "For outdoor furniture, weather-resistant materials like teak, aluminum, or synthetic wicker work well. They're durable, low-maintenance, and withstand various weather conditions."
+    },
+    {
+      "input": "Furniture for minimalist style?",
+      "output": "For minimalism, choose furniture with clean lines, neutral colors, and simple designs. Our 'Minimalist Collection' features functional pieces with hidden storage and modular designs."
+    },
+    {
+      "input": "Need home office furniture",
+      "output": "For home offices, I recommend our ergonomic collection. Start with an adjustable desk, ergonomic chair, and add storage like bookshelves. Our 'WorkSmart' series includes cable management."
+    },
+    {
+      "input": "Furniture for studio flat",
+      "output": "For studio apartments, multifunctional furniture is key. Consider sofa beds, storage ottomans, and extendable tables. Our 'SpaceSaver' collection specializes in dual-purpose furniture."
+    },
+    {
+      "input": "Comfy chair for reading",
+      "output": "For reading chairs, I recommend our 'Cozy Corner' collection. These feature plush cushions, supportive backs, and wide armrests. Many include matching ottomans."
+    },
+    {
+      "input": "Modern coffee table ideas",
+      "output": "For modern living rooms, I recommend our 'Urban Edge' coffee tables. They feature clean lines, minimal designs, and often include storage. Glass-top models with metal frames are particularly sleek."
+    },
+    {
+      "input": "Storage solutions small bedroom",
+      "output": "For small bedrooms, I recommend our 'SpaceMax' collection. Includes beds with built-in drawers, sliding door wardrobes, and multi-functional furniture like storage benches."
+    },
+    {
+      "input": "Dining set for family kids",
+      "output": "For families with children, I recommend our 'Family Friendly' dining sets. Durable materials resist scratches and stains. Chairs are sturdy and stable, with some sets including booster seats."
+    },
+    {
+      "input": "Furniture for my balcony",
+      "output": "For balconies, I recommend our 'Outdoor Living' collection. Compact bistro sets, foldable chairs, or modular seating that fits your space. All items are weather-resistant."
+    },
+    {
+      "input": "Good desk for student",
+      "output": "For students, I recommend our 'Study Smart' desks. Feature ample workspace, built-in storage, and some include charging stations. Adjustable height options work sitting or standing."
+    },
+    {
+      "input": "Yo",
+      "output": "Hey there! Welcome to our furniture store. What can I help you find today - something comfy, stylish, or both?"
+    },
+    {
+      "input": "What up",
+      "output": "Hello! I'm your furniture helper. Wanna browse our latest stuff, get recommendations, or learn about our services?"
+    },
+    {
+      "input": "Greetings",
+      "output": "Good day to you! How may I assist with your furniture needs today?"
+    },
+    {
+      "input": "Help plz",
+      "output": "Of course! What do you need help with? Furniture recommendations, order help, or something else?"
+    },
+    {
+      "input": "Later",
+      "output": "See you later! Come back anytime you need furniture help. Have a great one!"
+    },
+    {
+      "input": "Thx",
+      "output": "No problem at all! Happy to help with your furniture needs. Let me know if you need anything else!"
+    },
+    {
+      "input": "I'm lost",
+      "output": "No worries! Let me guide you. Are you looking for something specific or just browsing furniture ideas?"
+    },
+    {
+      "input": "What's good?",
+      "output": "We've got lots of great furniture! What are you interested in - sofas, beds, home office stuff?"
+    },
+    {
+      "input": "Need ideas",
+      "output": "I'd love to help with ideas! What room are you furnishing - living room, bedroom, or somewhere else?"
+    },
+    {
+      "input": "Show me stuff",
+      "output": "Sure thing! Would you like to see our new arrivals, bestsellers, or something specific?"
+    },
+    {
+      "input": "Got discounts?",
+      "output": "Yes indeed! We have special offers right now. Would you like to see our sale items or clearance deals?"
+    },
+    {
+      "input": "How work app?",
+      "output": "Our app lets you browse furniture, save favorites, and order easily. Want me to explain any specific feature?"
+    },
+    {
+      "input": "Search how?",
+      "output": "Just type what you're looking for in the search bar - like 'blue sofa' or 'wooden dining table'."
+    },
+    {
+      "input": "Save how?",
+      "output": "Tap the ♡ icon on any item to save it. You'll find all your saved stuff in Favorites later."
+    },
+    {
+      "input": "Filter price?",
+      "output": "Yep! Use the price slider to set your budget range. We'll only show stuff in that price range."
+    },
+    {
+      "input": "Compare items?",
+      "output": "Absolutely! Tap the scale icon on up to 4 items to compare their features side by side."
+    },
+    {
+      "input": "AR how work?",
+      "output": "Tap the camera icon on a product, then point your phone where you want to see it in your space!"
+    },
+    {
+      "input": "Make account?",
+      "output": "Easy! Tap Profile > Sign Up. Use email, phone, or social media to create your account."
+    },
+    {
+      "input": "Reset pass?",
+      "output": "No problem! Tap 'Forgot Password' on login, enter your email, and we'll send reset instructions."
+    },
+    {
+      "input": "Change profile?",
+      "output": "Sure! Go to Profile > Edit Profile. Update your info there and remember to save changes."
+    },
+    {
+      "input": "Write review?",
+      "output": "Go to the product page, scroll to reviews, and tap 'Write Review'. Share your experience!"
+    },
+    {
+      "input": "Share item?",
+      "output": "Tap the share button (↗) on any product to send it to friends via message or social media."
+    },
+    {
+      "input": "Wishlist?",
+      "output": "Tap ♡ on items you like to add to wishlist. Great for saving ideas to consider later!"
+    },
+    {
+      "input": "Multiple addresses?",
+      "output": "Yes! Save different addresses in Settings > Addresses. Handy for home, work, etc."
+    },
+    {
+      "input": "Room planner?",
+      "output": "Our planner helps arrange furniture virtually. Pick your room size and drag items to try layouts."
+    },
+    {
+      "input": "Notifications?",
+      "output": "Turn them on in Settings > Notifications. Choose what alerts you want - sales, orders, etc."
+    },
+    {
+      "input": "Small sofa ideas",
+      "output": "For tight spaces, try a compact 2-seater from our 'Urban Compact' line - slim arms, small footprint."
+    },
+    {
+      "input": "Big family table",
+      "output": "Our 'Family Gather' tables seat 6-8 comfortably. Extendable options give you flexibility when needed."
+    },
+    {
+      "input": "Outdoor stuff?",
+      "output": "For outdoors, we recommend weatherproof materials like teak or aluminum - durable and easy to maintain."
+    },
+    {
+      "input": "Minimalist vibe",
+      "output": "Check our 'Minimalist Collection' - clean lines, neutral colors, and smart hidden storage solutions."
+    },
+    {
+      "input": "WFH setup",
+      "output": "For home offices, start with an adjustable desk and ergonomic chair. Our 'WorkSmart' series has great options."
+    },
+    {
+      "input": "Tiny apartment",
+      "output": "Our 'SpaceSaver' collection specializes in multifunctional furniture - sofa beds, storage ottomans, etc."
+    },
+    {
+      "input": "Reading nook",
+      "output": "Our 'Cozy Corner' chairs are perfect - plush cushions, wide armrests, some come with matching ottomans."
+    },
+    {
+      "input": "Modern coffee table",
+      "output": "The 'Urban Edge' collection has sleek coffee tables - clean lines, some with glass tops and metal frames."
+    },
+    {
+      "input": "Bedroom storage",
+      "output": "Our 'SpaceMax' line includes beds with built-in drawers and wardrobes with sliding doors to save space."
+    },
+    {
+      "input": "Kid-proof dining",
+      "output": "The 'Family Friendly' sets use durable, stain-resistant materials with stable chairs perfect for kids."
+    },
+    {
+      "input": "Balcony ideas",
+      "output": "Our 'Outdoor Living' collection has compact bistro sets and foldable chairs designed for balcony spaces."
+    },
+    {
+      "input": "Student desk",
+      "output": "The 'Study Smart' desks offer workspace, storage, and some have charging stations - great for students."
+    },
+    {
+      "input": "Gaming setup",
+      "output": "Our 'Game Zone' collection includes ergonomic gaming chairs and desks with cable management."
+    },
+    {
+      "input": "Home gym",
+      "output": "The 'FitSpace' line has durable, versatile pieces - storage for equipment, benches, and workout mirrors."
+    },
+    {
+      "input": "Home theater",
+      "output": "Our 'Cinema Comfort' sectionals have built-in cup holders and USB ports - perfect for movie nights."
+    },
+    {
+      "input": "Guest bed",
+      "output": "The 'Guest Ready' collection offers comfortable beds with storage - some are daybeds or have trundles."
+    },
+    {
+      "input": "Color matching",
+      "output": "Start with 2-3 main colors. Our app's 'Style Guide' helps visualize color combos with your furniture."
+    },
+    {
+      "input": "Modern vs contemporary",
+      "output": "Modern refers to mid-century style (1950s-60s), while contemporary means current trends. We categorize both."
+    },
+    {
+      "input": "Cohesive living room",
+      "output": "Choose a focal point (like a sofa), then build around it with consistent colors and textures."
+    },
+    {
+      "input": "Mix styles",
+      "output": "Pick one dominant style, then accent with others. Keep a consistent color palette for harmony."
+    },
+    {
+      "input": "Scandinavian",
+      "output": "Our 'Nordic Living' collection features light woods, clean lines, and natural materials - bright and airy."
+    },
+    {
+      "input": "Cozy bedroom",
+      "output": "Layer textures with plush bedding and rugs. Our 'Cozy Bedroom' collection creates warm, inviting spaces."
     }
   ]
 }
