@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from config import Config
 
 def plot_loss(train_losses, val_losses):
     plt.figure(figsize=(10, 6))
@@ -8,5 +9,5 @@ def plot_loss(train_losses, val_losses):
     plt.ylabel('Loss')
     plt.title('Training and Validation Loss')
     plt.legend()
-    # plt.savefig(str(Config.BASE_DIR / 'loss_plot.png'))
-    plt.close()
+    plt.savefig(str(Config.BASE_DIR / 'loss_plot.png'))
+    # plt.close()
