@@ -5671,6 +5671,314 @@
     {
       "input": "Which rug works with wheelchair wheels?",
       "output": "Low-pile ‘SmoothRoll’ rugs—easy to maneuver and won’t bunch up."
+    },
+    {
+      "input": "Bro, I need a couch that survives 3 boys under 10. Help! 😅",
+      "output": "Say no more! Our 'IndestructiSofa' has military-grade fabric, removable/washable covers, and a 5-year 'no tears' guarantee. Soccer balls bounce right off!"
+    },
+    {
+      "input": "Best desk for working from a Cairo balcony? It's HOT.",
+      "output": "Our 'BalconyPro' desk: Aluminum frame (won't rust), heat-reflective white surface, and built-in shade umbrella. Stays 20°C cooler than regular desks!"
+    },
+    {
+      "input": "عايزة سرير لأمى كبيرة فى السن... فيه حاجة سهلة النزول منها؟",
+      "output": "بالطبع! سرير 'ComfortElder' ارتفاعه قابل للتعديل (ضغط زر) مع درابزين أمان. توصيل مجاني وشخص سيعلمها كيفية استخدامه!"
+    },
+    {
+      "input": "My cat peed on my chair. Can I return it? 😾",
+      "output": "Oof! We can't accept returns for bio-hazards, but we'll deep-clean it for 300 EGP or give you 40% off a new 'PetProof' chair. Your choice!"
+    },
+    {
+      "input": "Furniture for a micro-apartment in Downtown? 30m² only!",
+      "output": "Our 'TokyoTiny' collection: Bed folds into wall, dining table drops from ceiling, and the sofa becomes a guest bed. Saves 80% space!"
+    },
+    {
+      "input": "What’s the TikTok-famous 'floating' shelf?",
+      "output": "That's our 'MagicFloat' shelf—no visible brackets! Holds 50kg (yes, even your 100-book 'romantasy' collection 📚). Viral because it looks like it defies gravity!"
+    },
+    {
+      "input": "I’m 2m tall. Office chairs always break. HALP.",
+      "output": "The 'GiantFriend' chair: Extra-tall back (supports up to 2.2m), reinforced gas lift, and 200kg weight limit. Designed for basketball players!"
+    },
+    {
+      "input": "Best rug for under a dining table? Spills happen. 🍷",
+      "output": "The 'OopsProof' rug: Stain-resistant top + waterproof backing. Red wine? Koshary? Just wipe off. Comes in 12 colors (including 'Tomato Sauce Camo')."
+    },
+    {
+      "input": "Need a bookshelf that won’t collapse in Alexandria’s humidity.",
+      "output": "Our 'CoastalOak' shelves are treated with anti-humidity sealant—won’t warp even at 90% humidity. Backed by a 10-year guarantee!"
+    },
+    {
+      "input": "Sofas for people who sweat a lot? 🥵",
+      "output": "The 'BreezeKnit' sofa: 3D-mesh fabric promotes airflow + cooling gel cushions. Perfect for Egyptian summers (and nervous job interviewees)."
+    },
+    {
+      "input": "Can I pay with Vodafone Cash?",
+      "output": "Yes! Scan the QR code at checkout. Confirmation is instant—no waiting for bank approvals."
+    },
+    {
+      "input": "Bed frame that doesn’t squeak… for reasons. 😏",
+      "output": "😉 Our 'SilentNight' frame uses rubberized joints and memory foam padding between parts. 100% squeak-free—we tested it *thoroughly*."
+    },
+    {
+      "input": "Most instagrammable kids’ bed?",
+      "output": "The 'DreamyLoft' bed: Looks like a fairy-tale castle by day, glows with stars at night. #ParentingWin guaranteed to get 1K+ likes."
+    },
+    {
+      "input": "Furniture that ships TODAY? Surprise guests coming!",
+      "output": "Emergency mode activated! These items dispatch in 2 hours: 'InstantGuest' sofa bed (assembles in 5 mins), 'FoldFeast' table (expands to seat 8)."
+    },
+    {
+      "input": "Chair for 8-hour gaming sessions? My back is dying.",
+      "output": "The 'StreamThrone' has lumbar massage, built-in snack tray, and USB ports for controllers. Rated #1 by Egyptian esports teams!"
+    },
+    {
+      "input": "Coffee table that won’t hurt my toddler’s head?",
+      "output": "The 'SoftEdge' table: Rounded silicone corners that soften on impact. Also survives crayon attacks (tested by 500 toddlers)."
+    },
+    {
+      "input": "Outdoor furniture that won’t fade in Sharm el-Sheikh sun?",
+      "output": "Our 'SunArmor' collection uses UV-50 fabric—guaranteed no fading for 7 years. Even the cushions won’t get ‘crunchy’!"
+    },
+    {
+      "input": "Sectional that fits through narrow stairwells?",
+      "output": "The 'PuzzleSofa' comes in 6 puzzle pieces—fits through 60cm doors, then clicks together in 10 mins. No tools needed!"
+    },
+    {
+      "input": "Dining chairs that don’t scrape my marble floors?",
+      "output": "The 'GlideSoft' chairs have silent felt bottoms + anti-tip design. Your floors (and downstairs neighbors) will thank you!"
+    },
+    {
+      "input": "Wardrobe for 50+ galabeyas? They keep piling up!",
+      "output": "The 'GalaSpace' wardrobe: Extra-deep hanging (1m width), cedar-lined shelves to preserve fabrics, and a built-in steamer!"
+    },
+    {
+      "input": "Futon that doesn’t feel like prison bedding?",
+      "output": "Our 'CloudFuton' has 3 layers of memory foam—folds flat but sleeps like a luxury mattress. Guests won’t even know it’s a futon!"
+    },
+    {
+      "input": "Furniture for a home bakery? Flour gets everywhere.",
+      "output": "Stainless steel 'BakePro' racks: Flour wipes right off, heat-resistant up to 250°C, and lockable wheels to move heavy mixers."
+    },
+    {
+      "input": "Shelf for 200+ vinyl records?",
+      "output": "The 'VinylFortress' holds 250 LPs—angled for easy browsing, with anti-warp dividers. Includes a hidden compartment for rare editions!"
+    },
+    {
+      "input": "Can I see this in AR before buying?",
+      "output": "Tap the 'AR View' button on any product! Point your camera, and it’ll appear life-size in your room. Even works with pets photobombing."
+    },
+    {
+      "input": "Bed for parents co-sleeping with a toddler?",
+      "output": "The 'FamilyNest' bed: King-size with attachable safety rails, and a pull-out mini bed for when they inevitably kick you."
+    },
+    {
+      "input": "Dining set that impresses mother-in-law? 😰",
+      "output": "The 'GoldenFeast' set: Hand-carved walnut with 24k gold leaf details. Comes with a 'compliment guarantee'—or we’ll refund 20%."
+    },
+    {
+      "input": "Office chair for someone with back surgery?",
+      "output": "Medical-grade 'ErgoHeal' chair: Orthopedic lumbar support, pressure-relief seat, and a doctor-approved 135° recline angle."
+    },
+    {
+      "input": "Furniture that survives moving every 6 months?",
+      "output": "The 'Nomad' collection: Lightweight aluminum, scratch-proof coatings, and tool-free assembly. Designed for serial renters!"
+    },
+    {
+      "input": "Couch that doesn’t show cat hair? I have 5 Persians.",
+      "output": "The 'FurDefy' fabric repels hair—just wipe with a damp cloth. Bonus: Claws can’t puncture it (tested by 1,000 angry cats)."
+    },
+    {
+      "input": "Table for a family of 10? Friday lunches are chaotic.",
+      "output": "The 'Pharaoh’s Feast' table extends from 6 to 12 seats! Includes lazy susan insert for koshary battles."
+    },
+    {
+      "input": "Bookshelf that doubles as room divider?",
+      "output": "The 'WallOfWords' is double-sided—stores books on both faces. Lets light through but hides messy bedrooms from guests!"
+    },
+    {
+      "input": "Chair for nursing moms?",
+      "output": "The 'MamaRocks' glider: Silent 360° swivel, adjustable armrests, and a built-in charging station for midnight feeds."
+    },
+    {
+      "input": "Furniture for a studio that’s also a yoga space?",
+      "output": "The 'ZenConvert' line: Murphy bed folds into wall, floor cushions store as a coffee table, and mirrored panels for form checks."
+    },
+    {
+      "input": "Shelf for 100+ perfumes? They’re my weakness.",
+      "output": "The 'ScentGallery' shelf: UV-protected glass (prevents fragrance degradation), LED lighting, and anti-tip anchors for precious collections."
+    },
+    {
+      "input": "Cabinet that locks? Teen keeps stealing my snacks.",
+      "output": "The 'SnackVault' looks like a chic sideboard—but has biometric lock (fingerprint access). Your chocolate is safe now."
+    },
+    {
+      "input": "Furniture for a home library with 500+ books?",
+      "output": "The 'Bibliophile’s Dream' system: Reinforced steel shelves (holds 1,000kg), sliding ladder, and built-in dehumidifier to protect pages."
+    },
+    {
+      "input": "Dining chairs for plus-sized guests?",
+      "output": "The 'WelcomingSeat': Extra-wide (60cm), 200kg capacity, and breathable mesh back. No more ‘squeezing in’ at family dinners!"
+    },
+    {
+      "input": "Sofa that converts to guest bed last-minute?",
+      "output": "The 'SurpriseBed': Looks like a regular sofa—pull the hidden lever, and it transforms into a queen bed in 3 seconds. No awkward inflatables!"
+    },
+    {
+      "input": "Desk for dual monitors + gaming setup?",
+      "output": "The 'StreamMaster' desk: Cable tunnels, RGB lighting control, and a motorized height adjuster. Fits 3 screens + your cat’s nap space."
+    },
+    {
+      "input": "Coffee table with charging ports?",
+      "output": "The 'TechHub' table: 6 USB ports, wireless charging pad, and a pop-up socket for laptops. No more crawling under furniture!"
+    },
+    {
+      "input": "Outdoor sofa that survives Red Sea salt air?",
+      "output": "The 'MarineGrade' set: Aluminum frame with anti-corrosion coating, salt-resistant fabric, and drainage holes in cushions. Hurghada-approved!"
+    },
+    {
+      "input": "Bedside table for insomniacs?",
+      "output": "The 'SleepAid' table: Built-in white noise machine, dimmable reading light, and a hidden compartment for midnight snacks (no crinkly wrappers!)."
+    },
+    {
+      "input": "Furniture for a home hair salon?",
+      "output": "The 'SalonPro' chair: Adjustable height, 360° swivel, and waterproof upholstery. Mirror with LED lighting mounts right to the wall!"
+    },
+    {
+      "input": "Shelf for shoes by the door? We’re a no-shoes house.",
+      "output": "The 'ShoeHaven': Ventilated slots for 24 pairs, drip tray for rainy days, and a top shelf for keys/masks. Fits in 50cm of space!"
+    },
+    {
+      "input": "Dining table for arts & crafts with kids?",
+      "output": "The 'CreateSpace' table: Wipe-clean epoxy surface, built-in paper roll holder, and stain-resistant chairs. Glitter disasters? No problem."
+    },
+    {
+      "input": "Cabinet to hide WiFi router? Ugly but necessary.",
+      "output": "The 'SignalKeeper': Mesh front (won’t block WiFi), cable management inside, and a plant shelf on top to disguise it."
+    },
+    {
+      "input": "Furniture for a balcony with no shade?",
+      "output": "The 'SunDefier' set: UV-blocking fabric (UPF 50+), heat-reflective metal, and a retractable canopy. Doesn’t get hot to the touch!"
+    },
+    {
+      "input": "Sofa for a movie marathon? 10+ hours comfy.",
+      "output": "The 'CineThrone': Reclines to 170°, cup holders that fit 1L bottles, and storage for 12 remotes. Comes with a ‘no sore butt’ guarantee."
+    },
+    {
+      "input": "Bed frame with built-in storage? No closet space.",
+      "output": "The 'StoreBed': 6 giant drawers + under-bed space for 10 suitcases. Lifts hydraulically—no heavy lifting!"
+    },
+    {
+      "input": "Chair for a 9-month pregnant wife? SOS.",
+      "output": "The 'MamaSanctuary': Extra-wide seat, lumbar massage, and a swing-out tray for her 4th snack plate. Buy now—thank us later."
+    },
+    {
+      "input": "Furniture for a home bar?",
+      "output": "The 'MixMaster' cabinet: Fridge space for 30 bottles, drop-down serving tray, and LED mood lighting. Turns into a coffee station by morning!"
+    },
+    {
+      "input": "Shelf for 50+ houseplants?",
+      "output": "The 'UrbanJungle' stand: Adjustable heights for different plants, drip-catching trays, and a built-in grow light for fussy orchids."
+    },
+    {
+      "input": "Table for balcony sheesha nights?",
+      "output": "The 'HookahHaven': Heat-resistant surface, hose hooks underneath, and a wind guard. Fits 4 people comfortably (and 6 uncomfortably)."
+    },
+    {
+      "input": "Furniture for a podcast studio?",
+      "output": "The 'PodCastle': Sound-absorbing panels disguised as bookshelves, anti-squeak chairs, and a desk with hidden mic mounts. Your listeners will hear the difference!"
+    },
+    {
+      "input": "Sofa for a therapist’s office?",
+      "output": "The 'ComfortCounsel': Neutral but warm fabric, non-reclining (avoids awkward positions), and tissues within arm’s reach of both seats."
+    },
+    {
+      "input": "Kid’s desk for online school?",
+      "output": "The 'StudyBuddy': Height-adjustable from ages 5-15, built-in timer for breaks, and a whiteboard surface for math meltdowns."
+    },
+    {
+      "input": "Furniture for a home nail salon?",
+      "output": "The 'ManicureMaven': Fold-out hand rest, UV lamp shelf, and spill-proof polish storage. Wheels lock so clients don’t roll away mid-mani!"
+    },
+    {
+      "input": "Cabinet to hide cat litter box?",
+      "output": "The 'LitterPalace': Ventilated doors, odor-filtering charcoal panels, and a step-in design for senior cats. Looks like a chic side table!"
+    },
+    {
+      "input": "Shelf for action figure collection?",
+      "output": "The 'HeroDisplay': Glass doors (dust-free), LED spotlighting, and adjustable tiers for different heights. Fits 100+ figures with drama!"
+    },
+    {
+      "input": "Furniture for a tiny home office? Like, REALLY tiny.",
+      "output": "The 'Cloffice' (closet+office): Folds completely flat against the wall, has a pop-up desk, and magnetic organizers for supplies. 1m² is all you need!"
+    },
+    {
+      "input": "Chair for a makeup vanity?",
+      "output": "The 'GlamSeat': 360° swivel, faux-fur upholstery (no makeup stains), and a hidden compartment for 20 lipsticks. Your backstage throne!"
+    },
+    {
+      "input": "Table for balcony breakfasts?",
+      "output": "The 'SunriseBistro': Folds from 2 to 4 seats, has a hole for an umbrella, and trays that click onto the sides for mimosa brunches."
+    },
+    {
+      "input": "Furniture for a home music studio?",
+      "output": "The 'SoundShed': Acoustic foam panels disguised as wall art, a silent-rolling chair, and cable channels to prevent tripping over guitar cords."
+    },
+    {
+      "input": "Shelf for spices in the kitchen?",
+      "output": "The 'SpiceTower': Rotating carousel holds 50 jars, labels included, with a moisture-proof seal to keep your cumin fresh."
+    },
+    {
+      "input": "Cabinet to display sneaker collection?",
+      "output": "The 'SneakerShrine': Individual LED-lit cubbies, anti-yellowing UV protection, and a glass door to flex without dusting."
+    },
+    {
+      "input": "Furniture for a home tattoo studio?",
+      "output": "The 'InkThrone': Medical-grade vinyl upholstery (bleach-cleanable), adjustable armrests, and a tool tray that locks in place. Health inspector-approved!"
+    },
+    {
+      "input": "Chair for a home calligraphy setup?",
+      "output": "The 'ScriptPerch': Slightly tilted seat for better posture, ink-resistant fabric, and a drawer for 50 nibs. Your back will thank you after 3-hour sessions!"
+    },
+    {
+      "input": "Table for balcony gardening?",
+      "output": "The 'GreenThumb': Waterproof surface with drainage grooves, hooks for hanging tools, and fold-down sides to fit seed trays. Grow in style!"
+    },
+    {
+      "input": "Furniture for a home VR gaming zone?",
+      "output": "The 'VirtuSpace': Crash-padded walls, a swiveling chair with no arms (for flailing), and cable management to avoid ‘tripped and died’ moments."
+    },
+    {
+      "input": "Shelf for vinyl records AND player?",
+      "output": "The 'SpinDisplay': Holds 150 LPs + has a pull-out shelf for your turntable, with cable ports to hide wires. Audiophiles rejoice!"
+    },
+    {
+      "input": "Cabinet for board games?",
+      "output": "The 'GameVault': Extra-deep shelves for giant boxes, a slide-out table for play, and labeled bins for loose pieces. Catan chaos solved!"
+    },
+    {
+      "input": "Furniture for a home photo studio?",
+      "output": "The 'ClickNook': Foldable backdrops store in the base, a ring light that clips on, and a stool that adjusts from newborn to adult heights."
+    },
+    {
+      "input": "Chair for a home henna artist?",
+      "output": "The 'HennaHaven': Low-to-the-ground cushion with back support, stain-proof fabric, and a side tray for cones. Sit cross-legged in comfort!"
+    },
+    {
+      "input": "Table for balcony yoga?",
+      "output": "The 'OmAloft': Folds flat against the wall but expands to fit 2 mats. Has a holder for your phone (for guided sessions) and a hook for towels."
+    },
+    {
+      "input": "Furniture for a home pottery studio?",
+      "output": "The 'ClayStation': Waterproof work surface, shelves that hold 20kg of clay each, and wheels that lock so your wheel stays put!"
+    },
+    {
+      "input": "Shelf for tea collection?",
+      "output": "The 'TeaTower': 50 airtight tins included, humidity-controlled glass doors, and a built-in scale for perfect measurements. Chai lovers unite!"
+    },
+    {
+      "input": "Cabinet for makeup organization?",
+      "output": "The 'VanityVault': 10 adjustable drawers, a mirror that flips to 5x magnification, and LED lighting that mimics daylight. No more ‘foundation mismatch’!"
     }
   ]
 }
