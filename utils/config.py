@@ -20,7 +20,7 @@ class Config:
     # Tokenizer Parameters
     MAX_INPUT_LENGTH = 128
     MAX_OUTPUT_LENGTH = 256
-    VOCAB_SIZE = 4000
+    VOCAB_SIZE = 5000
     PAD_TOKEN = "[PAD]"
     UNK_TOKEN = "[UNK]"
     SOS_TOKEN = "[SOS]"
