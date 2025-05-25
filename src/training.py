@@ -34,6 +34,7 @@ def train_epoch(model, train_loader, optimizer, criterion, device):
         loss = criterion(outputs, target)
         
         loss.backward()
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=1.0)
         optimizer.step()
         
         epoch_loss += loss.item()
@@ -45,7 +46,7 @@ def validate(model, val_loader, criterion, device):
     model.eval()
     epoch_loss = 0
     with torch.no_grad():
-        for batch in tqdm(val_loader, desc="validationi"):
+        for batch in tqdm(val_loader, desc=f"validation"):
             input_ids = batch["input_ids"].to(device)
             input_len = batch["input_lengths"].to(device)
             target_ids = batch["output_ids"].to(device)
@@ -92,7 +93,7 @@ def main():
     )
     model = Seq2Seq(encoder, decoder)
     model = model.to(Config.DEVICE)
-    optimizer = optim.Adam(model.parameters(), lr=Config.LEARNING_RATE)
+    optimizer = optim.Adam(model.parameters(), lr=Config.LEARNING_RATE, weight_decay=1e-4)
     pad_token = dataset.tokenizer.encode(Config.PAD_TOKEN).ids[0]
     criterion = nn.CrossEntropyLoss(ignore_index=pad_token)
     
@@ -124,7 +125,7 @@ def main():
                 'valid_loss': val_loss,
             }, str(Config.CHECKPOINT_DIR / f'model_epoch_{epoch+1}.pt'))
     
-            print(f'\tTrain Loss: {train_loss:.3f} | Valid Loss: {val_loss:.3f}')
+            print(f'epoch: {epoch}\tTrain Loss: {train_loss:.3f} | Valid Loss: {val_loss:.3f}')
             train_losses.append(train_loss)
             val_losses.append(val_loss)
             
