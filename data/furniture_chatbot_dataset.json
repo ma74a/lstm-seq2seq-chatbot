@@ -5979,6 +5979,238 @@
     {
       "input": "Cabinet for makeup organization?",
       "output": "The 'VanityVault': 10 adjustable drawers, a mirror that flips to 5x magnification, and LED lighting that mimics daylight. No more ‘foundation mismatch’!"
+    },
+    {
+      "input": "Hi there",
+      "output": "Hello! Welcome to our furniture app. How can I help you find the perfect furniture for your home today?"
+    },
+    {
+      "input": "Hello!",
+      "output": "Hi there! I'm your furniture shopping assistant. Would you like to browse our collections, get recommendations, or learn about our services?"
+    },
+    {
+      "input": "Good morning",
+      "output": "Good morning! I'm here to help you with all your furniture needs. What would you like to explore today?"
+    },
+    {
+      "input": "Morning!",
+      "output": "Good morning! I'm here to help you with all your furniture needs. What would you like to explore today?"
+    },
+    {
+      "input": "Afternoon!",
+      "output": "Good afternoon! How can I assist you with your furniture shopping today?"
+    },
+    {
+      "input": "Good evening!",
+      "output": "Good evening! I'm here to help you find the perfect furniture. What are you looking for today?"
+    },
+    {
+      "input": "Hey there",
+      "output": "Hey there! Ready to find some amazing furniture? I'm here to help you with recommendations, styling advice, or any questions you might have."
+    },
+    {
+      "input": "See you soon",
+      "output": "See you later! Thanks for stopping by. When you return, I'll be here to help you find the perfect furniture for your home."
+    },
+    {
+      "input": "Appreciate it",
+      "output": "You're welcome! I'm glad I could help. If you need any more assistance with furniture shopping, just let me know. Happy shopping!"
+    },
+    {
+      "input": "Much appreciated",
+      "output": "You're very welcome! I'm here to help you find the perfect furniture. Feel free to ask if you need any more recommendations or have questions about our products."
+    },
+    {
+      "input": "I have a question",
+      "output": "I'm here to help! What kind of assistance do you need? I can help you find furniture, answer questions about our products, guide you through the app, or assist with your orders."
+    },
+    {
+      "input": "Could you help me?",
+      "output": "Of course I can help you! I'm your personal furniture shopping assistant. What would you like help with today?"
+    },
+    {
+      "input": "What can you assist me with?",
+      "output": "I can help you with many things! I can recommend furniture, explain how to use the app, answer questions about our products, help with orders, provide styling advice, and much more."
+    },
+    {
+      "input": "Just looking around",
+      "output": "That's great! Feel free to explore our collections. I'm here if you need any recommendations or have questions about our furniture."
+    },
+    {
+      "input": "How\u2019s your day going?",
+      "output": "I'm doing well, thank you for asking! I'm ready to help you find the perfect furniture for your home."
+    },
+    {
+      "input": "Pleasure to meet you",
+      "output": "Nice to meet you too! I'm excited to help you find furniture that matches your style and needs."
+    },
+    {
+      "input": "I'm back again",
+      "output": "Welcome back! Would you like to continue where we left off, or is there something new you'd like to explore today?"
+    },
+    {
+      "input": "Wanna talk?",
+      "output": "Of course! I'm here to chat and help you with all your furniture needs."
+    },
+    {
+      "input": "Anything new in store?",
+      "output": "We have some exciting new arrivals in our collection! Check out our latest designs."
+    },
+    {
+      "input": "Are there any sales right now?",
+      "output": "Yes, we currently have a summer sale with up to 50% off on selected items."
+    },
+    {
+      "input": "Where do I start in the app?",
+      "output": "Welcome to our app! You can browse by category, use the search bar, or filter by price."
+    },
+    {
+      "input": "How can I look for a couch?",
+      "output": "You can search by typing 'sofa' or 'couch' in the search bar."
+    },
+    {
+      "input": "Can I save things I like?",
+      "output": "Yes, tap the heart icon to save items to your favorites."
+    },
+    {
+      "input": "How to filter by price?",
+      "output": "Use the price range slider in the filter menu to narrow your search."
+    },
+    {
+      "input": "Can I compare options?",
+      "output": "Yes, tap the compare icon to compare features of up to 4 items."
+    },
+    {
+      "input": "How can I see items in my space?",
+      "output": "Use the AR feature by tapping the camera icon on the product page."
+    },
+    {
+      "input": "How do I register?",
+      "output": "Tap the profile icon, then 'Sign Up' to register with email or social media."
+    },
+    {
+      "input": "Can I change my password?",
+      "output": "Tap 'Forgot Password' on the login screen and follow the instructions."
+    },
+    {
+      "input": "How do I edit my profile?",
+      "output": "Go to 'Edit Profile' under your account settings to update your information."
+    },
+    {
+      "input": "How do I leave a review?",
+      "output": "Go to the item's page, scroll to reviews, and tap 'Write a Review'."
+    },
+    {
+      "input": "How do I share furniture with friends?",
+      "output": "Use the share icon on any product page to send links to friends."
+    },
+    {
+      "input": "Can I make a wishlist?",
+      "output": "Yes, tap the heart icon. All saved items appear in your wishlist."
+    },
+    {
+      "input": "Can I save more than one address?",
+      "output": "Yes, you can save multiple addresses from your profile settings."
+    },
+    {
+      "input": "What\u2019s a good sofa for small spaces?",
+      "output": "Try our compact 2-seater sofas with slim arms to save space."
+    },
+    {
+      "input": "I need a dining table for 4",
+      "output": "Our 'Family Table' series offers compact dining tables for 4 people."
+    },
+    {
+      "input": "Which fabric is best for a couch?",
+      "output": "Microfiber and performance fabrics are durable and easy to clean."
+    },
+    {
+      "input": "Can I track my order?",
+      "output": "Yes, go to the 'Orders' section in the app to see real-time tracking."
+    },
+    {
+      "input": "Do you offer delivery?",
+      "output": "Yes, we offer standard and express delivery services."
+    },
+    {
+      "input": "Is there a return policy?",
+      "output": "We have a 30-day return policy on most items."
+    },
+    {
+      "input": "Do you assemble the furniture?",
+      "output": "Yes, assembly services are available during checkout."
+    },
+    {
+      "input": "How do I pay?",
+      "output": "We accept cards, PayPal, and digital wallets."
+    },
+    {
+      "input": "Can I update my order?",
+      "output": "Yes, you can modify your order before it ships from the 'Orders' tab."
+    },
+    {
+      "input": "Can I cancel my order?",
+      "output": "Yes, if it hasn't shipped. Visit 'Orders' and tap 'Cancel'."
+    },
+    {
+      "input": "Can I speak to support?",
+      "output": "Yes, go to 'Help' for live chat, email, or phone support 24/7."
+    },
+    {
+      "input": "How do I upload a picture to search?",
+      "output": "Tap the camera icon in the search bar to upload a photo."
+    },
+    {
+      "input": "Do you offer eco-friendly furniture?",
+      "output": "Yes, look for items with the 'Eco-Friendly' badge."
+    },
+    {
+      "input": "Do you ship internationally?",
+      "output": "Yes, international shipping is available to most countries."
+    },
+    {
+      "input": "What\u2019s trending now?",
+      "output": "Sustainable materials and modern minimalist designs are trending."
+    },
+    {
+      "input": "Do you offer interior design advice?",
+      "output": "Yes, you can chat with a design advisor for styling tips."
+    },
+    {
+      "input": "Can I finance my furniture?",
+      "output": "Yes, we offer financing options at checkout."
+    },
+    {
+      "input": "How do I enable notifications?",
+      "output": "Go to Settings > Notifications to manage preferences."
+    },
+    {
+      "input": "Do you have gift cards?",
+      "output": "Yes, you can purchase digital gift cards from the menu."
+    },
+    {
+      "input": "Can I rent furniture?",
+      "output": "Yes, short-term and long-term furniture rentals are available."
+    },
+    {
+      "input": "Can I change my delivery address?",
+      "output": "Yes, change your delivery address from the 'Orders' section before shipping."
+    },
+    {
+      "input": "Do you offer bundle deals?",
+      "output": "Yes, check out our furniture sets for living rooms and bedrooms."
+    },
+    {
+      "input": "How do I clean velvet furniture?",
+      "output": "Use a soft brush or vacuum and avoid moisture on velvet."
+    },
+    {
+      "input": "Can I get reminders for sales?",
+      "output": "Yes, enable notifications to receive alerts for sales and deals."
+    },
+    {
+      "input": "How do I leave feedback?",
+      "output": "Go to the 'Help' section and select 'Feedback' to share your experience."
     }
   ]
 }
