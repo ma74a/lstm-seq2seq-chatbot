@@ -70,7 +70,7 @@ def chat_with_model(model: Seq2Seq, tokenizer: Tokenizer) -> None:
 if __name__ == "__main__":
     tokenizer = Tokenizer.from_file(str(Config.TOKENIZER_PATH))
     
-    model = load_model(Config.CHECKPOINT_DIR / "best_model.pt")
+    model = load_model(Config.CHECKPOINT_DIR / "best_model (1).pt")
     model.eval()
     
     chat_with_model(model, tokenizer)
