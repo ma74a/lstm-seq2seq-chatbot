@@ -8,7 +8,7 @@ class Config:
     # LSTM Model Parameters
     EMBED_SIZE = 512
     HIDDEN_SIZE = 512
-    NUM_LAYER = 2
+    NUM_LAYER = 1
     DROPOUT = 0.7
     
     # Hyper Parameters
@@ -20,7 +20,7 @@ class Config:
     # Tokenizer Parameters
     MAX_INPUT_LENGTH = 128
     MAX_OUTPUT_LENGTH = 256
-    VOCAB_SIZE = 5000
+    VOCAB_SIZE = 6000
     PAD_TOKEN = "[PAD]"
     UNK_TOKEN = "[UNK]"
     SOS_TOKEN = "[SOS]"
