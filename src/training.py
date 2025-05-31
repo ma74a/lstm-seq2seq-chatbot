@@ -11,7 +11,7 @@ from tqdm import tqdm
 from utils.config import Config
 from seq2seq_model import Encoder, Decoder, Seq2Seq
 from dataset import ChatbotDataset, create_data_loader
-from utils.visualize import plot_loss
+# from utils.visualize import plot_loss
 
 
 def train_epoch(model, train_loader, optimizer, criterion, device):
@@ -72,6 +72,7 @@ def main():
     train_size = int(0.8 * len(dataset))
     val_size = len(dataset) - train_size
     train_dataset, val_dataset = random_split(dataset, [train_size, val_size])
+    print(train_size, val_size)
     
     train_loader = create_data_loader(dataset=train_dataset, batch_size=Config.BATCH_SIZE, shuffle=True)
     val_loader = create_data_loader(dataset=val_dataset)
@@ -130,7 +131,7 @@ def main():
             val_losses.append(val_loss)
             
             
-    plot_loss(train_losses, val_losses)
+    # plot_loss(train_losses, val_losses)
             
 if __name__ == "__main__":
     main()
