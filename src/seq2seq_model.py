@@ -10,59 +10,91 @@ from typing import Tuple
 
 from utils.config import Config
 
+# class Encoder(nn.Module):
+#     def __init__(self, vocab_size: int,
+#                         embedd_size: int,
+#                         hidden_size: int,
+#                         num_layer: int,
+#                         dropout: float) -> None:
+#         """This class takes tokenized input sequences, embeds them, and passes them through
+#            an LSTM to produce hidden and cell states that represent the input sequence.
+
+#         Args:
+#             vocab_size (int): Number of tokens in the vocabulary.
+#             embedd_size (int): Dimensionality of the embedding vectors.
+#             hidden_size (int): Number of features in the hidden state of the LSTM.
+#             num_layer (int): Number of LSTM layer
+#             dropout (float): Dropout value
+#         """
+#         super().__init__()
+#         self.embedding_layer = nn.Embedding(num_embeddings=vocab_size,
+#                                             embedding_dim=embedd_size)
+#         self.lstm = nn.LSTM(input_size=embedd_size,
+#                             hidden_size=hidden_size,
+#                             num_layers=num_layer,
+#                             batch_first=True,
+#                             dropout=dropout if num_layer > 1 else 0)
+#         self.dropout = nn.Dropout(p=dropout)
+        
+#     # input_seq: [batch_size, input_seq]
+#     def forward(self, input_ids: Tensor, 
+#                       input_len: Tensor) -> Tuple[Tensor, Tuple[Tensor, Tensor]]:
+#         """Forward pass of the encoder with packed padded sequences.
+
+#         Args:
+#             input_ids (Tensor): Input tokens from tokenizer
+#             input_len (Tensor): Each input len
+
+#         Returns:
+#             Tuple[Tensor, Tuple[Tensor, Tensor]]: Outputs, hidden_state, cell_state
+#         """
+#         embedding = self.dropout(self.embedding_layer(input_ids))
+        
+#         packed = nn.utils.rnn.pack_padded_sequence(
+#             input=embedding,
+#             lengths=input_len.cpu(),
+#             batch_first=True,
+#             enforce_sorted=False
+#         )
+#         outputs, (hidden_state, cell_state) = self.lstm(packed)
+        
+#         outputs, _ = nn.utils.rnn.pad_packed_sequence(outputs, batch_first=True)
+        
+#         # outputs: [batch_size, max_seq_len, hidden_size]
+#         # hidden, cell [num_layers, batch_size, hidden_size]
+#         return outputs, (hidden_state, cell_state)
+
 class Encoder(nn.Module):
     def __init__(self, vocab_size: int,
-                        embedd_size: int,
-                        hidden_size: int,
-                        num_layer: int,
-                        dropout: float) -> None:
-        """This class takes tokenized input sequences, embeds them, and passes them through
-           an LSTM to produce hidden and cell states that represent the input sequence.
-
-        Args:
-            vocab_size (int): Number of tokens in the vocabulary.
-            embedd_size (int): Dimensionality of the embedding vectors.
-            hidden_size (int): Number of features in the hidden state of the LSTM.
-            num_layer (int): Number of LSTM layer
-            dropout (float): Dropout value
-        """
+                       embedd_size: int,
+                       hidden_size: int,
+                       num_layer: int,
+                       dropout: float,
+                       attention_heads: int = 4) -> None:
         super().__init__()
-        self.embedding_layer = nn.Embedding(num_embeddings=vocab_size,
-                                            embedding_dim=embedd_size)
-        self.lstm = nn.LSTM(input_size=embedd_size,
-                            hidden_size=hidden_size,
-                            num_layers=num_layer,
-                            batch_first=True,
-                            dropout=dropout if num_layer > 1 else 0)
+        self.embedding_layer = nn.Embedding(vocab_size, embedd_size)
+        self.lstm = nn.LSTM(
+            input_size=embedd_size,
+            hidden_size=hidden_size,
+            num_layers=num_layer,
+            batch_first=True,
+            dropout=dropout if num_layer > 1 else 0
+        )
         self.dropout = nn.Dropout(p=dropout)
-        
-    # input_seq: [batch_size, input_seq]
-    def forward(self, input_ids: Tensor, 
-                      input_len: Tensor) -> Tuple[Tensor, Tuple[Tensor, Tensor]]:
-        """Forward pass of the encoder with packed padded sequences.
+        self.attention = nn.MultiheadAttention(embed_dim=hidden_size, num_heads=attention_heads, batch_first=True)
 
-        Args:
-            input_ids (Tensor): Input tokens from tokenizer
-            input_len (Tensor): Each input len
-
-        Returns:
-            Tuple[Tensor, Tuple[Tensor, Tensor]]: Outputs, hidden_state, cell_state
-        """
+    def forward(self, input_ids: Tensor, input_len: Tensor) -> Tuple[Tensor, Tuple[Tensor, Tensor]]:
         embedding = self.dropout(self.embedding_layer(input_ids))
         
-        packed = nn.utils.rnn.pack_padded_sequence(
-            input=embedding,
-            lengths=input_len.cpu(),
-            batch_first=True,
-            enforce_sorted=False
-        )
+        packed = nn.utils.rnn.pack_padded_sequence(embedding, input_len.cpu(), batch_first=True, enforce_sorted=False)
         outputs, (hidden_state, cell_state) = self.lstm(packed)
-        
         outputs, _ = nn.utils.rnn.pad_packed_sequence(outputs, batch_first=True)
         
-        # outputs: [batch_size, max_seq_len, hidden_size]
-        # hidden, cell [num_layers, batch_size, hidden_size]
-        return outputs, (hidden_state, cell_state)
+        # Apply self-attention
+        attention_output, _ = self.attention(outputs, outputs, outputs)  # Q = K = V = LSTM outputs
+        
+        return attention_output, (hidden_state, cell_state)
+
     
 class Decoder(nn.Module):
     def __init__(self, vocab_size: int,
