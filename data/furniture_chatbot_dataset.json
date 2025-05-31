@@ -6211,6 +6211,1246 @@
     {
       "input": "How do I leave feedback?",
       "output": "Go to the 'Help' section and select 'Feedback' to share your experience."
+    },
+    {
+      "input": "Do you have any used sofas available?",
+      "output": "Yes! We currently have several used sofas in stock. We have a 3-seat leather sofa in brown for $450, a fabric sectional in gray for $680, and a vintage velvet loveseat for $280. Would you like more details about any of these options?"
+    },
+    {
+      "input": "What's the condition of the brown leather sofa?",
+      "output": "The brown leather sofa is in good condition with minor wear on the armrests and some light scratches on the back. The cushions are firm and comfortable. Overall, I'd rate it 7/10. It's been well-maintained and comes from a smoke-free home."
+    },
+    {
+      "input": "Can you negotiate on the price of the sectional?",
+      "output": "The sectional is priced at $680, which is already competitive for its condition and brand. I might be able to offer a small discount if you're purchasing multiple items or can pick it up this week. What's your budget range?"
+    },
+    {
+      "input": "I'm looking for a dining table for 6 people",
+      "output": "Perfect! I have a beautiful oak dining table that seats 6 comfortably. It's rectangular, measures 72x36 inches, and is in excellent condition with just minor surface scratches. Priced at $320. We also have a round pedestal table that extends to seat 6 for $280."
+    },
+    {
+      "input": "Is the oak table still available?",
+      "output": "Yes, the oak dining table is still available! It's been very popular, so I'd recommend securing it soon if you're interested. Would you like to schedule a time to see it in person or arrange pickup?"
+    },
+    {
+      "input": "What bedroom furniture do you have?",
+      "output": "We have several bedroom pieces: a queen-size platform bed frame in walnut ($380), a 6-drawer dresser with mirror ($240), two matching nightstands ($80 each), and a vintage armoire in cherry wood ($420). All are in good to excellent condition."
+    },
+    {
+      "input": "Tell me about the vintage armoire",
+      "output": "The vintage cherry wood armoire is a beautiful piece from the 1980s. It's 72 inches tall, 48 inches wide, with hanging space and three drawers at the bottom. There's some minor veneer lifting on one side, but it's structurally sound and has lovely brass hardware. Great for storing clothes or linens."
+    },
+    {
+      "input": "Do you deliver furniture?",
+      "output": "Yes, we offer delivery within a 25-mile radius. Delivery fees range from $50-120 depending on the size of items and distance. We can also help arrange professional movers for larger pieces if needed. Many customers also choose to pick up items themselves to save on delivery costs."
+    },
+    {
+      "input": "I need office furniture for my home office",
+      "output": "Great! For home offices, we have a solid wood executive desk ($180), an ergonomic office chair in black leather ($95), a 4-shelf bookcase ($65), and a 2-drawer filing cabinet ($45). All are in good working condition and perfect for a professional home setup."
+    },
+    {
+      "input": "Is the office chair comfortable for long hours?",
+      "output": "The black leather office chair has good lumbar support and adjustable height, which makes it suitable for extended use. The padding is still firm and the casters roll smoothly. However, being used furniture, I'd recommend testing it out first to ensure it meets your comfort needs for long work sessions."
+    },
+    {
+      "input": "What's your return policy?",
+      "output": "Since we sell used furniture, all sales are final. However, we encourage you to inspect items thoroughly before purchase. We're happy to arrange viewing appointments and provide detailed photos. If there are any undisclosed issues, we'll work with you to find a fair solution within 24 hours of pickup."
+    },
+    {
+      "input": "Can I see more photos of the sectional sofa?",
+      "output": "Absolutely! I can send you additional photos showing different angles, close-ups of the fabric condition, and the sectional's configuration. I'll also include measurements. Would you prefer them via email or text? This will help you get a better sense of how it might fit in your space."
+    },
+    {
+      "input": "Do you have any coffee tables?",
+      "output": "Yes! We have a glass-top coffee table with metal legs for $85, a rustic wooden coffee table with storage for $120, and a vintage oval coffee table in mahogany for $95. Each has character and would make a great centerpiece for your living room."
+    },
+    {
+      "input": "What are the dimensions of the glass coffee table?",
+      "output": "The glass-top coffee table measures 48 inches long by 24 inches wide by 16 inches high. The glass is tempered for safety and has minimal scratches. The metal frame is powder-coated black and very sturdy. It's modern in style and would complement contemporary decor well."
+    },
+    {
+      "input": "I'm interested in the wooden coffee table with storage",
+      "output": "Excellent choice! The rustic wooden coffee table has a lift-top design with hidden storage underneath - perfect for blankets, magazines, or remotes. It's made of reclaimed wood with a natural finish, measures 42x22x18 inches, and has beautiful wood grain patterns. Very functional and stylish."
+    },
+    {
+      "input": "Do you have matching furniture sets?",
+      "output": "We do have some coordinating pieces! The bedroom set I mentioned (platform bed, dresser, and nightstands) all match in walnut finish. We also have a dining set with the oak table and 4 matching chairs available separately. Living room sets are harder to find complete, but I can help you find pieces that complement each other."
+    },
+    {
+      "input": "How old is the platform bed frame?",
+      "output": "The walnut platform bed frame is approximately 3 years old. It was purchased from a mid-range furniture store and has been well-maintained. There are no structural issues, just some light surface wear on the headboard. The slat system is intact and provides good mattress support."
+    },
+    {
+      "input": "Can you hold items for me?",
+      "output": "I can hold items for up to 48 hours with a $50 non-refundable deposit. This gives you time to arrange pickup or delivery. After 48 hours, if we haven't heard from you, the item goes back on sale and the deposit is forfeited. This policy helps ensure serious buyers and fair access to inventory."
+    },
+    {
+      "input": "What payment methods do you accept?",
+      "output": "We accept cash, credit cards (Visa, MasterCard, American Express), debit cards, and digital payments like Venmo or PayPal for online transactions. For larger purchases over $500, we also offer payment plans with 50% down and the balance due at pickup/delivery."
+    },
+    {
+      "input": "I'm looking for kids' furniture",
+      "output": "We have some great kids' pieces! There's a white twin bed frame with trundle ($180), a colorful toy chest ($60), a small desk and chair set perfect for homework ($75), and a 3-shelf bookcase in bright blue ($45). All have been safety-checked and are in good condition."
+    },
+    {
+      "input": "Is the trundle bed safe for children?",
+      "output": "Yes, the twin bed with trundle meets all safety standards. The frame is solid wood construction with rounded corners, and the trundle mechanism operates smoothly. We've inspected all joints and hardware. I'd recommend checking the mattress requirements - it uses standard twin and twin XL mattresses."
+    },
+    {
+      "input": "Do you buy used furniture too?",
+      "output": "Yes, we do purchase used furniture! We're always looking for quality pieces in good condition. I'd need to see photos first, then potentially schedule an in-home assessment. We buy individual pieces or entire estates. Our buying criteria focus on condition, demand, and resale potential."
+    },
+    {
+      "input": "What do you look for when buying furniture?",
+      "output": "When buying used furniture, we evaluate condition, brand reputation, current market demand, and resale potential. We prefer pieces with minimal wear, no structural damage, and from non-smoking homes. Popular items include mid-century modern pieces, solid wood furniture, and name-brand items in good condition."
+    },
+    {
+      "input": "How do you determine furniture prices?",
+      "output": "Our pricing considers several factors: original retail value, current condition, brand reputation, age, market demand, and how quickly similar items sell. We typically price items at 20-40% of original retail, depending on condition. Popular or vintage pieces may be priced higher due to demand."
+    },
+    {
+      "input": "Can you help me furnish a studio apartment?",
+      "output": "Absolutely! For a studio apartment, I'd recommend space-efficient pieces: a daybed that doubles as seating ($220), a compact dining table that can serve as a desk ($140), a storage ottoman ($85), and wall-mounted shelving ($35). These pieces maximize functionality while maintaining an open feel."
+    },
+    {
+      "input": "What's the best way to arrange a viewing?",
+      "output": "To schedule a viewing, I can arrange appointments Tuesday through Saturday between 10 AM and 6 PM. I'll need about 30 minutes notice and prefer to group viewings efficiently. You can call, text, or email to set up a time. I'll have all the pieces you're interested in ready for inspection."
+    },
+    {
+      "input": "Do you clean the furniture before selling?",
+      "output": "Yes, all furniture is cleaned and sanitized before being offered for sale. We vacuum upholstered pieces, clean and condition leather, polish wood surfaces, and disinfect all items. However, some wear and character marks remain as part of the item's history - that's the charm of used furniture!"
+    },
+    {
+      "input": "I need furniture that fits through a narrow doorway",
+      "output": "That's a common concern! I can help identify pieces that will work. What are your doorway dimensions? Many of our modular pieces come apart, sectionals separate, and table legs often detach. I always provide exact measurements and can advise on the best disassembly/reassembly approach for tight spaces."
+    },
+    {
+      "input": "What's the story behind the vintage pieces?",
+      "output": "I love sharing furniture histories! The mahogany coffee table came from an estate sale - belonged to a local teacher for 40 years. The cherry armoire was a wedding gift from 1985, barely used. The velvet loveseat is from a downtown apartment renovation. Each piece has character and stories that make them special."
+    },
+    {
+      "input": "Are there any items you won't sell?",
+      "output": "We have quality standards - no items with structural damage, excessive wear, stains that won't clean, or safety issues. We also avoid pieces from homes with heavy smoking or pet damage that affects hygiene. Everything we sell must meet our condition standards and be something we'd feel good having in our own homes."
+    },
+    {
+      "input": "Can you recommend items for a college dorm?",
+      "output": "For dorm rooms, I'd suggest compact, multi-functional pieces: a small desk chair ($35), a storage cube that serves as seating ($25), a narrow bookshelf ($40), and a compact nightstand ($30). These items are easy to move, fit small spaces, and won't break the college budget!"
+    },
+    {
+      "input": "What's your busiest day for new inventory?",
+      "output": "We typically receive the most new inventory on Mondays and Thursdays, as those are our main pickup days from estate sales and individual sellers. If you're looking for the best selection, Tuesday and Friday mornings are great times to check what's new. I can also keep a wishlist for specific items you're seeking."
+    },
+    {
+      "input": "Do you have any antique pieces?",
+      "output": "We occasionally get antique and vintage pieces! Currently, we have that mahogany coffee table from the 1960s and the cherry armoire from the 1980s. True antiques (100+ years) are rare, but we get plenty of vintage pieces from the 1950s-1980s with great character and craftsmanship."
+    },
+    {
+      "input": "What's the difference between your pricing and retail stores?",
+      "output": "Our used furniture typically costs 60-80% less than comparable new retail pieces. A new leather sofa similar to ours might cost $1,500-2,000 retail, while ours is $450. You get quality construction and materials at a fraction of the cost, plus the environmental benefit of reusing furniture."
+    },
+    {
+      "input": "Can you help me coordinate colors and styles?",
+      "output": "I'd be happy to help with coordination! If you tell me your existing decor style and color scheme, I can suggest pieces that will work well together. I often help customers create cohesive looks by mixing different eras and styles that share common elements like wood tones or color families."
+    },
+    {
+      "input": "What should I know before buying used furniture?",
+      "output": "Great question! Check for structural soundness, test all moving parts, inspect for stains or odors, measure your space first, and ask about the item's history. Don't be afraid to negotiate respectfully, and remember that minor cosmetic issues can often be easily fixed. Focus on quality construction over perfect appearance."
+    },
+    {
+      "input": "How quickly do popular items sell?",
+      "output": "Popular items like quality leather furniture, solid wood pieces, and anything priced under $100 can sell within 24-48 hours. Mid-century modern and vintage pieces also move quickly. If you see something you love, I'd recommend acting fast or placing a hold deposit to secure it."
+    },
+    {
+      "input": "Do you have any ergonomic office chairs?",
+      "output": "The black leather office chair I mentioned has basic ergonomic features - adjustable height and lumbar support. It's not a high-end ergonomic chair, but it's comfortable for moderate use. I occasionally get higher-end office chairs from corporate liquidations - I can add you to my contact list for when those come in."
+    },
+    {
+      "input": "What's the condition rating system you use?",
+      "output": "I use a 1-10 scale: 9-10 is like-new condition, 7-8 is good condition with minor wear, 5-6 is fair condition with noticeable wear but fully functional, and below 5 we typically don't sell. I'm always honest about condition and encourage inspections before purchase."
+    },
+    {
+      "input": "Can you send me a weekly inventory update?",
+      "output": "Absolutely! I can add you to my weekly email list that shows new arrivals, price reductions, and special deals. I also do a quick social media post when really special pieces come in. What type of furniture are you most interested in so I can highlight relevant items?"
+    },
+    {
+      "input": "Do you have furniture suitable for outdoor use?",
+      "output": "Most of our inventory is indoor furniture, but we occasionally get patio sets, outdoor chairs, and weather-resistant pieces. Currently, we don't have outdoor furniture in stock, but I can keep you posted when we do. Summer months typically bring more outdoor pieces from people updating their patios."
+    },
+    {
+      "input": "What's your policy on damaged items during delivery?",
+      "output": "Our delivery team is very careful, but if damage occurs during our delivery service, we take full responsibility. We'll either repair the item at no cost, offer a partial refund, or replace it if possible. This is why we recommend our insured delivery service for valuable or delicate pieces."
+    },
+    {
+      "input": "Can I trade in furniture I already own?",
+      "output": "Yes, we do consider trade-ins! I'd need to evaluate your pieces first through photos, then potentially an in-person assessment. Trade-in value depends on condition and saleability. We can apply trade-in credit toward your purchase, though cash transactions are also available if you prefer to sell outright."
+    },
+    {
+      "input": "What's the oldest piece of furniture you currently have?",
+      "output": "The mahogany oval coffee table is our oldest current piece from the 1960s. It has beautiful craftsmanship typical of that era - solid wood construction with hand-finished details you don't see in modern furniture. It's been well-maintained and has developed a lovely patina over the decades."
+    },
+    {
+      "input": "Do you have any furniture from specific brands?",
+      "output": "We carry various brands as they come through estate sales and individual sellers. Currently, I have a few Lane pieces, some Ethan Allen items, and occasionally get West Elm or Pottery Barn pieces. I can keep track of specific brands you're interested in and notify you when they arrive."
+    },
+    {
+      "input": "How do you handle furniture that doesn't sell?",
+      "output": "Items that don't sell after 60-90 days usually get marked down 20-30%. If they still don't sell, we might donate them to local charities, offer them to regular customers at deep discounts, or occasionally sell them in bulk lots. We try to find good homes for everything rather than sending items to landfills."
+    },
+    {
+      "input": "What's the most unusual piece you've ever sold?",
+      "output": "One of the most unique pieces was a vintage barber chair from the 1940s - fully functional with original leather and chrome details! We've also had a church pew, an old-fashioned phone booth, and once a beautiful Victorian fainting couch. The variety keeps this business interesting and surprising."
+    },
+    {
+      "input": "Can you help me estimate moving costs for large items?",
+      "output": "For large items like sectionals or dining sets, professional movers typically charge $100-200 locally, depending on stairs and distance. Our delivery service is often more economical at $75-120. I can also recommend reliable local movers we work with regularly who give fair prices and handle furniture carefully."
+    },
+    {
+      "input": "Do you sell furniture accessories too?",
+      "output": "We focus mainly on furniture, but we do get decorative items occasionally - table lamps ($15-45), area rugs ($25-85), mirrors ($20-60), and sometimes artwork. These accessories often complement the furniture pieces and can help complete a room's look at budget-friendly prices."
+    },
+    {
+      "input": "What's your advice for first-time used furniture buyers?",
+      "output": "Start with a clear list of what you need and your budget. Measure your space first! Don't be afraid of minor cosmetic flaws - they often add character and can be easily fixed. Focus on structural integrity and comfort. Most importantly, buy pieces you truly love rather than settling for 'good enough.'"
+    },
+    {
+      "input": "How often do you get matching bedroom sets?",
+      "output": "Complete matching bedroom sets are fairly rare - maybe once or twice a month. More often, we get coordinating pieces that work well together even if not exactly matching. The current walnut set (bed, dresser, nightstands) is a great example. I can notify you when complete sets arrive if that's what you're specifically looking for."
+    },
+    {
+      "input": "What's the best time of year to buy used furniture?",
+      "output": "Spring and fall are typically best for selection, as people often move or redecorate during these seasons. January can be great for deals as people sell items after holiday purchases. Summer estate sales bring in lots of inventory. Honestly, great pieces can appear any time, so it's worth checking regularly!"
+    },
+    {
+      "input": "Do you have any leather furniture besides the sofa?",
+      "output": "Besides the brown leather sofa, we currently have that black leather office chair ($95). Leather pieces are popular and tend to sell quickly. I can add you to my contact list specifically for leather furniture notifications - we typically get leather recliners, chairs, and sofas regularly throughout the year."
+    },
+    {
+      "input": "Can you help me furnish a rental property?",
+      "output": "Absolutely! For rental properties, you want durable, neutral pieces that appeal to many tenants. I'd recommend our more affordable, sturdy items in classic styles and neutral colors. This approach maximizes your investment while providing tenants with quality furniture that photographs well for listings."
+    },
+    {
+      "input": "What happens if I find a defect after purchase?",
+      "output": "If you discover a defect that wasn't disclosed or visible during inspection, contact me within 24 hours. I'll work with you to find a fair solution - this might be a partial refund, repair arrangement, or in rare cases, a return. I stand behind accurate descriptions and want every customer to be satisfied with their purchase."
+    },
+    {
+      "input": "Do you ever get designer furniture?",
+      "output": "Yes, occasionally! We've had pieces from higher-end brands like Ethan Allen, Stickley, and Herman Miller. These usually come from estate sales or when people downsize from larger homes. Designer pieces are priced higher but still significantly less than retail. They tend to sell quickly due to their quality and reputation."
+    },
+    {
+      "input": "How do you authenticate vintage or antique pieces?",
+      "output": "I research maker's marks, construction methods, hardware styles, and wood types to help identify age and authenticity. For valuable pieces, I sometimes consult with appraisers or antique experts. I'm always honest about what I know and don't know about a piece's history and encourage buyers to do their own research for high-value items."
+    },
+    {
+      "input": "What's your cancellation policy for scheduled deliveries?",
+      "output": "I understand plans change! If you need to cancel or reschedule delivery, just give me at least 4 hours notice and there's no charge. Last-minute cancellations (under 4 hours) may incur a $25 fee to cover scheduling costs. I try to be flexible and work with customers when unexpected situations arise."
+    },
+    {
+      "input": "Can you recommend furniture for a home staging business?",
+      "output": "For staging, you want versatile, neutral pieces that photograph well and appeal to broad audiences. I'd recommend our lighter wood tones, neutral upholstery, and classic styles. Pieces like the oak dining table, neutral sectionals, and simple bedroom furniture work great for staging and are much more cost-effective than renting."
+    },
+    {
+      "input": "Do you provide assembly service for items that need it?",
+      "output": "For items that require reassembly after delivery (like bed frames or sectionals), I can recommend handymen who do furniture assembly at reasonable rates, typically $50-100 depending on complexity. Some of our delivery team members also do assembly work on weekends if you prefer to work with people familiar with the pieces."
+    },
+    {
+      "input": "What's the typical lifespan of used furniture you sell?",
+      "output": "Quality used furniture can last many more years with proper care. Solid wood pieces can last decades, while upholstered items depend on usage and maintenance. I focus on selling furniture that has plenty of life left. Most pieces I sell should give customers 5-15+ years of service, making them excellent value investments."
+    },
+    {
+      "input": "How do you handle pet-friendly furniture requests?",
+      "output": "For pet owners, I recommend leather (easy to clean), microfiber (resists pet hair), or tightly woven fabrics. I always disclose if previous owners had pets and check carefully for any lingering odors or damage. Many pet owners find used furniture practical since their pets might scratch or shed on it anyway!"
+    },
+    {
+      "input": "Can you help coordinate pickup times with other buyers?",
+      "output": "If you're buying multiple items or coordinating with friends/family members making separate purchases, I can definitely help schedule pickup times together. This works well for delivery too - combining orders can sometimes reduce individual delivery costs. Just let me know what coordination you need."
+    },
+    {
+      "input": "What's your recommendation for someone on a tight budget?",
+      "output": "Focus on the most essential pieces first and build your collection over time. Look for multi-functional items like storage ottomans or dining tables that can serve as desks. Don't overlook pieces that need minor cosmetic work - a $20 can of paint or new hardware can transform a piece significantly. Quality basics beat cheap disposable furniture every time."
+    },
+    {
+      "input": "Do you have any furniture with hidden storage?",
+      "output": "Yes! The rustic coffee table has lift-top storage, perfect for hiding remotes, blankets, or magazines. Storage ottomans appear regularly, and we sometimes get bed frames with built-in drawers. Hidden storage pieces are very popular and practical, especially for smaller living spaces. I can keep you posted when more arrive."
+    },
+    {
+      "input": "What should I do if furniture doesn't fit in my space?",
+      "output": "Always measure twice! I provide exact dimensions for this reason. If you're unsure, I recommend using painter's tape to outline the piece's footprint in your room before purchase. For items that are close calls, I'm happy to hold them with a deposit while you double-check measurements at home."
+    },
+    {
+      "input": "How do you source your furniture inventory?",
+      "output": "Our inventory comes from various sources: estate sales, individual sellers downsizing or moving, occasional business liquidations, and people who simply want to upgrade their furniture. Each piece has its own story, and this variety keeps our selection interesting and constantly changing."
+    },
+    {
+      "input": "Can you provide references from previous customers?",
+      "output": "I have many satisfied customers who'd be happy to share their experiences! I can provide references upon request, and we also have online reviews and testimonials. Most of our business comes from referrals and repeat customers, which speaks to the quality of both our furniture and service."
+    },
+    {
+      "input": "What's your expertise in furniture styles and periods?",
+      "output": "I've been in the used furniture business for several years and continuously learn about different styles, periods, and makers. I can identify most common furniture styles from mid-century modern to traditional, and I research pieces I'm unfamiliar with. I'm always honest about the limits of my knowledge and encourage customers to do additional research on valuable pieces."
+    },
+    {
+      "input": "Do you offer any warranties on used furniture?",
+      "output": "Used furniture is sold as-is, but I stand behind my descriptions and condition assessments. If I've missed something significant that affects functionality, I'll work to make it right. While I can't offer formal warranties like new furniture stores, I do guarantee honest representations and will address any issues that arise from inaccurate descriptions."
+    },
+    {
+      "input": "How do you determine if a piece is worth restoring?",
+      "output": "I look at the underlying quality, construction, and bones of a piece. Solid wood furniture with good joinery is usually worth cosmetic restoration. Brand reputation matters too - a scratched Ethan Allen piece might be worth refinishing while a particle board item isn't. I also consider current market demand for that style and type of furniture."
+    },
+    {
+      "input": "What's the most challenging aspect of selling used furniture?",
+      "output": "Honestly, managing expectations around condition and helping people see past minor cosmetic issues to appreciate quality construction. Every piece has a story and some wear, but that's part of the charm! I spend a lot of time educating customers about what to prioritize - structure and comfort over perfect appearance."
+    },
+    {
+      "input": "Can you help me plan a complete room makeover on a budget?",
+      "output": "Absolutely! Tell me about the room size, your style preferences, and budget range. I can help you prioritize purchases, suggest pieces that work well together, and plan a timeline for acquiring items as budget allows. Used furniture lets you get much more style and quality for your money than buying everything new at once."
+    },
+    {
+      "input": "What accent chairs do you have available?",
+      "output": "We have several accent chairs! A mid-century modern wingback in mustard yellow fabric ($145), a traditional burgundy leather armchair ($190), a contemporary swivel chair in gray ($110), and a vintage rocking chair with cane backing ($85). Each would add personality to a living room or bedroom."
+    },
+    {
+      "input": "Is the wingback chair comfortable for reading?",
+      "output": "The mustard yellow wingback is perfect for reading! It has a high back for head support, wide armrests for your book or coffee, and the seat depth is ideal for curling up. The cushioning is still firm and supportive. It's been a favorite among customers who want a cozy reading nook."
+    },
+    {
+      "input": "Do you have any bar stools or counter height seating?",
+      "output": "Yes! We have a set of 3 wooden bar stools with backs ($120 for the set), 2 metal counter-height stools with cushioned seats ($60 each), and a vintage bar stool with leather seat ($45). All are in good condition and perfect for kitchen islands or breakfast bars."
+    },
+    {
+      "input": "Can the wooden bar stools be sold separately?",
+      "output": "I prefer to keep the set of 3 wooden bar stools together since they match perfectly, but if you only need 2, I could consider splitting them. The price would be $45 each if sold separately. Sets tend to be more valuable together, but I understand not everyone needs all three pieces."
+    },
+    {
+      "input": "What entertainment centers or TV stands do you have?",
+      "output": "We have a solid oak entertainment center with glass doors and shelving ($180), a modern black TV console with drawers ($95), a corner TV stand in cherry finish ($75), and a rustic barn wood media console ($140). All accommodate different TV sizes and storage needs."
+    },
+    {
+      "input": "What size TV fits on the black console?",
+      "output": "The modern black TV console is 58 inches wide and can accommodate TVs up to 65 inches. It has a weight capacity of about 120 pounds, so it's suitable for most modern flat-screen TVs. The surface is smooth and stable, with cord management cutouts in the back."
+    },
+    {
+      "input": "Do you have any reclining chairs?",
+      "output": "We currently have a brown leather recliner in excellent condition ($280) and a fabric glider recliner perfect for nurseries ($160). The leather recliner has both footrest and back recline functions working smoothly, while the glider recliner rocks and reclines - great for new parents!"
+    },
+    {
+      "input": "Is the leather recliner a power recliner or manual?",
+      "output": "The brown leather recliner is manual operation - you use the lever on the side to engage the footrest and lean back to recline the back. It's actually preferred by many customers since there are no electrical components to break, and the mechanism is very smooth and reliable."
+    },
+    {
+      "input": "What kitchen tables do you have for small spaces?",
+      "output": "For small kitchens, we have a round pedestal table that seats 2-4 people ($95), a drop-leaf table that expands when needed ($120), a narrow console table perfect for breakfast ($65), and a bistro-style high table with 2 stools ($110). All maximize space efficiency."
+    },
+    {
+      "input": "Does the drop-leaf table come with chairs?",
+      "output": "The drop-leaf table doesn't come with chairs, but I have several options that would pair well with it. We have 4 wooden dining chairs for $25 each, some upholstered parsons chairs for $35 each, or those wooden bar stools could work if you prefer counter height seating."
+    },
+    {
+      "input": "What's the largest dining table you currently have?",
+      "output": "Our largest dining table is a beautiful mahogany dining table that seats 8-10 people comfortably. It's 96 inches long by 42 inches wide with two leaves that can be removed for smaller gatherings. It's a substantial piece at $580, but the craftsmanship is exceptional - solid wood construction from the 1970s."
+    },
+    {
+      "input": "Do you have any outdoor patio furniture right now?",
+      "output": "We just got in a 4-piece wicker patio set with cushions ($220), a teak outdoor dining table ($160), and two aluminum folding chairs ($30 each). The wicker set includes a loveseat, 2 chairs, and coffee table. All pieces are weather-resistant and ready for outdoor use."
+    },
+    {
+      "input": "What condition are the patio cushions in?",
+      "output": "The patio cushions are in good condition with minimal fading. They're a neutral beige color that hides dirt well, and the fabric is still water-resistant. There are no rips or significant stains. I always recommend storing cushions during winter months to extend their life even further."
+    },
+    {
+      "input": "Do you have any furniture with built-in lighting?",
+      "output": "Interesting question! We have a vintage china cabinet with interior lighting ($240), a desk with a built-in lamp fixture ($85), and occasionally get headboards with reading lights. The china cabinet lighting really showcases dishes beautifully, and the desk lamp is perfect for home office work."
+    },
+    {
+      "input": "Are there any pieces that need minor repairs?",
+      "output": "Honesty is important to us! The vintage rocking chair needs one loose spindle tightened ($5 fix), the oak entertainment center has a sticky drawer that needs adjustment, and one of the metal bar stools has a slightly wobbly leg. We price these items lower and can recommend local repair services."
+    },
+    {
+      "input": "What's your policy on items that need repairs?",
+      "output": "We're completely transparent about any needed repairs and price items accordingly. Minor issues like loose screws or sticky drawers are disclosed upfront. We can often recommend handymen for repairs, or if you're handy, many fixes are simple DIY projects. Major structural issues we typically don't sell."
+    },
+    {
+      "input": "Do you have any matching living room sets?",
+      "output": "We have a coordinating living room set - a sofa and loveseat in matching sage green fabric ($480 for both), and I have a coffee table and 2 end tables in the same wood finish that would complete the look (additional $180 for all 3 tables). Not exactly matching but very cohesive styling."
+    },
+    {
+      "input": "Can you describe the sage green living room set?",
+      "output": "The sage green set features a 3-seat sofa and 2-seat loveseat in a durable cotton blend fabric. The color is a soft, muted green that works with many decor styles. The frames are solid wood with firm cushioning. There's minor wear on the arm edges but overall very good condition. Very comfortable for daily use."
+    },
+    {
+      "input": "What's the oldest antique piece you've ever had?",
+      "output": "The oldest piece we've handled was a Victorian dining table from the 1880s - over 140 years old! It had incredible carved details and original finish. More commonly, we get pieces from the 1940s-1960s. These mid-century items are becoming quite collectible and represent excellent craftsmanship from that era."
+    },
+    {
+      "input": "How do you handle furniture pickup scheduling?",
+      "output": "I'm flexible with pickup scheduling! We're open Tuesday-Saturday 10 AM to 6 PM, and I can often accommodate early morning or evening pickups by appointment. For large items, I recommend bringing help and appropriate vehicle space. I'll have everything ready and accessible for efficient loading."
+    },
+    {
+      "input": "What tools or equipment should I bring for pickup?",
+      "output": "For most items, just bring muscle and a suitable vehicle! For heavy pieces, consider bringing dollies, moving straps, or furniture pads. I have some basic tools for quick disassembly if needed. For upholstered items, bring plastic sheeting if weather looks questionable. I'm always here to help load safely."
+    },
+    {
+      "input": "Do you have any furniture suitable for commercial use?",
+      "output": "We occasionally get commercial-grade pieces! That solid oak desk would work great in an office, the metal bar stools are restaurant-quality, and we sometimes get conference tables or reception furniture from business liquidations. Commercial pieces are built tougher but may have more wear from heavy use."
+    },
+    {
+      "input": "What's your experience with furniture restoration?",
+      "output": "I've learned a lot about restoration over the years! Simple fixes like tightening joints, touching up scratches, or replacing hardware can dramatically improve a piece's appearance and value. I can recommend good local refinishers for major work, and I often share DIY tips for customers who want to tackle small projects themselves."
+    },
+    {
+      "input": "Do you ever get custom or handmade furniture?",
+      "output": "Yes, occasionally! We've had beautiful handcrafted pieces - custom built-ins, artisan coffee tables, handmade quilts and wall hangings. These unique pieces often come from estate sales of local craftspeople. They're special because you can't find identical pieces anywhere else, and the craftsmanship is usually exceptional."
+    },
+    {
+      "input": "What's your advice for mixing different furniture styles?",
+      "output": "Mixing styles can create wonderful, personalized spaces! Look for common elements like wood tones, metal finishes, or color palettes to tie different pieces together. A modern sofa can work beautifully with vintage end tables if they share similar proportions or materials. Don't be afraid to experiment - eclectic can be elegant!"
+    },
+    {
+      "input": "How do you clean different types of furniture materials?",
+      "output": "Each material needs specific care. For wood, we use appropriate cleaners and conditioners. Leather gets cleaned and conditioned to prevent cracking. Fabric pieces are vacuumed and treated for stains. Metal pieces get polished. I can provide specific care instructions for any piece you purchase to help maintain its condition."
+    },
+    {
+      "input": "What's the most expensive piece you currently have?",
+      "output": "Currently, our highest-priced item is that mahogany dining table for 8-10 people at $580. It's priced higher due to its size, solid wood construction, and excellent condition. Quality large dining tables hold their value well, and this one would cost $2,000+ new. It's an investment piece that will last generations."
+    },
+    {
+      "input": "Do you have any furniture with interesting architectural details?",
+      "output": "Absolutely! The vintage china cabinet has beautiful curved glass and interior woodwork, the cherry armoire has hand-carved details on the doors, and that Victorian coffee table has intricate turned legs. Older furniture often features craftsmanship details that modern mass-produced pieces lack."
+    },
+    {
+      "input": "What happens if I buy something and it doesn't work in my space?",
+      "output": "Since all sales are final, I strongly encourage measuring your space and even using tape to outline furniture placement before purchasing. I'm happy to hold items with a deposit while you verify fit. If there's a genuine measurement error on my part, I'll work with you on a solution, but customer measurement mistakes are unfortunately final."
+    },
+    {
+      "input": "Can you help me understand furniture construction quality?",
+      "output": "Absolutely! Look for solid wood vs. veneer, dovetail joints in drawers, mortise and tenon construction, and quality hardware. Feel the weight - heavier usually means better materials. Check that doors and drawers operate smoothly. I'm happy to point out quality indicators on any piece you're considering."
+    },
+    {
+      "input": "What furniture do you recommend for a new apartment?",
+      "output": "For a new apartment, start with essentials: a comfortable sofa or sectional, dining table and chairs, bed frame, and basic storage. I'd recommend that gray sectional ($680), the oak dining set, and any of our bedroom pieces. Build your collection gradually rather than buying everything at once - it's more budget-friendly and lets you discover your style."
+    },
+    {
+      "input": "Do you have any convertible or multi-purpose furniture?",
+      "output": "Yes! That lift-top coffee table provides hidden storage, we have a daybed that works as both seating and sleeping, storage ottomans that serve as seats and storage, and dining tables that can double as desks. Multi-purpose pieces are great for smaller spaces and maximizing functionality."
+    },
+    {
+      "input": "What's your return policy if I find bed bugs or other pests?",
+      "output": "That's a serious concern we take very seriously. All upholstered items are thoroughly inspected and treated before sale. If you discover any pest issues within 48 hours of pickup, contact me immediately. We'll arrange pickup and full refund - no questions asked. Pest issues are the one exception to our no-return policy."
+    },
+    {
+      "input": "How do you sanitize furniture between owners?",
+      "output": "We have a thorough sanitization process. All surfaces are cleaned with appropriate disinfectants, upholstered items are professionally cleaned or steam treated, and everything is aired out before sale. Since COVID, we've been even more diligent about sanitization. Your health and safety are top priorities."
+    },
+    {
+      "input": "Do you have any furniture from estate sales?",
+      "output": "Much of our inventory comes from estate sales! These pieces often have interesting histories and are well-maintained since they were family treasures. Estate sale furniture tends to be higher quality since people kept pieces they loved for decades. The stories behind these pieces make them even more special."
+    },
+    {
+      "input": "What should I look for when inspecting used furniture?",
+      "output": "Check structural integrity first - sit on chairs, open all drawers and doors, look for loose joints or wobbles. Inspect for stains, odors, or pest damage. Test any mechanical parts like recliners or adjustable features. Don't worry about minor cosmetic issues if the bones are good - those can often be easily addressed."
+    },
+    {
+      "input": "Can you help me coordinate delivery with my work schedule?",
+      "output": "Absolutely! I understand work schedules can be tricky. We can arrange evening or weekend deliveries for an additional $25 fee. I can also coordinate with building management for apartment deliveries or leave items with trusted neighbors if you arrange it. Communication is key to successful delivery timing."
+    },
+    {
+      "input": "What's the best way to transport fragile items myself?",
+      "output": "For fragile pieces like glass tables or delicate wood items, bring plenty of blankets, bubble wrap, or furniture pads. Take apart what you can safely disassemble. Secure everything so it won't slide around. For glass tops, consider having a glass company transport them - it's often worth the extra cost for peace of mind."
+    },
+    {
+      "input": "Do you have any furniture with original tags or paperwork?",
+      "output": "Occasionally we get pieces with original purchase receipts, care instructions, or even warranties that might still be valid. That platform bed frame actually came with its original assembly instructions. Having original paperwork can help with identification, care, and sometimes adds to the piece's provenance and value."
+    },
+    {
+      "input": "What's your policy on group purchases or bulk buying?",
+      "output": "I love working with customers furnishing entire apartments or offices! For purchases over $1,000, I typically offer 10-15% discounts. I can also coordinate timing so all pieces are ready for single delivery. Group purchases help both of us - you save money and I move inventory efficiently."
+    },
+    {
+      "input": "How do you determine the original retail value of pieces?",
+      "output": "I research similar items online, check manufacturer websites when possible, and use my experience with various brands and styles. Sometimes customers provide original receipts. For unique or vintage pieces, I might consult price guides or appraisers. I try to be conservative in my estimates to ensure fair pricing."
+    },
+    {
+      "input": "What's the strangest request you've had from a customer?",
+      "output": "One customer asked if I could find furniture that had belonged to famous people! Another wanted only furniture made in years ending in '7' for numerology reasons. I've had requests for furniture that matches pet coloring and someone who only wanted pieces from non-smoking homes of vegetarians. The diversity of requests keeps this job interesting!"
+    },
+    {
+      "input": "Do you have any furniture that would work in a tiny house?",
+      "output": "Great question! For tiny houses, I'd recommend that drop-leaf table (saves space when folded), storage ottomans, the daybed (dual purpose), wall-mounted shelving, and compact seating. Multi-functional and space-saving pieces are essential. I can keep an eye out for specifically compact items if you're building or living tiny."
+    },
+    {
+      "input": "What's your advice for staging a home with used furniture?",
+      "output": "Used furniture is perfect for staging because it's cost-effective and you're not worried about damage from showings. Choose neutral colors, classic styles, and appropriately sized pieces for each room. Mix textures and heights for visual interest. The goal is helping buyers envision themselves in the space without breaking your budget."
+    },
+    {
+      "input": "How do you handle price negotiations?",
+      "output": "I'm reasonable with negotiations, especially for multiple items, cash purchases, or quick pickup. My prices are already fair, but I understand everyone has budgets. I'm more flexible on pieces that have been here longer or if you're a repeat customer. Just be respectful and realistic with your offers."
+    },
+    {
+      "input": "What furniture would you recommend for a therapy or counseling office?",
+      "output": "For professional settings, comfort and durability are key. I'd suggest that burgundy leather armchair for the therapist, comfortable seating for clients like the wingback chair, and perhaps a simple side table. Neutral colors and classic styles work best to avoid distracting from the therapeutic environment."
+    },
+    {
+      "input": "Do you have any eco-friendly or sustainable furniture options?",
+      "output": "All used furniture is inherently eco-friendly since we're extending its life and keeping it out of landfills! We particularly focus on solid wood pieces that can be refinished rather than replaced. Some of our items are made from reclaimed or sustainable materials originally. Buying used is one of the most sustainable furniture choices you can make."
+    },
+    {
+      "input": "What's the most challenging furniture delivery you've handled?",
+      "output": "We once delivered a large armoire to a third-floor apartment with a narrow staircase - had to partially disassemble it on the truck! Another time we delivered a sectional that barely fit through French doors. These challenges are part of the business, and we always figure out solutions. Good communication beforehand prevents most issues."
+    },
+    {
+      "input": "Can you help me identify the style period of furniture I already own?",
+      "output": "I'd be happy to help! If you can send photos showing construction details, hardware, and overall design, I can often identify style periods and makers. Look for manufacturer marks, construction methods, and design elements. This knowledge helps when you're looking for complementary pieces or trying to determine value."
+    },
+    {
+      "input": "What's your biggest furniture find or steal deal?",
+      "output": "My best find was a mid-century modern dining set at an estate sale - paid $200 and it was worth over $1,500! I sold it fairly but still made a good profit. These discoveries make the business exciting. Sometimes people don't realize what they have, and sometimes I get lucky with timing and competition."
+    },
+    {
+      "input": "Do you have furniture suitable for Airbnb properties?",
+      "output": "Absolutely! For Airbnb, you want durable, attractive, and easy-to-clean pieces. That leather sectional, solid wood dining pieces, and simple bedroom furniture would work perfectly. Used furniture makes sense for rentals since guests aren't always careful, and you get quality pieces at investment-friendly prices."
+    },
+    {
+      "input": "What's your process for evaluating furniture condition objectively?",
+      "output": "I use a systematic approach: structural integrity first, then functionality, cosmetic condition, and finally overall appeal. I check all moving parts, look for damage or wear patterns, and consider how much life the piece has left. I try to be honest and consistent so customers know what to expect from my condition ratings."
+    },
+    {
+      "input": "Can you recommend furniture for someone with mobility challenges?",
+      "output": "Absolutely! Look for chairs with arms for easier standing, appropriate seat heights, and clear pathways around furniture. That recliner might be perfect for someone with joint issues, and tables with rounded edges are safer. I can help identify pieces that balance comfort, safety, and accessibility needs."
+    },
+    {
+      "input": "What's the most common mistake people make when buying used furniture?",
+      "output": "Not measuring their space properly! I can't count how many times customers have called saying their purchase doesn't fit. Always measure doorways, stairwells, and the final space. Also, people sometimes focus too much on minor cosmetic flaws instead of appreciating good bones and quality construction that will last years."
+    },
+    {
+      "input": "Do you have any furniture with interesting provenance or history?",
+      "output": "Some pieces come with wonderful stories! That mahogany coffee table belonged to a local doctor for 40 years, hosted countless family gatherings. The cherry armoire was a wedding gift that stored three generations of family linens. These histories make pieces more meaningful than just buying something new from a store."
+    },
+    {
+      "input": "What's your advice for someone furnishing their first home?",
+      "output": "Start with basics and build gradually. Invest in a good mattress and comfortable seating first - these affect your daily comfort most. Buy quality pieces you love rather than settling for 'good enough.' Used furniture lets you afford better quality than buying new, and you can upgrade pieces over time as your style develops and budget allows."
+    },
+    {
+      "input": "How do you stay current with furniture trends and values?",
+      "output": "I follow furniture markets, attend estate sales regularly, and research online marketplaces to understand current values and trends. I also learn from customers who collect certain styles or periods. The used furniture market reflects broader design trends, though quality classic pieces never really go out of style."
+    },
+    {
+      "input": "What's your policy on furniture exchanges or trades?",
+      "output": "I consider furniture trades case by case. If you have something I can sell and want something from my inventory, we can work out an exchange with any difference paid in cash. Trade values are based on condition and marketability. It's a great way to update your furniture without spending much additional money."
+    },
+    {
+      "input": "Can you help me plan furniture layout for my room?",
+      "output": "I'm happy to offer basic layout suggestions! If you can share room dimensions and describe your lifestyle needs, I can suggest furniture arrangements that work well. Consider traffic flow, natural light, and focal points. Sometimes seeing furniture in your space differently can make a room feel much larger and more functional."
+    },
+    {
+      "input": "What safety considerations should I keep in mind with used furniture?",
+      "output": "Check for structural stability, sharp edges or protruding hardware, and ensure all mechanical parts work properly. For families with small children, avoid pieces with lead paint (pre-1978), check for small parts that could be choking hazards, and ensure heavy pieces can be properly secured to walls if needed."
+    },
+    {
+      "input": "Do you have any furniture that's been professionally refinished?",
+      "output": "Occasionally! Sometimes we get pieces that previous owners had professionally restored, or we invest in refinishing special pieces ourselves. That oak dining table was recently refinished and looks beautiful. Professional refinishing can dramatically improve appearance and value, making older pieces look nearly new again."
+    },
+    {
+      "input": "What's the best season for finding specific types of furniture?",
+      "output": "Spring brings lots of dining and outdoor furniture as people prepare for entertaining. Fall often brings bedroom and living room pieces as people redecorate. Winter can be great for deals as fewer people are shopping. Summer estate sales bring everything! Really though, great pieces can appear any time of year."
+    },
+    {
+      "input": "How do you handle furniture that has sentimental value for sellers?",
+      "output": "I understand how hard it can be to part with meaningful pieces. I always share a bit about new owners when possible - knowing their grandmother's table will be loved by another family helps sellers feel good about their decision. I try to honor the stories and memories attached to each piece."
+    },
+    {
+      "input": "What's your recommendation for mixing new and used furniture?",
+      "output": "Mixing new and used creates interesting, personalized spaces! Use new pieces for items you use most (like mattresses) and used for character pieces like dining tables or accent chairs. The contrast can be beautiful - a new sofa with vintage side tables, or an antique desk with a modern chair. It's all about balance and personal style."
+    },
+    {
+    "input": "I was wondering about how long does delivery take.",
+    "output": "Standard delivery typically takes 3-5 business days. For larger furniture items, delivery may take 5-7 business days. You can track your order status in real-time through the 'Orders' section of the app."
+  },
+  {
+    "input": "Do you know how long does delivery take?",
+    "output": "Standard delivery typically takes 3-5 business days. For larger furniture items, delivery may take 5-7 business days. You can track your order status in real-time through the 'Orders' section of the app."
+  },
+  {
+    "input": "Can you tell me how long does delivery take?",
+    "output": "Standard delivery typically takes 3-5 business days. For larger furniture items, delivery may take 5-7 business days. You can track your order status in real-time through the 'Orders' section of the app."
+  },
+  {
+    "input": "How do I how do i fix a broken cabinet door hinge?",
+    "output": "For a broken cabinet door hinge: 1) Remove the old hinge, 2) Install a new one, 3) Adjust for proper alignment. We offer hinge replacement services starting at $19.99 per hinge, including installation."
+  },
+  {
+    "input": "Can you tell me how do i fix a broken cabinet door hinge?",
+    "output": "For a broken cabinet door hinge: 1) Remove the old hinge, 2) Install a new one, 3) Adjust for proper alignment. We offer hinge replacement services starting at $19.99 per hinge, including installation."
+  },
+  {
+    "input": "I was wondering about how do i fix a broken cabinet door hinge.",
+    "output": "For a broken cabinet door hinge: 1) Remove the old hinge, 2) Install a new one, 3) Adjust for proper alignment. We offer hinge replacement services starting at $19.99 per hinge, including installation."
+  },
+  {
+    "input": "How do I what happens if i find a defect after purchase?",
+    "output": "If you discover a defect that wasn't disclosed or visible during inspection, contact me within 24 hours. I'll work with you to find a fair solution - this might be a partial refund, repair arrangement, or in rare cases, a return. I stand behind accurate descriptions and want every customer to be satisfied with their purchase."
+  },
+  {
+    "input": "Do you know what happens if i find a defect after purchase?",
+    "output": "If you discover a defect that wasn't disclosed or visible during inspection, contact me within 24 hours. I'll work with you to find a fair solution - this might be a partial refund, repair arrangement, or in rare cases, a return. I stand behind accurate descriptions and want every customer to be satisfied with their purchase."
+  },
+  {
+    "input": "Could you explain what happens if i find a defect after purchase?",
+    "output": "If you discover a defect that wasn't disclosed or visible during inspection, contact me within 24 hours. I'll work with you to find a fair solution - this might be a partial refund, repair arrangement, or in rare cases, a return. I stand behind accurate descriptions and want every customer to be satisfied with their purchase."
+  },
+  {
+    "input": "Can you tell me how do i style a coffee table?",
+    "output": "To style a coffee table, use the rule of threes: something tall (like a vase), something horizontal (like a book), and something organic (like a plant). Layer items of varying heights, include personal touches, and leave some empty space to avoid a cluttered look."
+  },
+  {
+    "input": "Could you explain how do i style a coffee table?",
+    "output": "To style a coffee table, use the rule of threes: something tall (like a vase), something horizontal (like a book), and something organic (like a plant). Layer items of varying heights, include personal touches, and leave some empty space to avoid a cluttered look."
+  },
+  {
+    "input": "What's the deal with how do i style a coffee table?",
+    "output": "To style a coffee table, use the rule of threes: something tall (like a vase), something horizontal (like a book), and something organic (like a plant). Layer items of varying heights, include personal touches, and leave some empty space to avoid a cluttered look."
+  },
+  {
+    "input": "How do I need ideas?",
+    "output": "I'd love to help with ideas! What room are you furnishing - living room, bedroom, or somewhere else?"
+  },
+  {
+    "input": "I was wondering about need ideas.",
+    "output": "I'd love to help with ideas! What room are you furnishing - living room, bedroom, or somewhere else?"
+  },
+  {
+    "input": "Do you know need ideas?",
+    "output": "I'd love to help with ideas! What room are you furnishing - living room, bedroom, or somewhere else?"
+  },
+  {
+    "input": "Could you explain can you suggest furniture for a home recording studio?",
+    "output": "For a home recording studio, use ergonomic chairs, adjustable desks, and sound-absorbing panels. Include storage for equipment and cable management solutions. Our 'Studio Pro' collection is tailored for musicians and producers."
+  },
+  {
+    "input": "How do I can you suggest furniture for a home recording studio?",
+    "output": "For a home recording studio, use ergonomic chairs, adjustable desks, and sound-absorbing panels. Include storage for equipment and cable management solutions. Our 'Studio Pro' collection is tailored for musicians and producers."
+  },
+  {
+    "input": "I was wondering about can you suggest furniture for a home recording studio.",
+    "output": "For a home recording studio, use ergonomic chairs, adjustable desks, and sound-absorbing panels. Include storage for equipment and cable management solutions. Our 'Studio Pro' collection is tailored for musicians and producers."
+  },
+  {
+    "input": "Could you explain search how?",
+    "output": "Just type what you're looking for in the search bar - like 'blue sofa' or 'wooden dining table'."
+  },
+  {
+    "input": "What's the deal with search how?",
+    "output": "Just type what you're looking for in the search bar - like 'blue sofa' or 'wooden dining table'."
+  },
+  {
+    "input": "How do I search how?",
+    "output": "Just type what you're looking for in the search bar - like 'blue sofa' or 'wooden dining table'."
+  },
+  {
+    "input": "I was wondering about what's the best furniture for ramadan gatherings.",
+    "output": "For Ramadan gatherings, I recommend: 1) Large dining tables that can accommodate family meals, 2) Comfortable seating for guests, 3) Storage solutions for extra dishes, 4) Versatile furniture that can be rearranged, 5) Traditional Egyptian-style pieces. Our 'Ramadan Collection' includes everything you need for hosting family gatherings."
+  },
+  {
+    "input": "How do I what's the best furniture for ramadan gatherings?",
+    "output": "For Ramadan gatherings, I recommend: 1) Large dining tables that can accommodate family meals, 2) Comfortable seating for guests, 3) Storage solutions for extra dishes, 4) Versatile furniture that can be rearranged, 5) Traditional Egyptian-style pieces. Our 'Ramadan Collection' includes everything you need for hosting family gatherings."
+  },
+  {
+    "input": "What's the deal with what's the best furniture for ramadan gatherings?",
+    "output": "For Ramadan gatherings, I recommend: 1) Large dining tables that can accommodate family meals, 2) Comfortable seating for guests, 3) Storage solutions for extra dishes, 4) Versatile furniture that can be rearranged, 5) Traditional Egyptian-style pieces. Our 'Ramadan Collection' includes everything you need for hosting family gatherings."
+  },
+  {
+    "input": "Do you know yes, i had a queen size. but i'm on a tight budget now because of the flood?",
+    "output": "I understand completely. We actually have some special disaster relief discounts, and I can also show you our budget-friendly 'Quick Start' bedroom package. It includes a queen bed frame, mattress, and one nightstand for 5000 EGP. Would that help?"
+  },
+  {
+    "input": "Can you tell me yes, i had a queen size. but i'm on a tight budget now because of the flood?",
+    "output": "I understand completely. We actually have some special disaster relief discounts, and I can also show you our budget-friendly 'Quick Start' bedroom package. It includes a queen bed frame, mattress, and one nightstand for 5000 EGP. Would that help?"
+  },
+  {
+    "input": "I was wondering about yes, i had a queen size. but i'm on a tight budget now because of the flood.",
+    "output": "I understand completely. We actually have some special disaster relief discounts, and I can also show you our budget-friendly 'Quick Start' bedroom package. It includes a queen bed frame, mattress, and one nightstand for 5000 EGP. Would that help?"
+  },
+  {
+    "input": "Can you tell me what is your return policy?",
+    "output": "We offer a 30-day return policy for most items. If you're not satisfied with your purchase, you can return it in its original condition for a full refund. Some items may have different return periods, which will be clearly stated on the product page."
+  },
+  {
+    "input": "How do I what is your return policy?",
+    "output": "We offer a 30-day return policy for most items. If you're not satisfied with your purchase, you can return it in its original condition for a full refund. Some items may have different return periods, which will be clearly stated on the product page."
+  },
+  {
+    "input": "Do you know what is your return policy?",
+    "output": "We offer a 30-day return policy for most items. If you're not satisfied with your purchase, you can return it in its original condition for a full refund. Some items may have different return periods, which will be clearly stated on the product page."
+  },
+  {
+    "input": "How do I i'd like a combination with some storage?",
+    "output": "Great choice! We have several modular sets that combine seating and storage. Would you prefer rattan, metal, or wood materials? Also, would you like cushions and accessories to complete the look?"
+  },
+  {
+    "input": "I was wondering about i'd like a combination with some storage.",
+    "output": "Great choice! We have several modular sets that combine seating and storage. Would you prefer rattan, metal, or wood materials? Also, would you like cushions and accessories to complete the look?"
+  },
+  {
+    "input": "Could you explain i'd like a combination with some storage?",
+    "output": "Great choice! We have several modular sets that combine seating and storage. Would you prefer rattan, metal, or wood materials? Also, would you like cushions and accessories to complete the look?"
+  },
+  {
+    "input": "Do you know i'm furnishing an airbnb but i live abroad?",
+    "output": "We can help manage your Airbnb furnishing remotely! We offer: 1) Virtual consultation, 2) Complete furnishing packages, 3) Installation and setup photos, 4) Maintenance service plans. Would you like to see our Airbnb host packages?"
+  },
+  {
+    "input": "How do I i'm furnishing an airbnb but i live abroad?",
+    "output": "We can help manage your Airbnb furnishing remotely! We offer: 1) Virtual consultation, 2) Complete furnishing packages, 3) Installation and setup photos, 4) Maintenance service plans. Would you like to see our Airbnb host packages?"
+  },
+  {
+    "input": "Can you tell me i'm furnishing an airbnb but i live abroad?",
+    "output": "We can help manage your Airbnb furnishing remotely! We offer: 1) Virtual consultation, 2) Complete furnishing packages, 3) Installation and setup photos, 4) Maintenance service plans. Would you like to see our Airbnb host packages?"
+  },
+  {
+    "input": "What's the deal with what furniture works best in egyptian student housing?",
+    "output": "For Egyptian student housing: 1) Compact, multifunctional pieces, 2) Durable materials that can handle frequent use, 3) Easy-to-move furniture, 4) Study-friendly designs, 5) Storage solutions for limited space. Our 'Student Living' collection is perfect for Egyptian student accommodations."
+  },
+  {
+    "input": "Could you explain what furniture works best in egyptian student housing?",
+    "output": "For Egyptian student housing: 1) Compact, multifunctional pieces, 2) Durable materials that can handle frequent use, 3) Easy-to-move furniture, 4) Study-friendly designs, 5) Storage solutions for limited space. Our 'Student Living' collection is perfect for Egyptian student accommodations."
+  },
+  {
+    "input": "Do you know what furniture works best in egyptian student housing?",
+    "output": "For Egyptian student housing: 1) Compact, multifunctional pieces, 2) Durable materials that can handle frequent use, 3) Easy-to-move furniture, 4) Study-friendly designs, 5) Storage solutions for limited space. Our 'Student Living' collection is perfect for Egyptian student accommodations."
+  },
+  {
+    "input": "Could you explain the app keeps crashing?",
+    "output": "I'm sorry you're having trouble. Let's fix this: 1) First, try updating to the latest version, 2) If that doesn't work, clear the app cache, 3) If it still crashes, we can try reinstalling. Which step would you like me to guide you through first?"
+  },
+  {
+    "input": "What's the deal with the app keeps crashing?",
+    "output": "I'm sorry you're having trouble. Let's fix this: 1) First, try updating to the latest version, 2) If that doesn't work, clear the app cache, 3) If it still crashes, we can try reinstalling. Which step would you like me to guide you through first?"
+  },
+  {
+    "input": "How do I the app keeps crashing?",
+    "output": "I'm sorry you're having trouble. Let's fix this: 1) First, try updating to the latest version, 2) If that doesn't work, clear the app cache, 3) If it still crashes, we can try reinstalling. Which step would you like me to guide you through first?"
+  },
+  {
+    "input": "Can you tell me i forgot my password?",
+    "output": "No problem! To reset your password, go to the login screen and tap 'Forgot Password'. Enter your email address, and we'll send you a link to create a new password. Follow the instructions in the email to complete the process."
+  },
+  {
+    "input": "What's the deal with i forgot my password?",
+    "output": "No problem! To reset your password, go to the login screen and tap 'Forgot Password'. Enter your email address, and we'll send you a link to create a new password. Follow the instructions in the email to complete the process."
+  },
+  {
+    "input": "Do you know i forgot my password?",
+    "output": "No problem! To reset your password, go to the login screen and tap 'Forgot Password'. Enter your email address, and we'll send you a link to create a new password. Follow the instructions in the email to complete the process."
+  },
+  {
+    "input": "I was wondering about how do i fix a broken table leg joint.",
+    "output": "For a broken table leg joint: 1) Assess the damage, 2) Use appropriate adhesive, 3) Reinforce if needed. We offer joint repair services starting at $59, including professional installation."
+  },
+  {
+    "input": "How do I how do i fix a broken table leg joint?",
+    "output": "For a broken table leg joint: 1) Assess the damage, 2) Use appropriate adhesive, 3) Reinforce if needed. We offer joint repair services starting at $59, including professional installation."
+  },
+  {
+    "input": "What's the deal with how do i fix a broken table leg joint?",
+    "output": "For a broken table leg joint: 1) Assess the damage, 2) Use appropriate adhesive, 3) Reinforce if needed. We offer joint repair services starting at $59, including professional installation."
+  },
+  {
+    "input": "How do I how do i increase my sales on furniswap?",
+    "output": "To boost sales on FurniSwap: 1) Take high-quality photos, 2) Write detailed descriptions, 3) Price competitively, 4) Respond quickly to messages, 5) Offer bundle deals, 6) Share your listings on social media."
+  },
+  {
+    "input": "Could you explain how do i increase my sales on furniswap?",
+    "output": "To boost sales on FurniSwap: 1) Take high-quality photos, 2) Write detailed descriptions, 3) Price competitively, 4) Respond quickly to messages, 5) Offer bundle deals, 6) Share your listings on social media."
+  },
+  {
+    "input": "Do you know how do i increase my sales on furniswap?",
+    "output": "To boost sales on FurniSwap: 1) Take high-quality photos, 2) Write detailed descriptions, 3) Price competitively, 4) Respond quickly to messages, 5) Offer bundle deals, 6) Share your listings on social media."
+  },
+  {
+    "input": "I was wondering about i'm going blind and need to prepare my house.",
+    "output": "We can help you create a safe, navigable space. Our solutions include: 1) Tactile-marked furniture, 2) Safety-oriented layouts, 3) Audio-described pieces, 4) Texture-based navigation systems. Would you like to work with our accessibility expert?"
+  },
+  {
+    "input": "What's the deal with i'm going blind and need to prepare my house?",
+    "output": "We can help you create a safe, navigable space. Our solutions include: 1) Tactile-marked furniture, 2) Safety-oriented layouts, 3) Audio-described pieces, 4) Texture-based navigation systems. Would you like to work with our accessibility expert?"
+  },
+  {
+    "input": "How do I i'm going blind and need to prepare my house?",
+    "output": "We can help you create a safe, navigable space. Our solutions include: 1) Tactile-marked furniture, 2) Safety-oriented layouts, 3) Audio-described pieces, 4) Texture-based navigation systems. Would you like to work with our accessibility expert?"
+  },
+  {
+    "input": "Could you explain which sofa color hides koshary stains?",
+    "output": "Dark gray or navy! Our 'StainShield' fabric repels tomato sauce like magic (tested by Egyptian moms)."
+  },
+  {
+    "input": "Do you know which sofa color hides koshary stains?",
+    "output": "Dark gray or navy! Our 'StainShield' fabric repels tomato sauce like magic (tested by Egyptian moms)."
+  },
+  {
+    "input": "I was wondering about which sofa color hides koshary stains.",
+    "output": "Dark gray or navy! Our 'StainShield' fabric repels tomato sauce like magic (tested by Egyptian moms)."
+  },
+  {
+    "input": "Can you tell me yes cancel it, i don't want it anymore?",
+    "output": "I've cancelled order #45678 and initiated your refund. You'll receive a cancellation confirmation email shortly, and the refund should appear in your account within 3-5 business days. Is there anything else you need help with?"
+  },
+  {
+    "input": "What's the deal with yes cancel it, i don't want it anymore?",
+    "output": "I've cancelled order #45678 and initiated your refund. You'll receive a cancellation confirmation email shortly, and the refund should appear in your account within 3-5 business days. Is there anything else you need help with?"
+  },
+  {
+    "input": "Do you know yes cancel it, i don't want it anymore?",
+    "output": "I've cancelled order #45678 and initiated your refund. You'll receive a cancellation confirmation email shortly, and the refund should appear in your account within 3-5 business days. Is there anything else you need help with?"
+  },
+  {
+    "input": "Can you tell me my mother passed away and i inherited her house?",
+    "output": "I'm very sorry for your loss. When you're ready, we can help: 1) Blend your mother's special pieces with new furniture, 2) Create memory corners, 3) Suggest respectful ways to update spaces, 4) Offer storage solutions while you decide. Would you like to talk with our sensitive transitions specialist?"
+  },
+  {
+    "input": "How do I my mother passed away and i inherited her house?",
+    "output": "I'm very sorry for your loss. When you're ready, we can help: 1) Blend your mother's special pieces with new furniture, 2) Create memory corners, 3) Suggest respectful ways to update spaces, 4) Offer storage solutions while you decide. Would you like to talk with our sensitive transitions specialist?"
+  },
+  {
+    "input": "I was wondering about my mother passed away and i inherited her house.",
+    "output": "I'm very sorry for your loss. When you're ready, we can help: 1) Blend your mother's special pieces with new furniture, 2) Create memory corners, 3) Suggest respectful ways to update spaces, 4) Offer storage solutions while you decide. Would you like to talk with our sensitive transitions specialist?"
+  },
+  {
+    "input": "How do I i need a comfortable reading chair?",
+    "output": "For comfortable reading, I recommend our armchairs with high backs, wide seats, and supportive cushioning. Popular options include our club chairs, wingbacks, and recliners. Would you prefer leather, fabric, or performance material for your reading chair?"
+  },
+  {
+    "input": "I was wondering about i need a comfortable reading chair.",
+    "output": "For comfortable reading, I recommend our armchairs with high backs, wide seats, and supportive cushioning. Popular options include our club chairs, wingbacks, and recliners. Would you prefer leather, fabric, or performance material for your reading chair?"
+  },
+  {
+    "input": "Can you tell me i need a comfortable reading chair?",
+    "output": "For comfortable reading, I recommend our armchairs with high backs, wide seats, and supportive cushioning. Popular options include our club chairs, wingbacks, and recliners. Would you prefer leather, fabric, or performance material for your reading chair?"
+  },
+  {
+    "input": "I was wondering about i need kid-friendly furniture.",
+    "output": "For kid-friendly spaces, look for rounded corners, sturdy construction, and stain-resistant fabrics. Our modular sofas with washable covers, ottomans with hidden storage, and durable coffee tables with soft edges are perfect for homes with children."
+  },
+  {
+    "input": "Could you explain i need kid-friendly furniture?",
+    "output": "For kid-friendly spaces, look for rounded corners, sturdy construction, and stain-resistant fabrics. Our modular sofas with washable covers, ottomans with hidden storage, and durable coffee tables with soft edges are perfect for homes with children."
+  },
+  {
+    "input": "Do you know i need kid-friendly furniture?",
+    "output": "For kid-friendly spaces, look for rounded corners, sturdy construction, and stain-resistant fabrics. Our modular sofas with washable covers, ottomans with hidden storage, and durable coffee tables with soft edges are perfect for homes with children."
+  },
+  {
+    "input": "Do you know any anti-theft furniture for cafes?",
+    "output": "Bolt-down tables and chained chairs available. Popular in high-traffic areas."
+  },
+  {
+    "input": "I was wondering about any anti-theft furniture for cafes.",
+    "output": "Bolt-down tables and chained chairs available. Popular in high-traffic areas."
+  },
+  {
+    "input": "Could you explain any anti-theft furniture for cafes?",
+    "output": "Bolt-down tables and chained chairs available. Popular in high-traffic areas."
+  },
+  {
+    "input": "What's the deal with i'm looking for sage green furniture?",
+    "output": "Sage green is trending this season! We have sage green sofas, accent chairs, ottomans, and even bedroom furniture. This muted green tone works beautifully with natural wood, cream, taupe, and gold accents. Would you like me to show you our sage green collection or specific pieces?"
+  },
+  {
+    "input": "How do I i'm looking for sage green furniture?",
+    "output": "Sage green is trending this season! We have sage green sofas, accent chairs, ottomans, and even bedroom furniture. This muted green tone works beautifully with natural wood, cream, taupe, and gold accents. Would you like me to show you our sage green collection or specific pieces?"
+  },
+  {
+    "input": "Could you explain i'm looking for sage green furniture?",
+    "output": "Sage green is trending this season! We have sage green sofas, accent chairs, ottomans, and even bedroom furniture. This muted green tone works beautifully with natural wood, cream, taupe, and gold accents. Would you like me to show you our sage green collection or specific pieces?"
+  },
+  {
+    "input": "How do I how often should i replace my mattress?",
+    "output": "Most experts recommend replacing your mattress every 7-10 years. However, if you notice sagging, lumps, increased allergies, or wake up with pain, it might be time for a replacement sooner. Quality mattresses with proper care can sometimes last longer."
+  },
+  {
+    "input": "Could you explain how often should i replace my mattress?",
+    "output": "Most experts recommend replacing your mattress every 7-10 years. However, if you notice sagging, lumps, increased allergies, or wake up with pain, it might be time for a replacement sooner. Quality mattresses with proper care can sometimes last longer."
+  },
+  {
+    "input": "I was wondering about how often should i replace my mattress.",
+    "output": "Most experts recommend replacing your mattress every 7-10 years. However, if you notice sagging, lumps, increased allergies, or wake up with pain, it might be time for a replacement sooner. Quality mattresses with proper care can sometimes last longer."
+  },
+  {
+    "input": "Could you explain what's the best way to protect furniture from spills?",
+    "output": "To protect furniture from spills: 1) Use coasters and placemats, 2) Apply stain-resistant treatment, 3) Clean spills immediately. Our 'SpillGuard' treatment ($19.99) provides protection against common household spills."
+  },
+  {
+    "input": "Do you know what's the best way to protect furniture from spills?",
+    "output": "To protect furniture from spills: 1) Use coasters and placemats, 2) Apply stain-resistant treatment, 3) Clean spills immediately. Our 'SpillGuard' treatment ($19.99) provides protection against common household spills."
+  },
+  {
+    "input": "How do I what's the best way to protect furniture from spills?",
+    "output": "To protect furniture from spills: 1) Use coasters and placemats, 2) Apply stain-resistant treatment, 3) Clean spills immediately. Our 'SpillGuard' treatment ($19.99) provides protection against common household spills."
+  },
+  {
+    "input": "What's the deal with yes, i definitely need furniture that can do double duty?",
+    "output": "Perfect! Here are our most popular studio solutions: 1) A 3-seater sofa bed with hidden storage (5,500 EGP), 2) A wall-mounted dining table that folds down when needed (2,500 EGP), 3) A murphy bed with integrated desk and shelving (7,500 EGP). Would you like to see how these pieces can work together in your space?"
+  },
+  {
+    "input": "I was wondering about yes, i definitely need furniture that can do double duty.",
+    "output": "Perfect! Here are our most popular studio solutions: 1) A 3-seater sofa bed with hidden storage (5,500 EGP), 2) A wall-mounted dining table that folds down when needed (2,500 EGP), 3) A murphy bed with integrated desk and shelving (7,500 EGP). Would you like to see how these pieces can work together in your space?"
+  },
+  {
+    "input": "Could you explain yes, i definitely need furniture that can do double duty?",
+    "output": "Perfect! Here are our most popular studio solutions: 1) A 3-seater sofa bed with hidden storage (5,500 EGP), 2) A wall-mounted dining table that folds down when needed (2,500 EGP), 3) A murphy bed with integrated desk and shelving (7,500 EGP). Would you like to see how these pieces can work together in your space?"
+  },
+  {
+    "input": "Could you explain what's the weight capacity?",
+    "output": "This sofa has a maximum weight capacity of 300kg, distributed across the frame. The cushions are made from high-density foam with a density rating of 40kg/m\u00b3. Would you like to know more about the materials used?"
+  },
+  {
+    "input": "What's the deal with what's the weight capacity?",
+    "output": "This sofa has a maximum weight capacity of 300kg, distributed across the frame. The cushions are made from high-density foam with a density rating of 40kg/m\u00b3. Would you like to know more about the materials used?"
+  },
+  {
+    "input": "I was wondering about what's the weight capacity.",
+    "output": "This sofa has a maximum weight capacity of 300kg, distributed across the frame. The cushions are made from high-density foam with a density rating of 40kg/m\u00b3. Would you like to know more about the materials used?"
+  },
+  {
+    "input": "Do you know does furniswap have seasonal sales?",
+    "output": "Yes! FurniSwap hosts regular seasonal sales and special events. Follow us on social media and subscribe to our newsletter to stay updated on the latest deals and promotions."
+  },
+  {
+    "input": "Could you explain does furniswap have seasonal sales?",
+    "output": "Yes! FurniSwap hosts regular seasonal sales and special events. Follow us on social media and subscribe to our newsletter to stay updated on the latest deals and promotions."
+  },
+  {
+    "input": "Can you tell me does furniswap have seasonal sales?",
+    "output": "Yes! FurniSwap hosts regular seasonal sales and special events. Follow us on social media and subscribe to our newsletter to stay updated on the latest deals and promotions."
+  },
+  {
+    "input": "I was wondering about hey there.",
+    "output": "Hey there! Ready to find some amazing furniture? I'm here to help you with recommendations, styling advice, or any questions you might have."
+  },
+  {
+    "input": "Do you know hey there?",
+    "output": "Hey there! Ready to find some amazing furniture? I'm here to help you with recommendations, styling advice, or any questions you might have."
+  },
+  {
+    "input": "How do I hey there?",
+    "output": "Hey there! Ready to find some amazing furniture? I'm here to help you with recommendations, styling advice, or any questions you might have."
+  },
+  {
+    "input": "Do you know what furniture do you recommend for a new apartment?",
+    "output": "For a new apartment, start with essentials: a comfortable sofa or sectional, dining table and chairs, bed frame, and basic storage. I'd recommend that gray sectional ($680), the oak dining set, and any of our bedroom pieces. Build your collection gradually rather than buying everything at once - it's more budget-friendly and lets you discover your style."
+  },
+  {
+    "input": "Can you tell me what furniture do you recommend for a new apartment?",
+    "output": "For a new apartment, start with essentials: a comfortable sofa or sectional, dining table and chairs, bed frame, and basic storage. I'd recommend that gray sectional ($680), the oak dining set, and any of our bedroom pieces. Build your collection gradually rather than buying everything at once - it's more budget-friendly and lets you discover your style."
+  },
+  {
+    "input": "Could you explain what furniture do you recommend for a new apartment?",
+    "output": "For a new apartment, start with essentials: a comfortable sofa or sectional, dining table and chairs, bed frame, and basic storage. I'd recommend that gray sectional ($680), the oak dining set, and any of our bedroom pieces. Build your collection gradually rather than buying everything at once - it's more budget-friendly and lets you discover your style."
+  },
+  {
+    "input": "What's the deal with how do i mix different furniture styles?",
+    "output": "To mix furniture styles successfully, choose one dominant style and incorporate elements from other styles as accents. Maintain a consistent color palette and look for common design elements like similar wood tones or metal finishes. Our 'Style Mixer' tool can help you visualize different combinations."
+  },
+  {
+    "input": "How do I how do i mix different furniture styles?",
+    "output": "To mix furniture styles successfully, choose one dominant style and incorporate elements from other styles as accents. Maintain a consistent color palette and look for common design elements like similar wood tones or metal finishes. Our 'Style Mixer' tool can help you visualize different combinations."
+  },
+  {
+    "input": "Could you explain how do i mix different furniture styles?",
+    "output": "To mix furniture styles successfully, choose one dominant style and incorporate elements from other styles as accents. Maintain a consistent color palette and look for common design elements like similar wood tones or metal finishes. Our 'Style Mixer' tool can help you visualize different combinations."
+  },
+  {
+    "input": "Do you know what's the best way to protect furniture from insects?",
+    "output": "To protect furniture from insects: 1) Use insect-repellent treatment, 2) Keep furniture clean, 3) Store properly. Our 'InsectGuard' treatment ($24.99) provides protection against common furniture pests."
+  },
+  {
+    "input": "Can you tell me what's the best way to protect furniture from insects?",
+    "output": "To protect furniture from insects: 1) Use insect-repellent treatment, 2) Keep furniture clean, 3) Store properly. Our 'InsectGuard' treatment ($24.99) provides protection against common furniture pests."
+  },
+  {
+    "input": "Could you explain what's the best way to protect furniture from insects?",
+    "output": "To protect furniture from insects: 1) Use insect-repellent treatment, 2) Keep furniture clean, 3) Store properly. Our 'InsectGuard' treatment ($24.99) provides protection against common furniture pests."
+  },
+  {
+    "input": "Do you know what's a good bed for a guest room?",
+    "output": "For a guest room, I recommend our 'Guest Ready' bed collection. These beds are designed for comfort and style, with options for storage and easy assembly. Consider a daybed or a trundle bed for added versatility."
+  },
+  {
+    "input": "Could you explain what's a good bed for a guest room?",
+    "output": "For a guest room, I recommend our 'Guest Ready' bed collection. These beds are designed for comfort and style, with options for storage and easy assembly. Consider a daybed or a trundle bed for added versatility."
+  },
+  {
+    "input": "How do I what's a good bed for a guest room?",
+    "output": "For a guest room, I recommend our 'Guest Ready' bed collection. These beds are designed for comfort and style, with options for storage and easy assembly. Consider a daybed or a trundle bed for added versatility."
+  },
+  {
+    "input": "I was wondering about see you soon.",
+    "output": "See you later! Thanks for stopping by. When you return, I'll be here to help you find the perfect furniture for your home."
+  },
+  {
+    "input": "How do I see you soon?",
+    "output": "See you later! Thanks for stopping by. When you return, I'll be here to help you find the perfect furniture for your home."
+  },
+  {
+    "input": "What's the deal with see you soon?",
+    "output": "See you later! Thanks for stopping by. When you return, I'll be here to help you find the perfect furniture for your home."
+  },
+  {
+    "input": "I was wondering about ahmed said i would get 20% off!.",
+    "output": "Thank you for providing that information. While I verify this with Ahmed, I'll go ahead and apply a 20% discount to your order as promised. I'm also noting this in your account to prevent future confusion. Would you like to proceed with the purchase now?"
+  },
+  {
+    "input": "How do I ahmed said i would get 20% off!?",
+    "output": "Thank you for providing that information. While I verify this with Ahmed, I'll go ahead and apply a 20% discount to your order as promised. I'm also noting this in your account to prevent future confusion. Would you like to proceed with the purchase now?"
+  },
+  {
+    "input": "Do you know ahmed said i would get 20% off!?",
+    "output": "Thank you for providing that information. While I verify this with Ahmed, I'll go ahead and apply a 20% discount to your order as promised. I'm also noting this in your account to prevent future confusion. Would you like to proceed with the purchase now?"
+  },
+  {
+    "input": "Do you know what's the best furniture arrangement for a rectangular dining room?",
+    "output": "In rectangular dining rooms, position a matching rectangular table parallel to the longer walls with at least 36 inches of clearance on all sides for chairs and movement. Place a buffet or sideboard along one long wall for serving and storage. For larger rooms, consider a larger table or adding a small seating area in one corner."
+  },
+  {
+    "input": "Can you tell me what's the best furniture arrangement for a rectangular dining room?",
+    "output": "In rectangular dining rooms, position a matching rectangular table parallel to the longer walls with at least 36 inches of clearance on all sides for chairs and movement. Place a buffet or sideboard along one long wall for serving and storage. For larger rooms, consider a larger table or adding a small seating area in one corner."
+  },
+  {
+    "input": "Could you explain what's the best furniture arrangement for a rectangular dining room?",
+    "output": "In rectangular dining rooms, position a matching rectangular table parallel to the longer walls with at least 36 inches of clearance on all sides for chairs and movement. Place a buffet or sideboard along one long wall for serving and storage. For larger rooms, consider a larger table or adding a small seating area in one corner."
+  },
+  {
+    "input": "I was wondering about how do i pick a rug for the hallway.",
+    "output": "Choose a runner that's long enough for the space and has a non-slip backing. Patterns can help hide dirt and wear."
+  },
+  {
+    "input": "Could you explain how do i pick a rug for the hallway?",
+    "output": "Choose a runner that's long enough for the space and has a non-slip backing. Patterns can help hide dirt and wear."
+  },
+  {
+    "input": "What's the deal with how do i pick a rug for the hallway?",
+    "output": "Choose a runner that's long enough for the space and has a non-slip backing. Patterns can help hide dirt and wear."
+  },
+  {
+    "input": "I was wondering about can i use a kitchen island as a dining table.",
+    "output": "Yes! Just add some stools and make sure there's enough legroom. It's a great way to save space in small kitchens."
+  },
+  {
+    "input": "Can you tell me can i use a kitchen island as a dining table?",
+    "output": "Yes! Just add some stools and make sure there's enough legroom. It's a great way to save space in small kitchens."
+  },
+  {
+    "input": "Do you know can i use a kitchen island as a dining table?",
+    "output": "Yes! Just add some stools and make sure there's enough legroom. It's a great way to save space in small kitchens."
+  },
+  {
+    "input": "I was wondering about what's the best way to organize a small closet.",
+    "output": "Use slim hangers, add shelves or bins, and store off-season clothes elsewhere. Hooks on the door can help, too."
+  },
+  {
+    "input": "How do I what's the best way to organize a small closet?",
+    "output": "Use slim hangers, add shelves or bins, and store off-season clothes elsewhere. Hooks on the door can help, too."
+  },
+  {
+    "input": "Can you tell me what's the best way to organize a small closet?",
+    "output": "Use slim hangers, add shelves or bins, and store off-season clothes elsewhere. Hooks on the door can help, too."
+  },
+  {
+    "input": "Can you tell me what's a good way to organize kids' toys?",
+    "output": "Use bins, baskets, and low shelves so kids can help put things away. Labeling bins with pictures or words makes cleanup easier."
+  },
+  {
+    "input": "How do I what's a good way to organize kids' toys?",
+    "output": "Use bins, baskets, and low shelves so kids can help put things away. Labeling bins with pictures or words makes cleanup easier."
+  },
+  {
+    "input": "What's the deal with what's a good way to organize kids' toys?",
+    "output": "Use bins, baskets, and low shelves so kids can help put things away. Labeling bins with pictures or words makes cleanup easier."
+  },
+  {
+    "input": "How do I what's the most challenging furniture delivery you've handled?",
+    "output": "We once delivered a large armoire to a third-floor apartment with a narrow staircase - had to partially disassemble it on the truck! Another time we delivered a sectional that barely fit through French doors. These challenges are part of the business, and we always figure out solutions. Good communication beforehand prevents most issues."
+  },
+  {
+    "input": "I was wondering about what's the most challenging furniture delivery you've handled.",
+    "output": "We once delivered a large armoire to a third-floor apartment with a narrow staircase - had to partially disassemble it on the truck! Another time we delivered a sectional that barely fit through French doors. These challenges are part of the business, and we always figure out solutions. Good communication beforehand prevents most issues."
+  },
+  {
+    "input": "Could you explain what's the most challenging furniture delivery you've handled?",
+    "output": "We once delivered a large armoire to a third-floor apartment with a narrow staircase - had to partially disassemble it on the truck! Another time we delivered a sectional that barely fit through French doors. These challenges are part of the business, and we always figure out solutions. Good communication beforehand prevents most issues."
+  },
+  {
+    "input": "Can you tell me how do i get featured on furniswap?",
+    "output": "To get featured on FurniSwap, create high-quality listings with clear photos and detailed descriptions. Our team regularly selects the best listings to feature on our homepage and in our newsletter."
+  },
+  {
+    "input": "I was wondering about how do i get featured on furniswap.",
+    "output": "To get featured on FurniSwap, create high-quality listings with clear photos and detailed descriptions. Our team regularly selects the best listings to feature on our homepage and in our newsletter."
+  },
+  {
+    "input": "What's the deal with how do i get featured on furniswap?",
+    "output": "To get featured on FurniSwap, create high-quality listings with clear photos and detailed descriptions. Our team regularly selects the best listings to feature on our homepage and in our newsletter."
+  },
+  {
+    "input": "Can you tell me can i save things i like?",
+    "output": "Yes, tap the heart icon to save items to your favorites."
+  },
+  {
+    "input": "What's the deal with can i save things i like?",
+    "output": "Yes, tap the heart icon to save items to your favorites."
+  },
+  {
+    "input": "How do I can i save things i like?",
+    "output": "Yes, tap the heart icon to save items to your favorites."
+  },
+  {
+    "input": "Do you know what's furniswap's dispute resolution process?",
+    "output": "If you have a dispute, FurniSwap's support team will mediate between buyer and seller. We'll review all evidence and work to find a fair resolution for both parties."
+  },
+  {
+    "input": "Could you explain what's furniswap's dispute resolution process?",
+    "output": "If you have a dispute, FurniSwap's support team will mediate between buyer and seller. We'll review all evidence and work to find a fair resolution for both parties."
+  },
+  {
+    "input": "How do I what's furniswap's dispute resolution process?",
+    "output": "If you have a dispute, FurniSwap's support team will mediate between buyer and seller. We'll review all evidence and work to find a fair resolution for both parties."
+  },
+  {
+    "input": "What's the deal with i run a small art gallery from my home?",
+    "output": "For a home gallery, consider our: 1) Modular display units, 2) Adjustable lighting furniture, 3) Convertible space dividers, 4) Storage solutions for art pieces. Would you like to see our art display furniture collection?"
+  },
+  {
+    "input": "Could you explain i run a small art gallery from my home?",
+    "output": "For a home gallery, consider our: 1) Modular display units, 2) Adjustable lighting furniture, 3) Convertible space dividers, 4) Storage solutions for art pieces. Would you like to see our art display furniture collection?"
+  },
+  {
+    "input": "I was wondering about i run a small art gallery from my home.",
+    "output": "For a home gallery, consider our: 1) Modular display units, 2) Adjustable lighting furniture, 3) Convertible space dividers, 4) Storage solutions for art pieces. Would you like to see our art display furniture collection?"
+  },
+  {
+    "input": "I was wondering about what's a good coffee table for a modern living room.",
+    "output": "For a modern living room, I recommend our 'Urban Edge' coffee tables. They feature clean lines, minimal designs, and often include storage options. The glass-top models with metal frames are particularly popular for their sleek appearance and versatility."
+  },
+  {
+    "input": "Can you tell me what's a good coffee table for a modern living room?",
+    "output": "For a modern living room, I recommend our 'Urban Edge' coffee tables. They feature clean lines, minimal designs, and often include storage options. The glass-top models with metal frames are particularly popular for their sleek appearance and versatility."
+  },
+  {
+    "input": "What's the deal with what's a good coffee table for a modern living room?",
+    "output": "For a modern living room, I recommend our 'Urban Edge' coffee tables. They feature clean lines, minimal designs, and often include storage options. The glass-top models with metal frames are particularly popular for their sleek appearance and versatility."
+  },
+  {
+    "input": "Can you tell me what's the price range for your coffee tables?",
+    "output": "Our coffee tables range from $129 for simple designs to $3,200 for artisanal pieces. Most popular coffee tables fall between $299-$799. The price depends on materials (glass, wood, marble), design complexity, and size. Would you like recommendations in a specific price range?"
+  },
+  {
+    "input": "How do I what's the price range for your coffee tables?",
+    "output": "Our coffee tables range from $129 for simple designs to $3,200 for artisanal pieces. Most popular coffee tables fall between $299-$799. The price depends on materials (glass, wood, marble), design complexity, and size. Would you like recommendations in a specific price range?"
+  },
+  {
+    "input": "Could you explain what's the price range for your coffee tables?",
+    "output": "Our coffee tables range from $129 for simple designs to $3,200 for artisanal pieces. Most popular coffee tables fall between $299-$799. The price depends on materials (glass, wood, marble), design complexity, and size. Would you like recommendations in a specific price range?"
+  },
+  {
+    "input": "How do I i'd like a solid wood table?",
+    "output": "Excellent choice! For solid wood, I recommend our 'Classic Oak' or 'Modern Walnut' series. Both are durable and beautiful. The 'Classic Oak' has a traditional look with carved details (4500 EGP), while the 'Modern Walnut' features clean lines and a contemporary design (5200 EGP). Which style appeals to you more?"
+  },
+  {
+    "input": "What's the deal with i'd like a solid wood table?",
+    "output": "Excellent choice! For solid wood, I recommend our 'Classic Oak' or 'Modern Walnut' series. Both are durable and beautiful. The 'Classic Oak' has a traditional look with carved details (4500 EGP), while the 'Modern Walnut' features clean lines and a contemporary design (5200 EGP). Which style appeals to you more?"
+  },
+  {
+    "input": "Could you explain i'd like a solid wood table?",
+    "output": "Excellent choice! For solid wood, I recommend our 'Classic Oak' or 'Modern Walnut' series. Both are durable and beautiful. The 'Classic Oak' has a traditional look with carved details (4500 EGP), while the 'Modern Walnut' features clean lines and a contemporary design (5200 EGP). Which style appeals to you more?"
+  },
+  {
+      "input": "Does FurniSwap have any desks for small apartments? Mine's like 200 sq ft...",
+      "output": "FurniSwap's 'WallFloat' desk is perfect! Mounts to your wall and folds down to 4 inches deep. Psst... if you list your old desk with us, you get 20% off!"
+    },
+    {
+      "input": "Wait really? How does the swapping part work?",
+      "output": "With FurniSwap, just snap pics of furniture you want to trade in. We'll give you credit toward new pieces - like turning your old desk into this space-saver!"
+    },
+    {
+      "input": "Looking for a cat-proof couch. FurniSwap got anything that survives claws?",
+      "output": "Our 'ClawProof' sofas are FurniSwap exclusives! Performance fabric + free scratch tape. Trade in your scratched-up couch for extra credit toward this beast."
+    },
+    {
+      "input": "What's the cheapest queen bed on FurniSwap? My budget's tight.",
+      "output": "The 'SimpleFrame' starts at $199 (or $159 if you swap any old frame!). FurniSwap Pro Tip: Check our 'Swaps' section tonight - people list barely-used frames daily."
+    },
+    {
+      "input": "Need a balcony table that won't fly away. Does FurniSwap do outdoor stuff?",
+      "output": "FurniSwap's 'StormProof' table weighs 45lbs empty (fill legs with sand for more). Bonus: We'll pick up your old patio set when we deliver - free removal!"
+    },
+    {
+      "input": "Is FurniSwap's 'AirFlow' gaming chair worth it? Last one made me sweat buckets...",
+      "output": "FurniSwap users rated it 4.9/5 for breathability! Try it for 30 days - if you don't love it, we'll help you swap it for something else. No sweat!"
+    },
+    {
+      "input": "How often does FurniSwap get new swap listings?",
+      "output": "New swaps hit the app every 15 minutes! Enable notifications for your saved searches (like 'queen beds' or 'sectionals') - our users call it 'FurniDrop season'!"
+    },
+    {
+      "input": "My FurniSwap delivery is tomorrow but I haven't cleared my old couch... help?",
+      "output": "No stress! Reply STOP to your delivery SMS and we'll send our 'Swap Squad' to remove it first. Standard FurniSwap service - no extra charge."
+    },
+    {
+      "input": "Does FurniSwap assemble furniture too?",
+      "output": "Yep! Add 'White Glove Setup' at checkout ($49) or earn it free by referring 3 friends. Our crew will assemble, remove packaging, AND take swap items!"
+    },
+    {
+      "input": "FurniSwap's 'FakeAdult' bookcase - can the doors handle kids slamming them?",
+      "output": "Parents swear by it! Soft-close hinges are FurniSwap-tested against 5yo tantrums. Trade in your battered shelf for an extra 10% credit too."
+    },
+    {
+      "input": "I need a new desk but my apartment is super tiny. Any ideas?",
+      "output": "The 'WallFloat' desk mounts directly to your wall and folds down to just 4 inches deep when not in use. Comes with built-in cable management for that 'I swear I'm organized' look!"
+    },
+    {
+      "input": "Hmm, I like that but what if I need to move it later?",
+      "output": "No worries! The mounting system uses removable anchors - leaves only tiny holes. We include a patch kit for your security deposit too."
+    },
+    {
+      "input": "Looking for a couch that'll survive my 3 cats. Like, seriously survive.",
+      "output": "Meet the 'ClawProof': Tight-weave performance fabric tested against actual cat colonies (we volunteered at a shelter). Comes with free scratch tape for training... your humans."
+    },
+    {
+      "input": "Lol nice. Does it come in colors that don't show hair?",
+      "output": "Our 'FurCamouflage' collection has heathered grays and blues that hide 90% of fur. Bonus: the fabric repels treats crumbs too."
+    },
+    {
+      "input": "What's your cheapest queen bed frame?",
+      "output": "The 'SimpleFrame' starts at $199 - steel slats, no squeaks, and assembles in 15 minutes. We stripped all the fancy stuff to hit this price."
+    },
+    {
+      "input": "15 mins? Last one took me 3 hours...",
+      "output": "We include an actual wrench (not that weird Allen key nonsense) and numbered parts. There's even a hotline where our grandma will walk you through it."
+    },
+    {
+      "input": "Need a table for my balcony that won't fly away in wind?",
+      "output": "The 'StormProof' weighs 45lbs empty but has hollow legs you fill with sand/water for extra stability. Also makes a great impromptu anchor."
+    },
+    {
+      "input": "That sounds heavy though...",
+      "output": "It's on wheels! Locking casters let you move it easily, then drop it in place. Wheels tuck up invisibly when locked."
+    },
+    {
+      "input": "Chair for gaming that won't make me sweat?",
+      "output": "The 'AirFlow' has a mesh back with 37% more ventilation than standard gaming chairs. Comes with a clip-on fan mount because we know you'll forget to hydrate."
+    },
+    {
+      "input": "My last chair started squeaking after 2 months...",
+      "output": "We use marine-grade bearings in all moving parts. Tested to 50,000 recline cycles (that's 8 years of rage-quitting). 5-year squeak-free guarantee."
+    },
+    {
+      "input": "Bookcase that looks nice but hides my messy shelves?",
+      "output": "The 'FakeAdult' has frosted glass doors with decorative etching to blur contents. Top shelf has glass display for the 3 books you want people to see."
+    },
+    {
+      "input": "Perfect! Wait... how many shelves?",
+      "output": "5 adjustable shelves behind doors, plus that show-off top shelf. Pro tip: put the boring books at eye level and fun stuff up top - reverse psychology!"
     }
+  
   ]
 }
+
+
+    
